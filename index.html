@@ -1,0 +1,308 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>French A2 Flashcards</title>
+<style>
+:root{--bg:#f6f4ef;--card:#fff;--ink:#1d1d24;--muted:#6b6b78;--line:#e2dfd6;--accent:#2f5bd3;--good:#1f9d61;--bad:#d2493b;--back:#eef2ff}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#15161b;--card:#20222a;--ink:#ecebf2;--muted:#9a9aa8;--line:#33353f;--accent:#7d9bff;--good:#3ccf8a;--bad:#ff7466;--back:#262b3d}}
+:root[data-theme="dark"]{--bg:#15161b;--card:#20222a;--ink:#ecebf2;--muted:#9a9aa8;--line:#33353f;--accent:#7d9bff;--good:#3ccf8a;--bad:#ff7466;--back:#262b3d}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.45 system-ui,-apple-system,Segoe UI,Roboto,sans-serif}
+.wrap{max-width:720px;margin:0 auto;padding:20px 16px 60px}
+header{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap}
+h1{font-size:1.4rem;margin:0}
+h1 span{color:var(--accent)}
+.bar{display:flex;flex-wrap:wrap;gap:8px;margin:16px 0}
+select,button,input[type=text]{font:inherit;color:var(--ink);background:var(--card);border:1px solid var(--line);border-radius:10px;padding:8px 12px}
+button{cursor:pointer}
+button:hover{border-color:var(--accent)}
+button.on{background:var(--accent);color:#fff;border-color:var(--accent)}
+.progress{height:8px;background:var(--line);border-radius:99px;overflow:hidden;margin:6px 0 4px}
+.progress div{height:100%;background:var(--good);width:0;transition:width .3s}
+.stats{display:flex;justify-content:space-between;color:var(--muted);font-size:.9rem}
+.scene{perspective:1200px;margin:18px 0;cursor:pointer;user-select:none}
+.card{position:relative;height:300px;transition:transform .5s;transform-style:preserve-3d}
+.card.flipped{transform:rotateY(180deg)}
+.face{position:absolute;inset:0;backface-visibility:hidden;border:1px solid var(--line);border-radius:18px;background:var(--card);display:flex;flex-direction:column;align-items:center;justify-content:center;padding:24px;text-align:center;box-shadow:0 6px 24px rgba(0,0,0,.06)}
+.face.back{transform:rotateY(180deg);background:var(--back)}
+.word{font-size:2.4rem;font-weight:700;line-height:1.15}
+.sub{color:var(--muted);margin-top:8px}
+.ex{margin-top:16px;font-style:italic;max-width:520px}
+.ex small{display:block;font-style:normal;color:var(--muted);margin-top:4px}
+.tag{position:absolute;top:12px;left:14px;font-size:.75rem;color:var(--muted);text-transform:uppercase;letter-spacing:.06em}
+.star{position:absolute;top:8px;right:10px;font-size:1.4rem;background:none;border:none;color:var(--muted);padding:4px}
+.star.on{color:#e0a400}
+.speak{position:absolute;bottom:10px;right:12px;background:none;border:none;font-size:1.3rem;padding:4px}
+.hint{color:var(--muted);font-size:.85rem;text-align:center}
+.actions{display:grid;grid-template-columns:1fr 1fr 1fr 1fr;gap:8px}
+.actions button{padding:12px 8px}
+.again{color:var(--bad)}.know{color:var(--good)}
+.quiz{display:flex;gap:8px;margin-top:10px}
+.quiz input{flex:1}
+.feedback{min-height:1.4em;text-align:center;margin-top:6px;font-weight:600}
+.done{text-align:center;padding:40px 10px}
+.list{margin-top:28px;border-top:1px solid var(--line);padding-top:12px}
+.list summary{cursor:pointer;color:var(--muted)}
+.list table{width:100%;border-collapse:collapse;margin-top:10px;font-size:.92rem}
+.list td{padding:6px 4px;border-bottom:1px solid var(--line)}
+.dot{display:inline-block;width:8px;height:8px;border-radius:50%;background:var(--line)}
+.dot.k{background:var(--good)}.dot.l{background:var(--bad)}
+kbd{border:1px solid var(--line);border-bottom-width:2px;border-radius:5px;padding:0 5px;font-size:.8rem}
+@media (max-width:480px){.word{font-size:1.9rem}.card{height:280px}.actions{grid-template-columns:1fr 1fr}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+  <h1>🇫🇷 French <span>A2</span> · 100 words</h1>
+  <button id="theme" title="Toggle theme">🌓</button>
+</header>
+
+<div class="bar">
+  <select id="cat"></select>
+  <select id="filter">
+    <option value="all">All cards</option>
+    <option value="unknown">Not known yet</option>
+    <option value="learning">Marked "again"</option>
+    <option value="starred">⭐ Starred</option>
+  </select>
+  <button id="dir" title="Switch direction (D)">FR → EN</button>
+  <button id="shuffle" title="Shuffle (S)">🔀 Shuffle</button>
+  <button id="quizBtn" title="Typing mode (T)">⌨️ Type answer</button>
+  <button id="autoSpeak" title="Auto-pronounce French">🔊 Auto</button>
+  <button id="reset" title="Reset progress">↺ Reset</button>
+</div>
+
+<div class="progress"><div id="pbar"></div></div>
+<div class="stats"><span id="pos"></span><span id="known"></span></div>
+
+<div id="main">
+  <div class="scene" id="scene">
+    <div class="card" id="card">
+      <div class="face front"><span class="tag" id="tagF"></span><button class="star" id="starF">★</button><div class="word" id="front"></div><div class="sub" id="frontSub"></div><button class="speak" id="speakF" title="Pronounce (P)">🔊</button></div>
+      <div class="face back"><span class="tag" id="tagB"></span><div class="word" id="backW"></div><div class="sub" id="backSub"></div><div class="ex" id="ex"></div><button class="speak" id="speakB" title="Pronounce (P)">🔊</button></div>
+    </div>
+  </div>
+  <div class="quiz" id="quiz" hidden><input type="text" id="answer" placeholder="Type the answer and press Enter" autocomplete="off" autocapitalize="off" spellcheck="false"><button id="check">Check</button></div>
+  <div class="feedback" id="fb"></div>
+  <div class="actions">
+    <button id="prev">← Prev</button>
+    <button class="again" id="again">✗ Again</button>
+    <button class="know" id="know">✓ Know it</button>
+    <button id="next">Next →</button>
+  </div>
+  <p class="hint"><kbd>Space</kbd> flip · <kbd>←</kbd><kbd>→</kbd> navigate · <kbd>1</kbd> again · <kbd>2</kbd> know · <kbd>P</kbd> speak · <kbd>F</kbd> star</p>
+</div>
+
+<details class="list"><summary>📋 See the full word list</summary><table id="table"></table></details>
+</div>
+
+<script>
+const W=[
+// [french, english, category, example FR, example EN]
+["être","to be","Verbs","Je suis content aujourd'hui.","I am happy today."],
+["avoir","to have","Verbs","J'ai deux frères.","I have two brothers."],
+["faire","to do / to make","Verbs","Qu'est-ce que tu fais ce soir ?","What are you doing tonight?"],
+["aller","to go","Verbs","Nous allons au cinéma.","We are going to the cinema."],
+["pouvoir","to be able to / can","Verbs","Tu peux m'aider ?","Can you help me?"],
+["vouloir","to want","Verbs","Je veux un café, s'il vous plaît.","I want a coffee, please."],
+["devoir","to have to / must","Verbs","Je dois partir maintenant.","I must leave now."],
+["dire","to say / to tell","Verbs","Il dit la vérité.","He is telling the truth."],
+["voir","to see","Verbs","On se voit demain ?","See each other tomorrow?"],
+["savoir","to know (a fact)","Verbs","Je ne sais pas.","I don't know."],
+["prendre","to take","Verbs","Je prends le bus tous les jours.","I take the bus every day."],
+["venir","to come","Verbs","Tu viens avec nous ?","Are you coming with us?"],
+["mettre","to put / to put on","Verbs","Mets ton manteau, il fait froid.","Put on your coat, it's cold."],
+["parler","to speak","Verbs","Elle parle trois langues.","She speaks three languages."],
+["aimer","to like / to love","Verbs","J'aime beaucoup la musique.","I really like music."],
+["manger","to eat","Verbs","On mange à midi.","We eat at noon."],
+["boire","to drink","Verbs","Il boit de l'eau.","He drinks water."],
+["acheter","to buy","Verbs","J'ai acheté du pain.","I bought some bread."],
+["habiter","to live (somewhere)","Verbs","J'habite à Paris.","I live in Paris."],
+["travailler","to work","Verbs","Mon père travaille dans un bureau.","My dad works in an office."],
+["partir","to leave","Verbs","Le train part à huit heures.","The train leaves at eight."],
+["sortir","to go out","Verbs","On sort ce week-end ?","Shall we go out this weekend?"],
+["attendre","to wait (for)","Verbs","J'attends mon ami.","I'm waiting for my friend."],
+["comprendre","to understand","Verbs","Je ne comprends pas la question.","I don't understand the question."],
+["connaître","to know (person/place)","Verbs","Tu connais Marie ?","Do you know Marie?"],
+["penser","to think","Verbs","Je pense que c'est vrai.","I think it's true."],
+["trouver","to find","Verbs","Je ne trouve pas mes clés.","I can't find my keys."],
+["donner","to give","Verbs","Donne-moi le livre.","Give me the book."],
+["demander","to ask","Verbs","Je vais demander au professeur.","I'm going to ask the teacher."],
+["arriver","to arrive / to happen","Verbs","Qu'est-ce qui est arrivé ?","What happened?"],
+["le temps","time / weather","Nouns","Il fait beau temps.","The weather is nice."],
+["le jour","day","Nouns","Il y a sept jours dans une semaine.","There are seven days in a week."],
+["l'an / l'année","year","Nouns","Bonne année !","Happy New Year!"],
+["la semaine","week","Nouns","La semaine prochaine, je suis en vacances.","Next week I'm on holiday."],
+["l'heure (f)","hour / time (o'clock)","Nouns","Quelle heure est-il ?","What time is it?"],
+["la maison","house / home","Nouns","Je rentre à la maison.","I'm going home."],
+["la famille","family","Nouns","Ma famille est grande.","My family is big."],
+["l'ami / l'amie","friend","Nouns","C'est mon meilleur ami.","He's my best friend."],
+["l'enfant","child","Nouns","Ils ont trois enfants.","They have three children."],
+["la ville","town / city","Nouns","Lyon est une belle ville.","Lyon is a beautiful city."],
+["le travail","work / job","Nouns","Je vais au travail à pied.","I walk to work."],
+["l'école (f)","school","Nouns","L'école commence à huit heures.","School starts at eight."],
+["l'argent (m)","money","Nouns","Je n'ai pas d'argent.","I don't have any money."],
+["la voiture","car","Nouns","Sa voiture est rouge.","His car is red."],
+["le pays","country","Nouns","La France est un grand pays.","France is a big country."],
+["la chose","thing","Nouns","J'ai beaucoup de choses à faire.","I have lots of things to do."],
+["la vie","life","Nouns","C'est la vie !","That's life!"],
+["le monde","world / people","Nouns","Il y a du monde ici.","There are lots of people here."],
+["la rue","street","Nouns","J'habite dans cette rue.","I live on this street."],
+["le repas","meal","Nouns","Le repas est prêt.","The meal is ready."],
+["l'eau (f)","water","Nouns","Une bouteille d'eau, s'il vous plaît.","A bottle of water, please."],
+["le pain","bread","Nouns","J'achète du pain à la boulangerie.","I buy bread at the bakery."],
+["la chambre","bedroom / room","Nouns","Ma chambre est petite.","My bedroom is small."],
+["le magasin","shop","Nouns","Le magasin ferme à 19 heures.","The shop closes at 7 pm."],
+["les vacances (f pl)","holidays","Nouns","On part en vacances en août.","We go on holiday in August."],
+["grand / grande","big / tall","Adjectives","Mon frère est très grand.","My brother is very tall."],
+["petit / petite","small / little","Adjectives","C'est un petit village.","It's a small village."],
+["bon / bonne","good","Adjectives","Ce gâteau est très bon.","This cake is very good."],
+["mauvais / mauvaise","bad","Adjectives","Il fait mauvais aujourd'hui.","The weather is bad today."],
+["nouveau / nouvelle","new","Adjectives","J'ai un nouveau téléphone.","I have a new phone."],
+["vieux / vieille","old","Adjectives","C'est une vieille maison.","It's an old house."],
+["beau / belle","beautiful / handsome","Adjectives","Quelle belle journée !","What a beautiful day!"],
+["jeune","young","Adjectives","Elle est jeune.","She is young."],
+["facile","easy","Adjectives","Cet exercice est facile.","This exercise is easy."],
+["difficile","difficult","Adjectives","Le français, c'est difficile !","French is difficult!"],
+["content / contente","happy / pleased","Adjectives","Je suis content de te voir.","I'm happy to see you."],
+["fatigué / fatiguée","tired","Adjectives","Je suis très fatigué ce soir.","I'm very tired tonight."],
+["cher / chère","expensive / dear","Adjectives","Ce restaurant est trop cher.","This restaurant is too expensive."],
+["prochain / prochaine","next","Adjectives","À la semaine prochaine !","See you next week!"],
+["dernier / dernière","last","Adjectives","Le week-end dernier, j'ai joué au foot.","Last weekend I played football."],
+["aujourd'hui","today","Time & place","Aujourd'hui, il fait chaud.","Today it's hot."],
+["demain","tomorrow","Time & place","À demain !","See you tomorrow!"],
+["hier","yesterday","Time & place","Hier, je suis allé au parc.","Yesterday I went to the park."],
+["maintenant","now","Time & place","Je suis occupé maintenant.","I'm busy now."],
+["toujours","always / still","Time & place","Il est toujours en retard.","He is always late."],
+["souvent","often","Time & place","Je vais souvent à la piscine.","I often go to the pool."],
+["jamais","never","Time & place","Je ne mange jamais de viande.","I never eat meat."],
+["déjà","already","Time & place","J'ai déjà fini.","I've already finished."],
+["encore","again / still / more","Time & place","Tu es encore là ?","Are you still here?"],
+["après","after","Time & place","On se voit après le cours.","See you after class."],
+["avant","before","Time & place","Lave-toi les mains avant de manger.","Wash your hands before eating."],
+["ici","here","Time & place","Viens ici !","Come here!"],
+["là-bas","over there","Time & place","La gare est là-bas.","The station is over there."],
+["très","very","Little words","C'est très intéressant.","It's very interesting."],
+["beaucoup","a lot / much","Little words","Merci beaucoup !","Thanks a lot!"],
+["trop","too / too much","Little words","C'est trop loin.","It's too far."],
+["peu","little / not much","Little words","Je parle un peu français.","I speak a little French."],
+["assez","enough / quite","Little words","Tu as assez mangé ?","Have you eaten enough?"],
+["aussi","also / too","Little words","Moi aussi !","Me too!"],
+["bien","well / good","Little words","Ça va bien, merci.","I'm doing well, thanks."],
+["mais","but","Little words","Je voudrais venir, mais je suis malade.","I'd like to come, but I'm ill."],
+["parce que","because","Little words","Je reste ici parce qu'il pleut.","I'm staying here because it's raining."],
+["donc","so / therefore","Little words","Il est tard, donc je pars.","It's late, so I'm leaving."],
+["quand","when","Little words","Quand est-ce que tu arrives ?","When are you arriving?"],
+["où","where","Little words","Où sont les toilettes ?","Where are the toilets?"],
+["pourquoi","why","Little words","Pourquoi tu ris ?","Why are you laughing?"],
+["comment","how","Little words","Comment tu t'appelles ?","What's your name? (How are you called?)"],
+["combien","how much / how many","Little words","Ça coûte combien ?","How much does it cost?"],
+["avec","with","Little words","Je vais au cinéma avec Paul.","I'm going to the cinema with Paul."],
+["chez","at (someone's place)","Little words","On dîne chez mes parents.","We're having dinner at my parents'."]
+];
+
+const $=id=>document.getElementById(id);
+const store={get(k,d){try{const v=localStorage.getItem("frA2_"+k);return v===null?d:JSON.parse(v)}catch(e){return d}},set(k,v){try{localStorage.setItem("frA2_"+k,JSON.stringify(v))}catch(e){}}};
+let status=store.get("status",{});   // index -> "k" known | "l" learning
+let stars=store.get("stars",{});
+let dirFR=store.get("dirFR",true), auto=store.get("auto",false), quiz=store.get("quiz",false);
+let deck=[], i=0, flipped=false;
+
+const cats=["All categories",...new Set(W.map(w=>w[2]))];
+$("cat").innerHTML=cats.map(c=>`<option>${c}</option>`).join("");
+
+function build(shuffle){
+  const c=$("cat").value, f=$("filter").value;
+  deck=W.map((w,n)=>n).filter(n=>(c==="All categories"||W[n][2]===c)&&(
+    f==="all"||(f==="unknown"&&status[n]!=="k")||(f==="learning"&&status[n]==="l")||(f==="starred"&&stars[n])));
+  if(shuffle)for(let a=deck.length-1;a>0;a--){const b=Math.random()*(a+1)|0;[deck[a],deck[b]]=[deck[b],deck[a]]}
+  i=0;render();
+}
+function speak(){
+  if(!deck.length||!("speechSynthesis"in window))return;
+  const u=new SpeechSynthesisUtterance(W[deck[i]][0].replace(/\(.*?\)/g,""));
+  u.lang="fr-FR";u.rate=.9;
+  const v=speechSynthesis.getVoices().find(v=>v.lang&&v.lang.startsWith("fr"));if(v)u.voice=v;
+  speechSynthesis.cancel();speechSynthesis.speak(u);
+}
+function render(){
+  $("card").classList.remove("flipped");flipped=false;$("fb").textContent="";$("answer").value="";
+  const knownN=Object.values(status).filter(s=>s==="k").length;
+  $("pbar").style.width=knownN+"%";
+  $("known").textContent=`✓ ${knownN}/100 known`;
+  if(!deck.length){
+    $("scene").style.display="none";
+    $("pos").textContent="0 cards";
+    $("fb").textContent="No cards here — change the filter, or well done! 🎉";return;
+  }
+  $("scene").style.display="";
+  const n=deck[i],[fr,en,cat,exF,exE]=W[n];
+  $("pos").textContent=`Card ${i+1} / ${deck.length}`;
+  $("tagF").textContent=$("tagB").textContent=cat+(status[n]==="k"?" · ✓":status[n]==="l"?" · ✗":"");
+  $("front").textContent=dirFR?fr:en;
+  $("frontSub").textContent=dirFR?"":"→ in French?";
+  $("backW").textContent=dirFR?en:fr;
+  $("backSub").textContent=dirFR?fr:en;
+  $("ex").innerHTML=`« ${exF} »<small>${exE}</small>`;
+  $("starF").classList.toggle("on",!!stars[n]);
+  $("speakF").style.visibility=dirFR?"visible":"hidden";
+  if(auto&&dirFR)speak();
+  if(quiz)setTimeout(()=>$("answer").focus(),50);
+}
+function flip(){if(!deck.length)return;flipped=!flipped;$("card").classList.toggle("flipped",flipped);if(flipped&&auto&&!dirFR)speak()}
+function go(d){if(!deck.length)return;i=(i+d+deck.length)%deck.length;render()}
+function mark(s){if(!deck.length)return;status[deck[i]]=s;store.set("status",status);renderTable();
+  const f=$("filter").value;
+  if((f==="unknown"&&s==="k")||(f==="learning"&&s==="k")){deck.splice(i,1);if(i>=deck.length)i=0;render()}else go(1)}
+const norm=s=>s.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g,"").replace(/^(to |the |l'|le |la |les |un |une )/,"").replace(/\(.*?\)/g,"").trim();
+function check(){
+  if(!deck.length)return;
+  const n=deck[i],target=dirFR?W[n][1]:W[n][0],a=norm($("answer").value);
+  if(!a)return;
+  const ok=target.split(/\s*\/\s*/).some(t=>{t=norm(t);return t===a||t.includes(a)&&a.length>2});
+  $("fb").textContent=ok?"✓ Correct!":`✗ Answer: ${target}`;
+  $("fb").style.color=ok?"var(--good)":"var(--bad)";
+  if(!flipped)flip();
+  status[n]=ok?"k":"l";store.set("status",status);renderTable();
+}
+function renderTable(){
+  $("table").innerHTML=W.map((w,n)=>`<tr><td><span class="dot ${status[n]||""}"></span></td><td><b>${w[0]}</b></td><td>${w[1]}</td><td style="color:var(--muted)">${w[2]}</td></tr>`).join("");
+}
+function setBtns(){
+  $("dir").textContent=dirFR?"FR → EN":"EN → FR";
+  $("autoSpeak").classList.toggle("on",auto);
+  $("quizBtn").classList.toggle("on",quiz);$("quiz").hidden=!quiz;
+}
+
+$("scene").onclick=e=>{if(e.target.closest("button"))return;flip()};
+$("prev").onclick=()=>go(-1);$("next").onclick=()=>go(1);
+$("again").onclick=()=>mark("l");$("know").onclick=()=>mark("k");
+$("speakF").onclick=$("speakB").onclick=speak;
+$("starF").onclick=()=>{const n=deck[i];stars[n]=!stars[n];store.set("stars",stars);$("starF").classList.toggle("on",stars[n])};
+$("shuffle").onclick=()=>build(true);
+$("cat").onchange=$("filter").onchange=()=>build(false);
+$("dir").onclick=()=>{dirFR=!dirFR;store.set("dirFR",dirFR);setBtns();render()};
+$("autoSpeak").onclick=()=>{auto=!auto;store.set("auto",auto);setBtns();if(auto)speak()};
+$("quizBtn").onclick=()=>{quiz=!quiz;store.set("quiz",quiz);setBtns();render()};
+$("check").onclick=check;
+$("answer").onkeydown=e=>{if(e.key==="Enter"){e.preventDefault();$("fb").textContent&&flipped?go(1):check()}e.stopPropagation()};
+$("reset").onclick=()=>{if(confirm("Reset all progress and stars?")){status={};stars={};store.set("status",status);store.set("stars",stars);renderTable();build(false)}};
+$("theme").onclick=()=>{const r=document.documentElement,dark=r.dataset.theme?r.dataset.theme==="dark":matchMedia("(prefers-color-scheme: dark)").matches;r.dataset.theme=dark?"light":"dark";store.set("theme",r.dataset.theme)};
+const th=store.get("theme",null);if(th)document.documentElement.dataset.theme=th;
+document.onkeydown=e=>{
+  if(e.target.tagName==="SELECT")return;
+  const k=e.key.toLowerCase();
+  if(k===" "){e.preventDefault();flip()}
+  else if(k==="arrowright")go(1);else if(k==="arrowleft")go(-1);
+  else if(k==="1")mark("l");else if(k==="2")mark("k");
+  else if(k==="p")speak();else if(k==="f")$("starF").click();
+  else if(k==="s")build(true);else if(k==="d")$("dir").click();else if(k==="t")$("quizBtn").click();
+};
+if("speechSynthesis"in window)speechSynthesis.onvoiceschanged=()=>{};
+setBtns();renderTable();build(false);
+</script>
+</body>
+</html>
