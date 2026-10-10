@@ -2,307 +2,606 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>French A2 Flashcards</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Mots A2 · French Flashcards</title>
+<meta name="description" content="100 essential A2 French words with native-speaker audio, flashcards and verb conjugations.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500;700&display=swap">
 <style>
-:root{--bg:#f6f4ef;--card:#fff;--ink:#1d1d24;--muted:#6b6b78;--line:#e2dfd6;--accent:#2f5bd3;--good:#1f9d61;--bad:#d2493b;--back:#eef2ff}
-@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#15161b;--card:#20222a;--ink:#ecebf2;--muted:#9a9aa8;--line:#33353f;--accent:#7d9bff;--good:#3ccf8a;--bad:#ff7466;--back:#262b3d}}
-:root[data-theme="dark"]{--bg:#15161b;--card:#20222a;--ink:#ecebf2;--muted:#9a9aa8;--line:#33353f;--accent:#7d9bff;--good:#3ccf8a;--bad:#ff7466;--back:#262b3d}
-*{box-sizing:border-box}
-body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.45 system-ui,-apple-system,Segoe UI,Roboto,sans-serif}
-.wrap{max-width:720px;margin:0 auto;padding:20px 16px 60px}
-header{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap}
-h1{font-size:1.4rem;margin:0}
-h1 span{color:var(--accent)}
-.bar{display:flex;flex-wrap:wrap;gap:8px;margin:16px 0}
-select,button,input[type=text]{font:inherit;color:var(--ink);background:var(--card);border:1px solid var(--line);border-radius:10px;padding:8px 12px}
+[hidden]{display:none!important}
+/* Same "night sky + glass" language as the anime list: drifting blue glows, glass panels, one gradient. */
+:root{
+  --bg:#0b0e14; --bg2:#0f141d; --glass:rgba(255,255,255,.035); --glass-2:rgba(255,255,255,.06);
+  --line:rgba(255,255,255,.08); --line-strong:rgba(255,255,255,.16);
+  --ink:#e8ebf1; --muted:#8e97a8; --faint:#5f6879;
+  --c1:#3b7cf0; --c2:#4a88f2; --c3:#7ea8f5;
+  --grad:linear-gradient(135deg,#7ea8f5,#3b7cf0 55%,#2f5fd8);
+  --accent:#6f9ef5; --accent-soft:rgba(74,136,242,.14);
+  --good:#5cc8b0; --good-soft:rgba(92,200,176,.14); --bad:#e8727c; --bad-soft:rgba(232,114,124,.14);
+  --star:#f2c86b; --masc:#7ea8f5; --fem:#ee8fb5;
+  --card:linear-gradient(160deg,rgba(255,255,255,.07),rgba(255,255,255,.02));
+  --shadow:0 20px 60px rgba(0,0,0,.45); --blob:.13;
+  --r:14px; --r-lg:22px; --r-xl:30px;
+  --f-ui:"Plus Jakarta Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --f-num:"JetBrains Mono",ui-monospace,Consolas,monospace;
+  --ease:cubic-bezier(.2,.8,.2,1);
+  color-scheme:dark;
+}
+@media (prefers-color-scheme:light){:root:not([data-theme="dark"]){
+  --bg:#f5f6f8; --bg2:#e9eef7; --glass:rgba(255,255,255,.75); --glass-2:#fff;
+  --line:rgba(18,23,48,.08); --line-strong:rgba(18,23,48,.17);
+  --ink:#121730; --muted:#5a627d; --faint:#8b93ac;
+  --accent:#1f5fd8; --accent-soft:rgba(37,99,235,.1);
+  --good:#13866f; --good-soft:rgba(19,134,111,.1); --bad:#c8404b; --bad-soft:rgba(200,64,75,.1);
+  --star:#d99a00; --masc:#2563eb; --fem:#c2417a;
+  --card:linear-gradient(160deg,#ffffff,#f7f9fd);
+  --shadow:0 20px 50px rgba(30,40,80,.14); --blob:.09; color-scheme:light}}
+:root[data-theme="light"]{
+  --bg:#f5f6f8; --bg2:#e9eef7; --glass:rgba(255,255,255,.75); --glass-2:#fff;
+  --line:rgba(18,23,48,.08); --line-strong:rgba(18,23,48,.17);
+  --ink:#121730; --muted:#5a627d; --faint:#8b93ac;
+  --accent:#1f5fd8; --accent-soft:rgba(37,99,235,.1);
+  --good:#13866f; --good-soft:rgba(19,134,111,.1); --bad:#c8404b; --bad-soft:rgba(200,64,75,.1);
+  --star:#d99a00; --masc:#2563eb; --fem:#c2417a;
+  --card:linear-gradient(160deg,#ffffff,#f7f9fd);
+  --shadow:0 20px 50px rgba(30,40,80,.14); --blob:.09; color-scheme:light}
+
+*,*::before,*::after{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--f-ui);font-size:15px;line-height:1.5;-webkit-font-smoothing:antialiased;overflow-x:hidden}
+button,input,select{font:inherit;color:inherit}
 button{cursor:pointer}
-button:hover{border-color:var(--accent)}
-button.on{background:var(--accent);color:#fff;border-color:var(--accent)}
-.progress{height:8px;background:var(--line);border-radius:99px;overflow:hidden;margin:6px 0 4px}
-.progress div{height:100%;background:var(--good);width:0;transition:width .3s}
-.stats{display:flex;justify-content:space-between;color:var(--muted);font-size:.9rem}
-.scene{perspective:1200px;margin:18px 0;cursor:pointer;user-select:none}
-.card{position:relative;height:300px;transition:transform .5s;transform-style:preserve-3d}
+:focus-visible{outline:2px solid var(--c2);outline-offset:2px}
+.wrap{max-width:980px;margin:0 auto;padding-inline:16px}
+
+/* sky */
+.sky{position:fixed;inset:0;z-index:-1;overflow:hidden;pointer-events:none;background:radial-gradient(120% 80% at 50% -10%,var(--bg2),var(--bg) 60%)}
+.blob{position:absolute;width:46vmax;height:46vmax;border-radius:50%;filter:blur(70px);opacity:var(--blob)}
+.b1{background:var(--c1);top:-22vmax;left:-10vmax;animation:d1 26s ease-in-out infinite alternate}
+.b2{background:#8b6cf0;top:-18vmax;right:-14vmax;animation:d2 32s ease-in-out infinite alternate}
+.b3{background:var(--c3);top:45vh;left:40vw;width:30vmax;height:30vmax;opacity:calc(var(--blob)*.5);animation:d3 38s ease-in-out infinite alternate}
+@keyframes d1{to{transform:translate3d(12vw,8vh,0) scale(1.15)}}
+@keyframes d2{to{transform:translate3d(-10vw,14vh,0) scale(.9)}}
+@keyframes d3{to{transform:translate3d(-18vw,-10vh,0) scale(1.2)}}
+@media (prefers-reduced-motion:reduce){.blob{animation:none}}
+
+/* top bar */
+.topbar{position:sticky;top:0;z-index:40;backdrop-filter:blur(18px) saturate(1.4);-webkit-backdrop-filter:blur(18px) saturate(1.4);background:color-mix(in srgb,var(--bg) 62%,transparent);border-bottom:1px solid var(--line)}
+.topbar .wrap{display:flex;align-items:center;gap:12px;height:64px}
+.logo{display:flex;align-items:center;gap:10px;font-weight:800;font-size:18px;letter-spacing:-.02em;white-space:nowrap}
+.logo i{width:32px;height:32px;border-radius:10px;background:var(--grad);display:grid;place-items:center;font-style:normal;font-size:13px;color:#fff;box-shadow:0 6px 18px rgba(37,99,235,.4)}
+.nav{display:flex;gap:2px;padding:4px;border-radius:999px;background:var(--glass);border:1px solid var(--line);margin-left:auto;position:relative}
+.nav-btn{position:relative;z-index:1;border:0;background:none;border-radius:999px;padding:7px 14px;font-weight:700;font-size:14px;color:var(--muted);display:flex;gap:7px;align-items:center;transition:color .25s var(--ease)}
+.nav-btn svg{width:16px;height:16px}
+.nav-btn:hover{color:var(--ink)}
+.nav-btn[aria-current="page"]{color:#fff}
+.nav-pill{position:absolute;z-index:0;top:4px;bottom:4px;border-radius:999px;background:var(--grad);box-shadow:0 6px 18px rgba(37,99,235,.38);transition:left .45s var(--ease),width .45s var(--ease)}
+.icon-btn{width:40px;height:40px;border-radius:50%;border:1px solid var(--line);background:var(--glass);color:var(--muted);display:grid;place-items:center;flex:none;transition:transform .5s var(--ease),color .2s}
+.icon-btn:hover{color:var(--ink);transform:rotate(60deg)}
+
+/* hero */
+.hero{padding:36px 0 6px}
+.eyebrow{display:inline-flex;align-items:center;gap:10px;font-size:12px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--muted)}
+.eyebrow .flag{display:inline-flex;height:12px;width:18px;border-radius:3px;overflow:hidden}
+.eyebrow .flag b{flex:1}
+.live{width:8px;height:8px;border-radius:50%;background:var(--c2);animation:live 2s infinite}
+@keyframes live{0%{box-shadow:0 0 0 0 rgba(59,130,246,.6)}70%{box-shadow:0 0 0 10px rgba(59,130,246,0)}100%{box-shadow:0 0 0 0 rgba(59,130,246,0)}}
+h1{margin:12px 0 0;font-weight:800;font-size:clamp(36px,6vw,64px);line-height:.98;letter-spacing:-.04em}
+.g{background:var(--grad);-webkit-background-clip:text;background-clip:text;color:transparent;background-size:200% 100%;animation:sheen 8s ease-in-out infinite alternate}
+@keyframes sheen{to{background-position:100% 0}}
+.sub{margin:12px 0 0;color:var(--muted);font-size:16px;max-width:56ch}
+.stats{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px;margin-top:22px}
+.stat{position:relative;padding:12px 16px;border-radius:var(--r);background:var(--glass);border:1px solid var(--line);backdrop-filter:blur(10px);overflow:hidden}
+.stat::before{content:"";position:absolute;left:0;top:12px;bottom:12px;width:3px;border-radius:3px;background:var(--bar,var(--grad))}
+.stat b{display:block;font-size:26px;font-weight:800;letter-spacing:-.03em;line-height:1.1;font-variant-numeric:tabular-nums}
+.stat span{font-size:12px;color:var(--muted)}
+.meter{height:6px;border-radius:99px;background:var(--line);margin-top:14px;overflow:hidden}
+.meter i{display:block;height:100%;width:0;border-radius:99px;background:linear-gradient(90deg,var(--good),#7ee0c9);transition:width .6s var(--ease)}
+
+/* controls */
+.controls{display:flex;flex-wrap:wrap;gap:8px;margin:22px 0 4px;align-items:center}
+.seg{display:flex;flex-wrap:wrap;gap:6px}
+.chip{border:1px solid var(--line);background:var(--glass);border-radius:999px;padding:6px 13px;font-size:13px;font-weight:700;color:var(--muted);transition:all .2s var(--ease)}
+.chip:hover{color:var(--ink);border-color:var(--line-strong)}
+.chip.on{background:var(--accent-soft);color:var(--accent);border-color:color-mix(in srgb,var(--accent) 45%,transparent)}
+.spacer{flex:1}
+select.chip{appearance:none;padding-right:28px;background-image:linear-gradient(45deg,transparent 50%,currentColor 50%),linear-gradient(135deg,currentColor 50%,transparent 50%);background-position:calc(100% - 15px) 52%,calc(100% - 10px) 52%;background-size:5px 5px;background-repeat:no-repeat}
+select.chip option{background:var(--bg);color:var(--ink)}
+
+/* card */
+.stage{position:relative;margin:16px auto 0;max-width:640px}
+.counter{display:flex;justify-content:space-between;color:var(--faint);font-size:12px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;margin-bottom:10px;font-family:var(--f-num)}
+.scene{perspective:1400px;cursor:pointer;user-select:none;-webkit-user-select:none;touch-action:pan-y}
+.card{position:relative;height:360px;transition:transform .6s var(--ease);transform-style:preserve-3d}
 .card.flipped{transform:rotateY(180deg)}
-.face{position:absolute;inset:0;backface-visibility:hidden;border:1px solid var(--line);border-radius:18px;background:var(--card);display:flex;flex-direction:column;align-items:center;justify-content:center;padding:24px;text-align:center;box-shadow:0 6px 24px rgba(0,0,0,.06)}
-.face.back{transform:rotateY(180deg);background:var(--back)}
-.word{font-size:2.4rem;font-weight:700;line-height:1.15}
-.sub{color:var(--muted);margin-top:8px}
-.ex{margin-top:16px;font-style:italic;max-width:520px}
-.ex small{display:block;font-style:normal;color:var(--muted);margin-top:4px}
-.tag{position:absolute;top:12px;left:14px;font-size:.75rem;color:var(--muted);text-transform:uppercase;letter-spacing:.06em}
-.star{position:absolute;top:8px;right:10px;font-size:1.4rem;background:none;border:none;color:var(--muted);padding:4px}
-.star.on{color:#e0a400}
-.speak{position:absolute;bottom:10px;right:12px;background:none;border:none;font-size:1.3rem;padding:4px}
-.hint{color:var(--muted);font-size:.85rem;text-align:center}
-.actions{display:grid;grid-template-columns:1fr 1fr 1fr 1fr;gap:8px}
-.actions button{padding:12px 8px}
-.again{color:var(--bad)}.know{color:var(--good)}
-.quiz{display:flex;gap:8px;margin-top:10px}
-.quiz input{flex:1}
-.feedback{min-height:1.4em;text-align:center;margin-top:6px;font-weight:600}
-.done{text-align:center;padding:40px 10px}
-.list{margin-top:28px;border-top:1px solid var(--line);padding-top:12px}
-.list summary{cursor:pointer;color:var(--muted)}
-.list table{width:100%;border-collapse:collapse;margin-top:10px;font-size:.92rem}
-.list td{padding:6px 4px;border-bottom:1px solid var(--line)}
-.dot{display:inline-block;width:8px;height:8px;border-radius:50%;background:var(--line)}
+.scene.out-l .card{transition:transform .35s ease-in,opacity .35s;transform:translateX(-120%) rotate(-12deg);opacity:0}
+.scene.out-r .card{transition:transform .35s ease-in,opacity .35s;transform:translateX(120%) rotate(12deg);opacity:0}
+.scene.in .card{animation:cardin .4s var(--ease)}
+@keyframes cardin{from{transform:translateY(16px) scale(.97);opacity:0}}
+.face{position:absolute;inset:0;backface-visibility:hidden;-webkit-backface-visibility:hidden;border-radius:var(--r-xl);background:var(--card);border:1px solid var(--line-strong);box-shadow:var(--shadow);display:flex;flex-direction:column;align-items:center;justify-content:center;padding:28px 24px;text-align:center;backdrop-filter:blur(14px);overflow:hidden}
+.face::after{content:"";position:absolute;inset:-1px;border-radius:inherit;padding:1px;background:linear-gradient(140deg,rgba(126,168,245,.6),transparent 35%,transparent 70%,rgba(139,108,240,.45));-webkit-mask:linear-gradient(#000 0 0) content-box,linear-gradient(#000 0 0);-webkit-mask-composite:xor;mask-composite:exclude;pointer-events:none}
+.face.back{transform:rotateY(180deg)}
+.face .top{position:absolute;top:16px;left:18px;right:16px;display:flex;align-items:center;gap:8px}
+.pill{font-size:11px;font-weight:800;letter-spacing:.08em;text-transform:uppercase;padding:4px 10px;border-radius:999px;background:var(--glass-2);border:1px solid var(--line);color:var(--muted)}
+.pill.m{color:var(--masc);border-color:color-mix(in srgb,var(--masc) 40%,transparent)}
+.pill.f{color:var(--fem);border-color:color-mix(in srgb,var(--fem) 40%,transparent)}
+.pill.k{color:var(--good);background:var(--good-soft);border-color:transparent}
+.pill.l{color:var(--bad);background:var(--bad-soft);border-color:transparent}
+.star{margin-left:auto;border:0;background:none;color:var(--faint);font-size:22px;line-height:1;padding:4px;transition:transform .3s var(--ease),color .2s}
+.star.on{color:var(--star);transform:scale(1.15)}
+.word{font-size:clamp(36px,7vw,54px);font-weight:800;letter-spacing:-.03em;line-height:1.05}
+.word .art-m{color:var(--masc)} .word .art-f{color:var(--fem)}
+.hint{margin-top:10px;color:var(--faint);font-size:13px;font-weight:600}
+.back .word{font-size:clamp(28px,5.5vw,40px)}
+.back .fr{margin-top:6px;color:var(--muted);font-weight:700;font-size:17px}
+.ex{margin-top:18px;padding:12px 16px;border-radius:var(--r);background:var(--glass);border:1px solid var(--line);max-width:500px;display:flex;gap:12px;align-items:center;text-align:left}
+.ex p{margin:0;font-weight:600}
+.ex small{display:block;color:var(--muted);font-weight:500;margin-top:2px}
+.conj-link{margin-top:14px;border:0;background:var(--accent-soft);color:var(--accent);font-weight:800;font-size:13px;border-radius:999px;padding:7px 14px}
+
+/* audio button with equalizer */
+.play{width:54px;height:54px;border-radius:50%;border:0;background:var(--grad);color:#fff;display:grid;place-items:center;box-shadow:0 10px 26px rgba(37,99,235,.45);transition:transform .2s var(--ease);flex:none}
+.play:hover{transform:scale(1.06)} .play:active{transform:scale(.95)}
+.play.sm{width:36px;height:36px;box-shadow:0 6px 16px rgba(37,99,235,.35)}
+.play .eq{display:none;gap:3px;align-items:flex-end;height:16px}
+.play .eq i{width:3px;background:#fff;border-radius:2px;animation:eq .8s ease-in-out infinite}
+.play .eq i:nth-child(2){animation-delay:-.3s}.play .eq i:nth-child(3){animation-delay:-.55s}
+@keyframes eq{0%,100%{height:4px}50%{height:16px}}
+.play.playing .eq{display:flex}.play.playing svg{display:none}
+.face .play.main{position:absolute;bottom:18px;right:18px}
+.src{position:absolute;bottom:22px;left:20px;font-size:11px;color:var(--faint);font-weight:600}
+
+.actions{display:grid;grid-template-columns:auto 1fr 1fr auto;gap:10px;margin-top:16px}
+.btn{border:1px solid var(--line);background:var(--glass);border-radius:var(--r);padding:13px 16px;font-weight:800;font-size:14px;display:flex;align-items:center;justify-content:center;gap:8px;transition:all .2s var(--ease);backdrop-filter:blur(10px)}
+.btn:hover{border-color:var(--line-strong);transform:translateY(-1px)}
+.btn.again{color:var(--bad);background:var(--bad-soft);border-color:transparent}
+.btn.know{color:var(--good);background:var(--good-soft);border-color:transparent}
+.btn kbd{font-family:var(--f-num);font-size:11px;opacity:.6}
+.quiz{display:flex;gap:8px;margin-top:14px}
+.quiz input{flex:1;min-width:0;border:1px solid var(--line-strong);background:var(--glass);border-radius:var(--r);padding:12px 14px;font-weight:600;outline:none}
+.quiz input:focus{border-color:var(--accent)}
+.feedback{min-height:22px;text-align:center;margin-top:10px;font-weight:800}
+.keys{margin:18px 0 0;text-align:center;color:var(--faint);font-size:12px}
+.keys kbd{font-family:var(--f-num);border:1px solid var(--line-strong);border-bottom-width:2px;border-radius:5px;padding:0 5px;margin:0 2px;color:var(--muted)}
+.empty{padding:70px 20px;text-align:center;border-radius:var(--r-xl);border:1px dashed var(--line-strong);color:var(--muted)}
+.empty b{display:block;font-size:22px;color:var(--ink);margin-bottom:6px}
+
+/* conjugation */
+.section-head{display:flex;align-items:flex-end;justify-content:space-between;gap:12px;flex-wrap:wrap;margin:34px 0 14px}
+.section-head h2{margin:0;font-size:clamp(28px,4.5vw,40px);font-weight:800;letter-spacing:-.03em;line-height:1}
+.section-head p{margin:6px 0 0;color:var(--muted)}
+.search{border:1px solid var(--line);background:var(--glass);border-radius:999px;padding:9px 16px;min-width:220px;outline:none}
+.search:focus{border-color:var(--accent)}
+.verbs{display:flex;flex-wrap:wrap;gap:6px}
+.conj-card{margin-top:18px;border-radius:var(--r-xl);background:var(--card);border:1px solid var(--line-strong);box-shadow:var(--shadow);padding:24px;backdrop-filter:blur(14px)}
+.conj-top{display:flex;align-items:center;gap:16px;flex-wrap:wrap}
+.conj-top h3{margin:0;font-size:clamp(32px,6vw,48px);font-weight:800;letter-spacing:-.03em;line-height:1}
+.conj-top .en{color:var(--muted);font-weight:600}
+.conj-top .pill{margin-left:auto}
+.tables{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-top:20px}
+.tense{border-radius:var(--r-lg);background:var(--glass);border:1px solid var(--line);overflow:hidden}
+.tense h4{margin:0;padding:12px 16px;font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);border-bottom:1px solid var(--line);display:flex;justify-content:space-between}
+.tense h4 span{color:var(--faint);letter-spacing:0;text-transform:none;font-weight:600}
+.row{display:flex;align-items:center;gap:10px;width:100%;border:0;background:none;padding:10px 16px;text-align:left;border-bottom:1px solid var(--line);transition:background .15s}
+.row:last-child{border-bottom:0}
+.row:hover{background:var(--accent-soft)}
+.row .pr{width:92px;color:var(--faint);font-weight:600;font-size:13px;flex:none}
+.row .fm{font-weight:800;font-size:17px}
+.row .fm em{font-style:normal;color:var(--accent)}
+.row .spk{margin-left:auto;color:var(--faint);opacity:0;transition:opacity .15s}
+.row:hover .spk{opacity:1}
+.note{margin-top:16px;padding:12px 16px;border-radius:var(--r);background:var(--accent-soft);color:var(--ink);font-size:14px}
+.note b{color:var(--accent)}
+.conj-ex{margin-top:16px;display:flex;align-items:center;gap:12px;color:var(--muted)}
+
+/* list */
+.list{border-radius:var(--r-xl);background:var(--glass);border:1px solid var(--line);overflow:hidden}
+.li{display:grid;grid-template-columns:14px minmax(0,1.1fr) minmax(0,1fr) auto auto;gap:14px;align-items:center;padding:10px 16px;border-bottom:1px solid var(--line);cursor:pointer;transition:background .15s}
+.li:hover{background:var(--accent-soft)}
+.li:last-child{border-bottom:0}
+.li .fr{font-weight:800}
+.li .en{color:var(--muted)}
+.li .cat{font-size:12px;color:var(--faint);font-weight:600}
+.dot{width:9px;height:9px;border-radius:50%;background:var(--line-strong)}
 .dot.k{background:var(--good)}.dot.l{background:var(--bad)}
-kbd{border:1px solid var(--line);border-bottom-width:2px;border-radius:5px;padding:0 5px;font-size:.8rem}
-@media (max-width:480px){.word{font-size:1.9rem}.card{height:280px}.actions{grid-template-columns:1fr 1fr}}
+
+/* settings sheet */
+.scrim{position:fixed;inset:0;background:rgba(0,0,0,.45);backdrop-filter:blur(4px);z-index:60;opacity:0;pointer-events:none;transition:opacity .3s}
+.scrim.open{opacity:1;pointer-events:auto}
+.sheet{position:fixed;top:0;right:0;bottom:0;width:min(380px,100%);z-index:61;background:color-mix(in srgb,var(--bg) 92%,transparent);backdrop-filter:blur(20px);border-left:1px solid var(--line);padding:22px;transform:translateX(100%);transition:transform .4s var(--ease);overflow-y:auto}
+.sheet.open{transform:none}
+.sheet h3{margin:0 0 18px;font-size:22px;font-weight:800;display:flex;justify-content:space-between;align-items:center}
+.opt{padding:14px 0;border-bottom:1px solid var(--line)}
+.opt label{display:block;font-weight:700;margin-bottom:8px}
+.opt small{display:block;color:var(--muted);margin-top:6px;font-size:12px}
+.opt select{width:100%;border:1px solid var(--line);background:var(--glass);border-radius:10px;padding:9px 10px}
+.opt select option{background:var(--bg)}
+.danger{color:var(--bad)}
+footer{margin:50px 0 30px;color:var(--faint);font-size:12px;text-align:center}
+footer a{color:var(--muted)}
+
+@media (max-width:720px){
+  .nav-btn span{display:none}.nav-btn{padding:8px 12px}
+  .stats{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .tables{grid-template-columns:1fr}
+  .card{height:390px}
+  .actions{grid-template-columns:1fr 1fr}
+  .actions .nav-a{display:none}
+  .li{grid-template-columns:12px minmax(0,1fr) minmax(0,1fr) auto}.li .cat{display:none}
+  .keys{display:none}
+  .search{min-width:0;width:100%}
+  .spacer{display:none}
+}
 </style>
 </head>
 <body>
-<div class="wrap">
-<header>
-  <h1>🇫🇷 French <span>A2</span> · 100 words</h1>
-  <button id="theme" title="Toggle theme">🌓</button>
-</header>
+<div class="sky"><div class="blob b1"></div><div class="blob b2"></div><div class="blob b3"></div></div>
 
-<div class="bar">
-  <select id="cat"></select>
-  <select id="filter">
-    <option value="all">All cards</option>
-    <option value="unknown">Not known yet</option>
-    <option value="learning">Marked "again"</option>
-    <option value="starred">⭐ Starred</option>
-  </select>
-  <button id="dir" title="Switch direction (D)">FR → EN</button>
-  <button id="shuffle" title="Shuffle (S)">🔀 Shuffle</button>
-  <button id="quizBtn" title="Typing mode (T)">⌨️ Type answer</button>
-  <button id="autoSpeak" title="Auto-pronounce French">🔊 Auto</button>
-  <button id="reset" title="Reset progress">↺ Reset</button>
-</div>
+<header class="topbar"><div class="wrap">
+  <div class="logo"><i>FR</i>Mots A2</div>
+  <nav class="nav" id="nav">
+    <div class="nav-pill" id="navPill"></div>
+    <button class="nav-btn" data-view="cards"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><rect x="3" y="6" width="14" height="14" rx="3"/><path d="M7 3h11a3 3 0 0 1 3 3v11"/></svg><span>Cards</span></button>
+    <button class="nav-btn" data-view="conj"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 6h16M4 12h10M4 18h13"/></svg><span>Conjugation</span></button>
+    <button class="nav-btn" data-view="list"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="5" cy="6" r="1"/><circle cx="5" cy="12" r="1"/><circle cx="5" cy="18" r="1"/><path d="M10 6h10M10 12h10M10 18h10"/></svg><span>All words</span></button>
+  </nav>
+  <button class="icon-btn" id="openSettings" title="Settings" aria-label="Settings"><svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.7 1.7 0 0 0 .3 1.8l.1.1a2 2 0 1 1-2.8 2.8l-.1-.1a1.7 1.7 0 0 0-1.8-.3 1.7 1.7 0 0 0-1 1.5V21a2 2 0 1 1-4 0v-.1a1.7 1.7 0 0 0-1.1-1.5 1.7 1.7 0 0 0-1.8.3l-.1.1a2 2 0 1 1-2.8-2.8l.1-.1a1.7 1.7 0 0 0 .3-1.8 1.7 1.7 0 0 0-1.5-1H3a2 2 0 1 1 0-4h.1a1.7 1.7 0 0 0 1.5-1.1 1.7 1.7 0 0 0-.3-1.8l-.1-.1a2 2 0 1 1 2.8-2.8l.1.1a1.7 1.7 0 0 0 1.8.3H9a1.7 1.7 0 0 0 1-1.5V3a2 2 0 1 1 4 0v.1a1.7 1.7 0 0 0 1 1.5 1.7 1.7 0 0 0 1.8-.3l.1-.1a2 2 0 1 1 2.8 2.8l-.1.1a1.7 1.7 0 0 0-.3 1.8V9a1.7 1.7 0 0 0 1.5 1H21a2 2 0 1 1 0 4h-.1a1.7 1.7 0 0 0-1.5 1z"/></svg></button>
+</div></header>
 
-<div class="progress"><div id="pbar"></div></div>
-<div class="stats"><span id="pos"></span><span id="known"></span></div>
+<main class="wrap">
 
-<div id="main">
-  <div class="scene" id="scene">
-    <div class="card" id="card">
-      <div class="face front"><span class="tag" id="tagF"></span><button class="star" id="starF">★</button><div class="word" id="front"></div><div class="sub" id="frontSub"></div><button class="speak" id="speakF" title="Pronounce (P)">🔊</button></div>
-      <div class="face back"><span class="tag" id="tagB"></span><div class="word" id="backW"></div><div class="sub" id="backSub"></div><div class="ex" id="ex"></div><button class="speak" id="speakB" title="Pronounce (P)">🔊</button></div>
+<!-- ============ CARDS ============ -->
+<section id="view-cards">
+  <div class="hero">
+    <div class="eyebrow"><span class="live"></span>Niveau A2 · 100 mots essentiels <span class="flag"><b style="background:#2b4fd6"></b><b style="background:#fff"></b><b style="background:#e0414f"></b></span></div>
+    <h1>Parlez <span class="g">français.</span></h1>
+    <p class="sub">The 100 words you'll use the most, with recordings by native French speakers, example sentences and verb conjugations.</p>
+    <div class="stats">
+      <div class="stat" style="--bar:var(--good)"><b id="sKnown">0</b><span>Known</span></div>
+      <div class="stat" style="--bar:var(--bad)"><b id="sAgain">0</b><span>To review</span></div>
+      <div class="stat" style="--bar:var(--star)"><b id="sStar">0</b><span>Starred</span></div>
+      <div class="stat"><b id="sLeft">100</b><span>Still new</span></div>
     </div>
+    <div class="meter"><i id="meter"></i></div>
   </div>
-  <div class="quiz" id="quiz" hidden><input type="text" id="answer" placeholder="Type the answer and press Enter" autocomplete="off" autocapitalize="off" spellcheck="false"><button id="check">Check</button></div>
-  <div class="feedback" id="fb"></div>
-  <div class="actions">
-    <button id="prev">← Prev</button>
-    <button class="again" id="again">✗ Again</button>
-    <button class="know" id="know">✓ Know it</button>
-    <button id="next">Next →</button>
+
+  <div class="controls">
+    <div class="seg" id="cats"></div>
+    <span class="spacer"></span>
+    <select class="chip" id="filter" aria-label="Filter">
+      <option value="all">All cards</option>
+      <option value="unknown">Not known yet</option>
+      <option value="learning">To review</option>
+      <option value="starred">★ Starred</option>
+    </select>
+    <button class="chip" id="shuffle" title="Shuffle (S)">⤨ Shuffle</button>
+    <button class="chip" id="quizBtn" title="Type the answer (T)">⌨ Type</button>
+    <button class="chip" id="dirBtn" title="Direction (D)">FR → EN</button>
   </div>
-  <p class="hint"><kbd>Space</kbd> flip · <kbd>←</kbd><kbd>→</kbd> navigate · <kbd>1</kbd> again · <kbd>2</kbd> know · <kbd>P</kbd> speak · <kbd>F</kbd> star</p>
-</div>
 
-<details class="list"><summary>📋 See the full word list</summary><table id="table"></table></details>
-</div>
+  <div class="stage">
+    <div class="counter"><span id="pos"></span><span id="catLbl"></span></div>
+    <div id="cardArea">
+      <div class="scene" id="scene">
+        <div class="card" id="card">
+          <div class="face front">
+            <div class="top"><span class="pill" id="fCat"></span><span class="pill" id="fGen" hidden></span><span class="pill" id="fStat" hidden></span><button class="star" id="star" title="Star (F)" aria-label="Star">★</button></div>
+            <div class="word" id="fWord"></div>
+            <div class="hint" id="fHint">Tap to flip</div>
+            <span class="src" id="fSrc"></span>
+            <button class="play main" id="playF" title="Listen (P)" aria-label="Listen"><svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor"><path d="M3 10v4a1 1 0 0 0 1 1h3l4 4V5L7 9H4a1 1 0 0 0-1 1zm13.5 2a4.5 4.5 0 0 0-2.5-4v8a4.5 4.5 0 0 0 2.5-4zM14 3.2v2.1a7 7 0 0 1 0 13.4v2.1a9 9 0 0 0 0-17.6z"/></svg><span class="eq"><i></i><i></i><i></i></span></button>
+          </div>
+          <div class="face back">
+            <div class="top"><span class="pill" id="bCat"></span></div>
+            <div class="word" id="bWord"></div>
+            <div class="fr" id="bSub"></div>
+            <div class="ex"><button class="play sm" id="playEx" title="Listen to the sentence" aria-label="Listen to the sentence"><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg><span class="eq"><i></i><i></i><i></i></span></button><div><p id="exFr"></p><small id="exEn"></small></div></div>
+            <button class="conj-link" id="conjLink" hidden>See conjugation →</button>
+            <button class="play main" id="playB" title="Listen (P)" aria-label="Listen"><svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor"><path d="M3 10v4a1 1 0 0 0 1 1h3l4 4V5L7 9H4a1 1 0 0 0-1 1zm13.5 2a4.5 4.5 0 0 0-2.5-4v8a4.5 4.5 0 0 0 2.5-4zM14 3.2v2.1a7 7 0 0 1 0 13.4v2.1a9 9 0 0 0 0-17.6z"/></svg><span class="eq"><i></i><i></i><i></i></span></button>
+          </div>
+        </div>
+      </div>
+      <div class="quiz" id="quiz" hidden><input id="answer" placeholder="Type the answer, then press Enter" autocomplete="off" autocapitalize="off" spellcheck="false"><button class="btn" id="check">Check</button></div>
+      <div class="feedback" id="fb"></div>
+      <div class="actions">
+        <button class="btn nav-a" id="prev" aria-label="Previous">←</button>
+        <button class="btn again" id="again">✗ Again <kbd>1</kbd></button>
+        <button class="btn know" id="know">✓ I know it <kbd>2</kbd></button>
+        <button class="btn nav-a" id="next" aria-label="Next">→</button>
+      </div>
+    </div>
+    <div class="empty" id="empty" hidden><b>Nothing left here 🎉</b>Pick a different filter or category, or reset your progress in settings.</div>
+    <p class="keys"><kbd>Space</kbd> flip <kbd>←</kbd><kbd>→</kbd> move <kbd>1</kbd> again <kbd>2</kbd> know it <kbd>P</kbd> listen <kbd>F</kbd> star <kbd>S</kbd> shuffle · on a phone, swipe the card ← again / know it →</p>
+  </div>
+</section>
 
+<!-- ============ CONJUGATION ============ -->
+<section id="view-conj" hidden>
+  <div class="section-head">
+    <div><h2>Con<span class="g">jugaison</span></h2><p>All 30 verbs in the présent and the imparfait. Tap any line to hear it.</p></div>
+    <input class="search" id="vSearch" placeholder="Search a verb…" aria-label="Search verbs">
+  </div>
+  <div class="verbs" id="verbs"></div>
+  <div class="conj-card" id="conjCard"></div>
+  <div class="note" style="margin-top:16px"><b>How the imparfait works:</b> take the <i>nous</i> form of the présent, drop <i>-ons</i>, then add <b>-ais, -ais, -ait, -ions, -iez, -aient</b>. Nous <i>fais</i>ons → je <i>fais</i>ais. Only <i>être</i> breaks the rule (j'étais). Use it for what <i>used to</i> happen or what <i>was happening</i>: « Quand j'étais petit, j'habitais à Lyon. »</div>
+</section>
+
+<!-- ============ LIST ============ -->
+<section id="view-list" hidden>
+  <div class="section-head">
+    <div><h2>Les <span class="g">100 mots</span></h2><p>Tap a word to open its card. The dot shows your progress.</p></div>
+    <input class="search" id="lSearch" placeholder="Search French or English…" aria-label="Search words">
+  </div>
+  <div class="list" id="list"></div>
+</section>
+
+<footer>Pronunciation recordings: <a href="https://lingualibre.org" target="_blank" rel="noopener">Lingua Libre</a> / Wikimedia Commons volunteers (CC BY-SA). See <a href="audio/credits.json" target="_blank">credits</a>.</footer>
+</main>
+
+<!-- ============ SETTINGS ============ -->
+<div class="scrim" id="scrim"></div>
+<aside class="sheet" id="sheet" aria-label="Settings">
+  <h3>Settings <button class="icon-btn" id="closeSettings" aria-label="Close">✕</button></h3>
+  <div class="opt"><label>Card direction</label><div class="seg"><button class="chip" data-dir="fr">French → English</button><button class="chip" data-dir="en">English → French</button></div></div>
+  <div class="opt"><label>Auto-play pronunciation</label><div class="seg"><button class="chip" data-auto="1">On</button><button class="chip" data-auto="0">Off</button></div><small>Plays the word automatically when a card appears.</small></div>
+  <div class="opt"><label>Audio speed</label><div class="seg"><button class="chip" data-rate="1">Normal</button><button class="chip" data-rate="0.75">Slow 🐢</button></div></div>
+  <div class="opt"><label for="voice">Voice for sentences</label><select id="voice"></select><small>Words use real recordings. Example sentences and conjugations use your device's French voice. On Windows/Edge, pick a voice with "Natural" in its name for the best quality.</small></div>
+  <div class="opt"><label>Theme</label><div class="seg"><button class="chip" data-theme="auto">Auto</button><button class="chip" data-theme="dark">Dark</button><button class="chip" data-theme="light">Light</button></div></div>
+  <div class="opt"><button class="btn danger" id="reset" style="width:100%">↺ Reset all progress</button></div>
+</aside>
+
+<script src="words.js"></script>
 <script>
-const W=[
-// [french, english, category, example FR, example EN]
-["être","to be","Verbs","Je suis content aujourd'hui.","I am happy today."],
-["avoir","to have","Verbs","J'ai deux frères.","I have two brothers."],
-["faire","to do / to make","Verbs","Qu'est-ce que tu fais ce soir ?","What are you doing tonight?"],
-["aller","to go","Verbs","Nous allons au cinéma.","We are going to the cinema."],
-["pouvoir","to be able to / can","Verbs","Tu peux m'aider ?","Can you help me?"],
-["vouloir","to want","Verbs","Je veux un café, s'il vous plaît.","I want a coffee, please."],
-["devoir","to have to / must","Verbs","Je dois partir maintenant.","I must leave now."],
-["dire","to say / to tell","Verbs","Il dit la vérité.","He is telling the truth."],
-["voir","to see","Verbs","On se voit demain ?","See each other tomorrow?"],
-["savoir","to know (a fact)","Verbs","Je ne sais pas.","I don't know."],
-["prendre","to take","Verbs","Je prends le bus tous les jours.","I take the bus every day."],
-["venir","to come","Verbs","Tu viens avec nous ?","Are you coming with us?"],
-["mettre","to put / to put on","Verbs","Mets ton manteau, il fait froid.","Put on your coat, it's cold."],
-["parler","to speak","Verbs","Elle parle trois langues.","She speaks three languages."],
-["aimer","to like / to love","Verbs","J'aime beaucoup la musique.","I really like music."],
-["manger","to eat","Verbs","On mange à midi.","We eat at noon."],
-["boire","to drink","Verbs","Il boit de l'eau.","He drinks water."],
-["acheter","to buy","Verbs","J'ai acheté du pain.","I bought some bread."],
-["habiter","to live (somewhere)","Verbs","J'habite à Paris.","I live in Paris."],
-["travailler","to work","Verbs","Mon père travaille dans un bureau.","My dad works in an office."],
-["partir","to leave","Verbs","Le train part à huit heures.","The train leaves at eight."],
-["sortir","to go out","Verbs","On sort ce week-end ?","Shall we go out this weekend?"],
-["attendre","to wait (for)","Verbs","J'attends mon ami.","I'm waiting for my friend."],
-["comprendre","to understand","Verbs","Je ne comprends pas la question.","I don't understand the question."],
-["connaître","to know (person/place)","Verbs","Tu connais Marie ?","Do you know Marie?"],
-["penser","to think","Verbs","Je pense que c'est vrai.","I think it's true."],
-["trouver","to find","Verbs","Je ne trouve pas mes clés.","I can't find my keys."],
-["donner","to give","Verbs","Donne-moi le livre.","Give me the book."],
-["demander","to ask","Verbs","Je vais demander au professeur.","I'm going to ask the teacher."],
-["arriver","to arrive / to happen","Verbs","Qu'est-ce qui est arrivé ?","What happened?"],
-["le temps","time / weather","Nouns","Il fait beau temps.","The weather is nice."],
-["le jour","day","Nouns","Il y a sept jours dans une semaine.","There are seven days in a week."],
-["l'an / l'année","year","Nouns","Bonne année !","Happy New Year!"],
-["la semaine","week","Nouns","La semaine prochaine, je suis en vacances.","Next week I'm on holiday."],
-["l'heure (f)","hour / time (o'clock)","Nouns","Quelle heure est-il ?","What time is it?"],
-["la maison","house / home","Nouns","Je rentre à la maison.","I'm going home."],
-["la famille","family","Nouns","Ma famille est grande.","My family is big."],
-["l'ami / l'amie","friend","Nouns","C'est mon meilleur ami.","He's my best friend."],
-["l'enfant","child","Nouns","Ils ont trois enfants.","They have three children."],
-["la ville","town / city","Nouns","Lyon est une belle ville.","Lyon is a beautiful city."],
-["le travail","work / job","Nouns","Je vais au travail à pied.","I walk to work."],
-["l'école (f)","school","Nouns","L'école commence à huit heures.","School starts at eight."],
-["l'argent (m)","money","Nouns","Je n'ai pas d'argent.","I don't have any money."],
-["la voiture","car","Nouns","Sa voiture est rouge.","His car is red."],
-["le pays","country","Nouns","La France est un grand pays.","France is a big country."],
-["la chose","thing","Nouns","J'ai beaucoup de choses à faire.","I have lots of things to do."],
-["la vie","life","Nouns","C'est la vie !","That's life!"],
-["le monde","world / people","Nouns","Il y a du monde ici.","There are lots of people here."],
-["la rue","street","Nouns","J'habite dans cette rue.","I live on this street."],
-["le repas","meal","Nouns","Le repas est prêt.","The meal is ready."],
-["l'eau (f)","water","Nouns","Une bouteille d'eau, s'il vous plaît.","A bottle of water, please."],
-["le pain","bread","Nouns","J'achète du pain à la boulangerie.","I buy bread at the bakery."],
-["la chambre","bedroom / room","Nouns","Ma chambre est petite.","My bedroom is small."],
-["le magasin","shop","Nouns","Le magasin ferme à 19 heures.","The shop closes at 7 pm."],
-["les vacances (f pl)","holidays","Nouns","On part en vacances en août.","We go on holiday in August."],
-["grand / grande","big / tall","Adjectives","Mon frère est très grand.","My brother is very tall."],
-["petit / petite","small / little","Adjectives","C'est un petit village.","It's a small village."],
-["bon / bonne","good","Adjectives","Ce gâteau est très bon.","This cake is very good."],
-["mauvais / mauvaise","bad","Adjectives","Il fait mauvais aujourd'hui.","The weather is bad today."],
-["nouveau / nouvelle","new","Adjectives","J'ai un nouveau téléphone.","I have a new phone."],
-["vieux / vieille","old","Adjectives","C'est une vieille maison.","It's an old house."],
-["beau / belle","beautiful / handsome","Adjectives","Quelle belle journée !","What a beautiful day!"],
-["jeune","young","Adjectives","Elle est jeune.","She is young."],
-["facile","easy","Adjectives","Cet exercice est facile.","This exercise is easy."],
-["difficile","difficult","Adjectives","Le français, c'est difficile !","French is difficult!"],
-["content / contente","happy / pleased","Adjectives","Je suis content de te voir.","I'm happy to see you."],
-["fatigué / fatiguée","tired","Adjectives","Je suis très fatigué ce soir.","I'm very tired tonight."],
-["cher / chère","expensive / dear","Adjectives","Ce restaurant est trop cher.","This restaurant is too expensive."],
-["prochain / prochaine","next","Adjectives","À la semaine prochaine !","See you next week!"],
-["dernier / dernière","last","Adjectives","Le week-end dernier, j'ai joué au foot.","Last weekend I played football."],
-["aujourd'hui","today","Time & place","Aujourd'hui, il fait chaud.","Today it's hot."],
-["demain","tomorrow","Time & place","À demain !","See you tomorrow!"],
-["hier","yesterday","Time & place","Hier, je suis allé au parc.","Yesterday I went to the park."],
-["maintenant","now","Time & place","Je suis occupé maintenant.","I'm busy now."],
-["toujours","always / still","Time & place","Il est toujours en retard.","He is always late."],
-["souvent","often","Time & place","Je vais souvent à la piscine.","I often go to the pool."],
-["jamais","never","Time & place","Je ne mange jamais de viande.","I never eat meat."],
-["déjà","already","Time & place","J'ai déjà fini.","I've already finished."],
-["encore","again / still / more","Time & place","Tu es encore là ?","Are you still here?"],
-["après","after","Time & place","On se voit après le cours.","See you after class."],
-["avant","before","Time & place","Lave-toi les mains avant de manger.","Wash your hands before eating."],
-["ici","here","Time & place","Viens ici !","Come here!"],
-["là-bas","over there","Time & place","La gare est là-bas.","The station is over there."],
-["très","very","Little words","C'est très intéressant.","It's very interesting."],
-["beaucoup","a lot / much","Little words","Merci beaucoup !","Thanks a lot!"],
-["trop","too / too much","Little words","C'est trop loin.","It's too far."],
-["peu","little / not much","Little words","Je parle un peu français.","I speak a little French."],
-["assez","enough / quite","Little words","Tu as assez mangé ?","Have you eaten enough?"],
-["aussi","also / too","Little words","Moi aussi !","Me too!"],
-["bien","well / good","Little words","Ça va bien, merci.","I'm doing well, thanks."],
-["mais","but","Little words","Je voudrais venir, mais je suis malade.","I'd like to come, but I'm ill."],
-["parce que","because","Little words","Je reste ici parce qu'il pleut.","I'm staying here because it's raining."],
-["donc","so / therefore","Little words","Il est tard, donc je pars.","It's late, so I'm leaving."],
-["quand","when","Little words","Quand est-ce que tu arrives ?","When are you arriving?"],
-["où","where","Little words","Où sont les toilettes ?","Where are the toilets?"],
-["pourquoi","why","Little words","Pourquoi tu ris ?","Why are you laughing?"],
-["comment","how","Little words","Comment tu t'appelles ?","What's your name? (How are you called?)"],
-["combien","how much / how many","Little words","Ça coûte combien ?","How much does it cost?"],
-["avec","with","Little words","Je vais au cinéma avec Paul.","I'm going to the cinema with Paul."],
-["chez","at (someone's place)","Little words","On dîne chez mes parents.","We're having dinner at my parents'."]
-];
-
-const $=id=>document.getElementById(id);
-const store={get(k,d){try{const v=localStorage.getItem("frA2_"+k);return v===null?d:JSON.parse(v)}catch(e){return d}},set(k,v){try{localStorage.setItem("frA2_"+k,JSON.stringify(v))}catch(e){}}};
-let status=store.get("status",{});   // index -> "k" known | "l" learning
-let stars=store.get("stars",{});
-let dirFR=store.get("dirFR",true), auto=store.get("auto",false), quiz=store.get("quiz",false);
-let deck=[], i=0, flipped=false;
-
-const cats=["All categories",...new Set(W.map(w=>w[2]))];
-$("cat").innerHTML=cats.map(c=>`<option>${c}</option>`).join("");
-
-function build(shuffle){
-  const c=$("cat").value, f=$("filter").value;
-  deck=W.map((w,n)=>n).filter(n=>(c==="All categories"||W[n][2]===c)&&(
-    f==="all"||(f==="unknown"&&status[n]!=="k")||(f==="learning"&&status[n]==="l")||(f==="starred"&&stars[n])));
-  if(shuffle)for(let a=deck.length-1;a>0;a--){const b=Math.random()*(a+1)|0;[deck[a],deck[b]]=[deck[b],deck[a]]}
-  i=0;render();
-}
-function speak(){
-  if(!deck.length||!("speechSynthesis"in window))return;
-  const u=new SpeechSynthesisUtterance(W[deck[i]][0].replace(/\(.*?\)/g,""));
-  u.lang="fr-FR";u.rate=.9;
-  const v=speechSynthesis.getVoices().find(v=>v.lang&&v.lang.startsWith("fr"));if(v)u.voice=v;
-  speechSynthesis.cancel();speechSynthesis.speak(u);
-}
-function render(){
-  $("card").classList.remove("flipped");flipped=false;$("fb").textContent="";$("answer").value="";
-  const knownN=Object.values(status).filter(s=>s==="k").length;
-  $("pbar").style.width=knownN+"%";
-  $("known").textContent=`✓ ${knownN}/100 known`;
-  if(!deck.length){
-    $("scene").style.display="none";
-    $("pos").textContent="0 cards";
-    $("fb").textContent="No cards here — change the filter, or well done! 🎉";return;
-  }
-  $("scene").style.display="";
-  const n=deck[i],[fr,en,cat,exF,exE]=W[n];
-  $("pos").textContent=`Card ${i+1} / ${deck.length}`;
-  $("tagF").textContent=$("tagB").textContent=cat+(status[n]==="k"?" · ✓":status[n]==="l"?" · ✗":"");
-  $("front").textContent=dirFR?fr:en;
-  $("frontSub").textContent=dirFR?"":"→ in French?";
-  $("backW").textContent=dirFR?en:fr;
-  $("backSub").textContent=dirFR?fr:en;
-  $("ex").innerHTML=`« ${exF} »<small>${exE}</small>`;
-  $("starF").classList.toggle("on",!!stars[n]);
-  $("speakF").style.visibility=dirFR?"visible":"hidden";
-  if(auto&&dirFR)speak();
-  if(quiz)setTimeout(()=>$("answer").focus(),50);
-}
-function flip(){if(!deck.length)return;flipped=!flipped;$("card").classList.toggle("flipped",flipped);if(flipped&&auto&&!dirFR)speak()}
-function go(d){if(!deck.length)return;i=(i+d+deck.length)%deck.length;render()}
-function mark(s){if(!deck.length)return;status[deck[i]]=s;store.set("status",status);renderTable();
-  const f=$("filter").value;
-  if((f==="unknown"&&s==="k")||(f==="learning"&&s==="k")){deck.splice(i,1);if(i>=deck.length)i=0;render()}else go(1)}
-const norm=s=>s.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g,"").replace(/^(to |the |l'|le |la |les |un |une )/,"").replace(/\(.*?\)/g,"").trim();
-function check(){
-  if(!deck.length)return;
-  const n=deck[i],target=dirFR?W[n][1]:W[n][0],a=norm($("answer").value);
-  if(!a)return;
-  const ok=target.split(/\s*\/\s*/).some(t=>{t=norm(t);return t===a||t.includes(a)&&a.length>2});
-  $("fb").textContent=ok?"✓ Correct!":`✗ Answer: ${target}`;
-  $("fb").style.color=ok?"var(--good)":"var(--bad)";
-  if(!flipped)flip();
-  status[n]=ok?"k":"l";store.set("status",status);renderTable();
-}
-function renderTable(){
-  $("table").innerHTML=W.map((w,n)=>`<tr><td><span class="dot ${status[n]||""}"></span></td><td><b>${w[0]}</b></td><td>${w[1]}</td><td style="color:var(--muted)">${w[2]}</td></tr>`).join("");
-}
-function setBtns(){
-  $("dir").textContent=dirFR?"FR → EN":"EN → FR";
-  $("autoSpeak").classList.toggle("on",auto);
-  $("quizBtn").classList.toggle("on",quiz);$("quiz").hidden=!quiz;
-}
-
-$("scene").onclick=e=>{if(e.target.closest("button"))return;flip()};
-$("prev").onclick=()=>go(-1);$("next").onclick=()=>go(1);
-$("again").onclick=()=>mark("l");$("know").onclick=()=>mark("k");
-$("speakF").onclick=$("speakB").onclick=speak;
-$("starF").onclick=()=>{const n=deck[i];stars[n]=!stars[n];store.set("stars",stars);$("starF").classList.toggle("on",stars[n])};
-$("shuffle").onclick=()=>build(true);
-$("cat").onchange=$("filter").onchange=()=>build(false);
-$("dir").onclick=()=>{dirFR=!dirFR;store.set("dirFR",dirFR);setBtns();render()};
-$("autoSpeak").onclick=()=>{auto=!auto;store.set("auto",auto);setBtns();if(auto)speak()};
-$("quizBtn").onclick=()=>{quiz=!quiz;store.set("quiz",quiz);setBtns();render()};
-$("check").onclick=check;
-$("answer").onkeydown=e=>{if(e.key==="Enter"){e.preventDefault();$("fb").textContent&&flipped?go(1):check()}e.stopPropagation()};
-$("reset").onclick=()=>{if(confirm("Reset all progress and stars?")){status={};stars={};store.set("status",status);store.set("stars",stars);renderTable();build(false)}};
-$("theme").onclick=()=>{const r=document.documentElement,dark=r.dataset.theme?r.dataset.theme==="dark":matchMedia("(prefers-color-scheme: dark)").matches;r.dataset.theme=dark?"light":"dark";store.set("theme",r.dataset.theme)};
-const th=store.get("theme",null);if(th)document.documentElement.dataset.theme=th;
-document.onkeydown=e=>{
-  if(e.target.tagName==="SELECT")return;
-  const k=e.key.toLowerCase();
-  if(k===" "){e.preventDefault();flip()}
-  else if(k==="arrowright")go(1);else if(k==="arrowleft")go(-1);
-  else if(k==="1")mark("l");else if(k==="2")mark("k");
-  else if(k==="p")speak();else if(k==="f")$("starF").click();
-  else if(k==="s")build(true);else if(k==="d")$("dir").click();else if(k==="t")$("quizBtn").click();
+const $ = id => document.getElementById(id);
+const esc = s => s.replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const store = {
+  get(k, d){ try { const v = localStorage.getItem("motsA2_"+k); return v === null ? d : JSON.parse(v); } catch(e){ return d; } },
+  set(k, v){ try { localStorage.setItem("motsA2_"+k, JSON.stringify(v)); } catch(e){} }
 };
-if("speechSynthesis"in window)speechSynthesis.onvoiceschanged=()=>{};
-setBtns();renderTable();build(false);
+let status = store.get("status", {}), stars = store.get("stars", {});
+let S = Object.assign({dir:"fr", auto:false, rate:1, voice:"", theme:"auto", quiz:false}, store.get("settings", {}));
+const save = () => store.set("settings", S);
+let deck = [], i = 0, flipped = false, cat = "All";
+
+/* ---------- audio ---------- */
+const slug = k => k.normalize("NFD").replace(/[̀-ͯ]/g,"").replace(/[’']/g,"").replace(/\s+/g,"-").toLowerCase();
+const player = new Audio();
+let playingBtn = null, credits = {};
+fetch("audio/credits.json").then(r => r.json()).then(c => { credits = c; render(); }).catch(() => {});
+function setPlaying(btn){ if (playingBtn) playingBtn.classList.remove("playing"); playingBtn = btn; if (btn) btn.classList.add("playing"); }
+function voices(){ return ("speechSynthesis" in window) ? speechSynthesis.getVoices().filter(v => /^fr/i.test(v.lang)) : []; }
+function bestVoice(){
+  const vs = voices(); if (S.voice) { const v = vs.find(v => v.name === S.voice); if (v) return v; }
+  const rank = v => (/natural|neural/i.test(v.name)?4:0) + (/online|google/i.test(v.name)?2:0) + (/fr-FR/i.test(v.lang)?1:0);
+  return vs.sort((a,b) => rank(b)-rank(a))[0];
+}
+function tts(text, btn){
+  if (!("speechSynthesis" in window)) return;
+  player.pause(); speechSynthesis.cancel();
+  const u = new SpeechSynthesisUtterance(text.replace(/\(.*?\)/g,""));
+  u.lang = "fr-FR"; u.rate = S.rate < 1 ? .7 : .92; const v = bestVoice(); if (v) u.voice = v;
+  setPlaying(btn); u.onend = u.onerror = () => setPlaying(null);
+  speechSynthesis.speak(u);
+}
+function playWord(n, btn){
+  const w = WORDS[n], keys = w[5] || [w[0]];
+  if ("speechSynthesis" in window) speechSynthesis.cancel();
+  let k = 0; setPlaying(btn);
+  const next = () => {
+    if (k >= keys.length) { setPlaying(null); return; }
+    player.src = "audio/" + slug(keys[k++]) + ".mp3"; player.playbackRate = S.rate;
+    player.play().catch(fallback);
+  };
+  const fallback = () => { player.onended = player.onerror = null; tts(keys.join(", "), btn); };
+  player.onended = () => setTimeout(next, 250);
+  player.onerror = fallback;
+  next();
+}
+function populateVoices(){
+  const vs = voices(), sel = $("voice"), best = bestVoice();
+  sel.innerHTML = vs.length ? vs.map(v => `<option ${v.name === (S.voice || best?.name) ? "selected" : ""}>${esc(v.name)}</option>`).join("") : `<option>No French voice found on this device</option>`;
+}
+if ("speechSynthesis" in window) speechSynthesis.onvoiceschanged = populateVoices;
+$("voice").onchange = e => { S.voice = e.target.value; save(); tts("Bonjour, comment ça va ?"); };
+
+/* ---------- cards ---------- */
+const CATS = ["All", ...new Set(WORDS.map(w => w[2]))];
+$("cats").innerHTML = CATS.map(c => `<button class="chip" data-cat="${c}">${c === "All" ? "All" : c}</button>`).join("");
+$("cats").onclick = e => { const b = e.target.closest("[data-cat]"); if (!b) return; cat = b.dataset.cat; build(false); };
+
+function gender(fr){
+  if (/^le |\(m\)/.test(fr)) return "m"; if (/^la |\(f/.test(fr)) return "f"; return "";
+}
+function fmtFr(fr){
+  return esc(fr).replace(/^(le|la|les|l')(\s?)/, (m, a, s) => `<span class="art-${gender(fr) || "m"}">${a}</span>${s}`);
+}
+function build(shuffle){
+  const f = $("filter").value;
+  deck = WORDS.map((_, n) => n).filter(n => (cat === "All" || WORDS[n][2] === cat) && (
+    f === "all" || (f === "unknown" && status[n] !== "k") || (f === "learning" && status[n] === "l") || (f === "starred" && stars[n])));
+  if (shuffle) for (let a = deck.length-1; a > 0; a--) { const b = Math.random()*(a+1)|0; [deck[a], deck[b]] = [deck[b], deck[a]]; }
+  i = 0; document.querySelectorAll("[data-cat]").forEach(b => b.classList.toggle("on", b.dataset.cat === cat));
+  render(true);
+}
+function stats(){
+  const v = Object.values(status), k = v.filter(s => s === "k").length, l = v.filter(s => s === "l").length;
+  $("sKnown").textContent = k; $("sAgain").textContent = l; $("sLeft").textContent = 100 - k - l;
+  $("sStar").textContent = Object.values(stars).filter(Boolean).length;
+  $("meter").style.width = k + "%";
+}
+function render(anim){
+  stats(); flipped = false; $("card").classList.remove("flipped"); $("fb").textContent = ""; $("answer").value = "";
+  const has = deck.length > 0; $("cardArea").hidden = !has; $("empty").hidden = has;
+  if (!has) { $("pos").textContent = "0 cards"; $("catLbl").textContent = ""; return; }
+  const n = deck[i], [fr, en, c, exF, exE] = WORDS[n], frFront = S.dir === "fr", g = gender(fr);
+  $("pos").textContent = `${String(i+1).padStart(2,"0")} / ${String(deck.length).padStart(2,"0")}`;
+  $("catLbl").textContent = cat === "All" ? "All categories" : cat;
+  $("fCat").textContent = $("bCat").textContent = c;
+  $("fGen").hidden = !g || !frFront; $("fGen").className = "pill " + g; $("fGen").textContent = g === "m" ? "masc." : "fém.";
+  $("fStat").hidden = !status[n]; $("fStat").className = "pill " + (status[n] || ""); $("fStat").textContent = status[n] === "k" ? "✓ known" : "✗ review";
+  $("fWord").innerHTML = frFront ? fmtFr(fr) : esc(en);
+  $("fHint").textContent = frFront ? "Tap to flip" : "How do you say it in French?";
+  $("bWord").innerHTML = frFront ? esc(en) : fmtFr(fr);
+  $("bSub").innerHTML = frFront ? fmtFr(fr) : esc(en);
+  $("exFr").textContent = "« " + exF + " »"; $("exEn").textContent = exE;
+  $("star").classList.toggle("on", !!stars[n]);
+  $("playF").hidden = !frFront;
+  const key = (WORDS[n][5] || [fr])[0], cr = credits[key];
+  $("fSrc").textContent = frFront && cr ? "🎙 " + cr.speaker : "";
+  $("conjLink").hidden = !CONJ[fr];
+  if (anim) { const s = $("scene"); s.classList.remove("in"); void s.offsetWidth; s.classList.add("in"); }
+  if (S.auto && frFront) playWord(n, $("playF"));
+  // warm the cache for this card and the next one so audio starts instantly
+  [n, deck[(i+1) % deck.length]].forEach(m => (WORDS[m][5] || [WORDS[m][0]]).forEach(k => { const a = new Audio(); a.preload = "auto"; a.src = "audio/" + slug(k) + ".mp3"; }));
+  if (S.quiz) setTimeout(() => $("answer").focus({preventScroll:true}), 60);
+}
+function flip(){
+  if (!deck.length) return; flipped = !flipped; $("card").classList.toggle("flipped", flipped);
+  if (flipped && S.auto && S.dir === "en") playWord(deck[i], $("playB"));
+}
+function go(d){ if (!deck.length) return; i = (i + d + deck.length) % deck.length; render(true); }
+function mark(s){
+  if (!deck.length) return;
+  const n = deck[i]; status[n] = s; store.set("status", status); renderList();
+  const sc = $("scene"); sc.classList.add(s === "k" ? "out-r" : "out-l");
+  setTimeout(() => {
+    sc.classList.remove("out-r", "out-l");
+    const f = $("filter").value;
+    if ((f === "unknown" || f === "learning") && s === "k") { deck.splice(i, 1); if (i >= deck.length) i = 0; render(true); }
+    else go(1);
+  }, 300);
+}
+const norm = s => s.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g,"").replace(/\(.*?\)/g,"").replace(/[’]/g,"'").replace(/^(to |the |l'|le |la |les |un |une )/,"").trim();
+function check(){
+  if (!deck.length) return;
+  const n = deck[i], target = S.dir === "fr" ? WORDS[n][1] : WORDS[n][0], a = norm($("answer").value);
+  if (!a) return;
+  const ok = target.split(/\s*\/\s*/).some(t => { t = norm(t); return t === a || (a.length > 2 && t.includes(a)); });
+  $("fb").textContent = ok ? "✓ Correct!" : "✗ Answer: " + target;
+  $("fb").style.color = ok ? "var(--good)" : "var(--bad)";
+  if (!flipped) flip();
+  status[n] = ok ? "k" : "l"; store.set("status", status); stats(); renderList();
+  if (S.dir === "en" || ok) playWord(n, $("playB"));
+}
+
+$("scene").addEventListener("click", e => { if (e.target.closest("button")) return; flip(); });
+$("prev").onclick = () => go(-1); $("next").onclick = () => go(1);
+$("again").onclick = () => mark("l"); $("know").onclick = () => mark("k");
+$("playF").onclick = $("playB").onclick = e => playWord(deck[i], e.currentTarget);
+$("playEx").onclick = e => tts(WORDS[deck[i]][3], e.currentTarget);
+$("star").onclick = () => { const n = deck[i]; stars[n] = !stars[n]; store.set("stars", stars); $("star").classList.toggle("on", stars[n]); stats(); };
+$("conjLink").onclick = () => { showView("conj"); selectVerb(WORDS[deck[i]][0]); };
+$("shuffle").onclick = () => build(true);
+$("filter").onchange = () => build(false);
+$("quizBtn").onclick = () => { S.quiz = !S.quiz; save(); syncUI(); render(); };
+$("dirBtn").onclick = () => { S.dir = S.dir === "fr" ? "en" : "fr"; save(); syncUI(); render(true); };
+$("check").onclick = check;
+$("answer").addEventListener("keydown", e => { e.stopPropagation(); if (e.key === "Enter") { e.preventDefault(); flipped && $("fb").textContent ? go(1) : check(); } });
+
+// swipe on touch screens
+let sx = null, sy = null;
+$("scene").addEventListener("touchstart", e => { sx = e.touches[0].clientX; sy = e.touches[0].clientY; }, {passive:true});
+$("scene").addEventListener("touchend", e => {
+  if (sx === null) return; const dx = e.changedTouches[0].clientX - sx, dy = e.changedTouches[0].clientY - sy; sx = null;
+  if (Math.abs(dx) > 70 && Math.abs(dx) > Math.abs(dy) * 1.5) mark(dx > 0 ? "k" : "l");
+});
+
+/* ---------- conjugation ---------- */
+const VERBS = WORDS.filter(w => CONJ[w[0]]);
+let curVerb = store.get("verb", "être");
+function renderVerbChips(){
+  const q = norm($("vSearch").value || "");
+  $("verbs").innerHTML = VERBS.filter(w => !q || norm(w[0]).includes(q) || norm(w[1]).includes(q))
+    .map(w => `<button class="chip ${w[0] === curVerb ? "on" : ""}" data-verb="${w[0]}">${w[0]}</button>`).join("");
+}
+function selectVerb(v){ curVerb = v; store.set("verb", v); renderVerbChips(); renderConj(); }
+function renderConj(){
+  const w = WORDS.find(x => x[0] === curVerb), c = CONJ[curVerb], {present, imp} = conjugate(curVerb);
+  const row = (k, html, plain) => `<button class="row" data-say="${esc(plain)}"><span class="pr">${PRONOUNS[k]}</span><span class="fm">${html}</span><span class="spk">🔊</span></button>`;
+  const pres = present.map((f, k) => { const p = withPronoun(k, f); return row(k, (p === "j'" ? "j'" : "") + esc(f), p + f); }).join("");
+  const im = imp.map((f, k) => { const full = f.stem + f.end, p = withPronoun(k, full); return row(k, (p === "j'" ? "j'" : "") + esc(f.stem) + "<em>" + f.end + "</em>", p + full); }).join("");
+  $("conjCard").innerHTML = `
+    <div class="conj-top"><button class="play" id="cPlay" aria-label="Listen"><svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor"><path d="M3 10v4a1 1 0 0 0 1 1h3l4 4V5L7 9H4a1 1 0 0 0-1 1zm13.5 2a4.5 4.5 0 0 0-2.5-4v8a4.5 4.5 0 0 0 2.5-4zM14 3.2v2.1a7 7 0 0 1 0 13.4v2.1a9 9 0 0 0 0-17.6z"/></svg><span class="eq"><i></i><i></i><i></i></span></button>
+      <div><h3>${esc(curVerb)}</h3><div class="en">${esc(w[1])}</div></div>
+      <span class="pill ${c.g === 1 ? "k" : "l"}">${c.g === 1 ? "regular -er" : "irregular"}</span></div>
+    <div class="tables">
+      <div class="tense"><h4>Présent <span>now / usually</span></h4>${pres}</div>
+      <div class="tense"><h4>Imparfait <span>used to / was …ing</span></h4>${im}</div>
+    </div>
+    ${c.note ? `<div class="note"><b>Note:</b> ${esc(c.note)}</div>` : ""}
+    <div class="conj-ex"><button class="play sm" id="cEx" aria-label="Listen to example"><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg><span class="eq"><i></i><i></i><i></i></span></button><div><b style="color:var(--ink)">« ${esc(w[3])} »</b><br>${esc(w[4])}</div></div>`;
+  $("cPlay").onclick = e => playWord(WORDS.indexOf(w), e.currentTarget);
+  $("cEx").onclick = e => tts(w[3], e.currentTarget);
+}
+$("verbs").onclick = e => { const b = e.target.closest("[data-verb]"); if (b) selectVerb(b.dataset.verb); };
+$("vSearch").oninput = renderVerbChips;
+$("conjCard").addEventListener("click", e => { const r = e.target.closest("[data-say]"); if (r) tts(r.dataset.say, null); });
+
+/* ---------- list ---------- */
+function renderList(){
+  const q = norm($("lSearch").value || "");
+  $("list").innerHTML = WORDS.map((w, n) => [w, n]).filter(([w]) => !q || norm(w[0]).includes(q) || norm(w[1]).includes(q))
+    .map(([w, n]) => `<div class="li" data-n="${n}"><span class="dot ${status[n] || ""}"></span><span class="fr">${fmtFr(w[0])}</span><span class="en">${esc(w[1])}</span><span class="cat">${w[2]}</span><button class="play sm" data-play="${n}" aria-label="Listen"><svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg><span class="eq"><i></i><i></i><i></i></span></button></div>`).join("");
+}
+$("lSearch").oninput = renderList;
+$("list").onclick = e => {
+  const p = e.target.closest("[data-play]"); if (p) { playWord(+p.dataset.play, p); return; }
+  const r = e.target.closest("[data-n]"); if (!r) return;
+  cat = "All"; $("filter").value = "all"; build(false); i = deck.indexOf(+r.dataset.n); render(true); showView("cards");
+  $("scene").scrollIntoView({behavior:"smooth", block:"center"});
+};
+
+/* ---------- views, settings ---------- */
+function showView(v){
+  ["cards","conj","list"].forEach(x => $("view-" + x).hidden = x !== v);
+  document.querySelectorAll(".nav-btn").forEach(b => b.dataset.view === v ? b.setAttribute("aria-current","page") : b.removeAttribute("aria-current"));
+  movePill(); if (location.hash !== "#" + v) history.replaceState(null, "", "#" + v);
+  window.scrollTo({top:0});
+}
+function movePill(){ const b = document.querySelector('.nav-btn[aria-current="page"]'); if (!b) return; $("navPill").style.left = b.offsetLeft + "px"; $("navPill").style.width = b.offsetWidth + "px"; }
+$("nav").onclick = e => { const b = e.target.closest("[data-view]"); if (b) showView(b.dataset.view); };
+window.addEventListener("resize", movePill);
+window.addEventListener("hashchange", () => { const v = location.hash.slice(1); if (["cards","conj","list"].includes(v)) showView(v); });
+
+function syncUI(){
+  document.querySelectorAll("[data-dir]").forEach(b => b.classList.toggle("on", b.dataset.dir === S.dir));
+  document.querySelectorAll("[data-auto]").forEach(b => b.classList.toggle("on", (b.dataset.auto === "1") === S.auto));
+  document.querySelectorAll("[data-rate]").forEach(b => b.classList.toggle("on", +b.dataset.rate === S.rate));
+  document.querySelectorAll("[data-theme]").forEach(b => b.classList.toggle("on", b.dataset.theme === S.theme));
+  $("dirBtn").textContent = S.dir === "fr" ? "FR → EN" : "EN → FR";
+  $("quizBtn").classList.toggle("on", S.quiz); $("quiz").hidden = !S.quiz;
+  if (S.theme === "auto") delete document.documentElement.dataset.theme; else document.documentElement.dataset.theme = S.theme;
+}
+$("sheet").onclick = e => {
+  const b = e.target.closest("button"); if (!b) return; const d = b.dataset;
+  if (d.dir) { S.dir = d.dir; render(true); }
+  if (d.auto) S.auto = d.auto === "1";
+  if (d.rate) S.rate = +d.rate;
+  if (d.theme) S.theme = d.theme;
+  save(); syncUI();
+};
+const openSheet = o => { $("sheet").classList.toggle("open", o); $("scrim").classList.toggle("open", o); if (o) populateVoices(); };
+$("openSettings").onclick = () => openSheet(true);
+$("closeSettings").onclick = $("scrim").onclick = () => openSheet(false);
+$("reset").onclick = () => { if (confirm("Reset all progress and stars?")) { status = {}; stars = {}; store.set("status", status); store.set("stars", stars); renderList(); build(false); openSheet(false); } };
+
+document.addEventListener("keydown", e => {
+  if (/INPUT|SELECT|TEXTAREA/.test(e.target.tagName) || e.ctrlKey || e.metaKey || e.altKey) return;
+  if (e.key === "Escape") return openSheet(false);
+  if ($("view-cards").hidden) return;
+  const k = e.key.toLowerCase();
+  if (k === " ") { e.preventDefault(); flip(); }
+  else if (k === "arrowright") go(1); else if (k === "arrowleft") go(-1);
+  else if (k === "1") mark("l"); else if (k === "2") mark("k");
+  else if (k === "p") playWord(deck[i], flipped ? $("playB") : $("playF"));
+  else if (k === "f") $("star").click(); else if (k === "s") build(true);
+  else if (k === "d") $("dirBtn").click(); else if (k === "t") $("quizBtn").click();
+});
+
+syncUI(); renderList(); renderVerbChips(); renderConj(); build(false);
+showView(["cards","conj","list"].includes(location.hash.slice(1)) ? location.hash.slice(1) : "cards");
+document.fonts && document.fonts.ready.then(movePill);
 </script>
 </body>
 </html>
