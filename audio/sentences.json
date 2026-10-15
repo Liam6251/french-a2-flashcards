@@ -1,0 +1,4610 @@
+{
+ "bonjour": {
+  "file": "s/5960.mp3",
+  "t": "Bonjour, comment allez-vous ?",
+  "e": "Hello, how are you?",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/5960"
+ },
+ "comment-ca-va": {
+  "file": "s/4189529.mp3",
+  "t": "Comment ça va ?",
+  "e": "How is life treating you?",
+  "by": "vlecomte",
+  "lic": "CC BY-SA 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/4189529"
+ },
+ "ca-va": {
+  "file": "s/14970.mp3",
+  "t": "Ça va ?",
+  "e": "You all right?",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/14970"
+ },
+ "et-vous-et-toi": {
+  "file": "s/872451.mp3",
+  "t": "Je vais bien, et vous ?",
+  "e": "I am fine, and you?",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/872451"
+ },
+ "au-revoir": {
+  "file": "s/6463385.mp3",
+  "t": "Dis au revoir.",
+  "e": "Say goodbye.",
+  "by": "vlecomte",
+  "lic": "CC BY-SA 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/6463385"
+ },
+ "a-demain": {
+  "file": "s/3214679.mp3",
+  "t": "Attends jusqu'à demain.",
+  "e": "Wait until tomorrow.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/3214679"
+ },
+ "bonne-soiree": {
+  "file": "s/10968777.mp3",
+  "t": "Bonne soirée.",
+  "e": "Have a nice evening.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/10968777"
+ },
+ "bienvenue": {
+  "file": "s/4767880.mp3",
+  "t": "Bienvenue à Boston.",
+  "e": "Welcome to Boston.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/4767880"
+ },
+ "bonne-chance": {
+  "file": "s/8744.mp3",
+  "t": "Bonne chance !",
+  "e": "Good luck to you!",
+  "by": "sacredceltic",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/8744"
+ },
+ "amuse-toi-bien": {
+  "file": "s/9390.mp3",
+  "t": "Amuse-toi bien !",
+  "e": "Have fun.",
+  "by": "vlecomte",
+  "lic": "CC BY-SA 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/9390"
+ },
+ "sil-vous-plait": {
+  "file": "s/130932.mp3",
+  "t": "Expliquez ça s'il vous plaît.",
+  "e": "Please explain it.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/130932"
+ },
+ "sil-te-plait": {
+  "file": "s/1942211.mp3",
+  "t": "S'il te plaît, chante !",
+  "e": "Please sing.",
+  "by": "vlecomte",
+  "lic": "CC BY-SA 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/1942211"
+ },
+ "je-vous-en-prie": {
+  "file": "s/4561833.mp3",
+  "t": "Je vous en prie, servez-vous.",
+  "e": "Please help yourself.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/4561833"
+ },
+ "je-voudrais": {
+  "file": "s/392085.mp3",
+  "t": "Je voudrais manger quelque chose.",
+  "e": "I'd like something to eat.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/392085"
+ },
+ "apres-vous": {
+  "file": "s/547940.mp3",
+  "t": "Après vous.",
+  "e": "After you.",
+  "by": "sacredceltic",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/547940"
+ },
+ "servez-vous": {
+  "file": "s/12817.mp3",
+  "t": "Servez-vous s'il vous plaît.",
+  "e": "Please help yourself.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/12817"
+ },
+ "je-mappelle": {
+  "file": "s/3605783.mp3",
+  "t": "Je m'appelle Pierre.",
+  "e": "My name is Pierre.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/3605783"
+ },
+ "jai-ans": {
+  "file": "s/688710.mp3",
+  "t": "J'ai 24 ans.",
+  "e": "I'm 24 years old.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/688710"
+ },
+ "jhabite-a-en": {
+  "file": "s/2966677.mp3",
+  "t": "J'habite à deux pas.",
+  "e": "I live just around the corner.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/2966677"
+ },
+ "quest-ce-que-cest": {
+  "file": "s/3094.mp3",
+  "t": "Qu'est-ce que c'est ?",
+  "e": "What is it?",
+  "by": "vlecomte",
+  "lic": "CC BY-SA 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/3094"
+ },
+ "cest-combien": {
+  "file": "s/5281900.mp3",
+  "t": "C’est combien ?",
+  "e": "How much is it?",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/5281900"
+ },
+ "il-y-a": {
+  "file": "s/728152.mp3",
+  "t": "Il y a un problème ?",
+  "e": "Is there a problem?",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/728152"
+ },
+ "ou-est-ou-se-trouve": {
+  "file": "s/372133.mp3",
+  "t": "Où est ta chambre ?",
+  "e": "Where is your room?",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/372133"
+ },
+ "a-quelle-heure": {
+  "file": "s/4827451.mp3",
+  "t": "À quelle heure est le coucher de soleil ?",
+  "e": "What time is sunset?",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/4827451"
+ },
+ "quand-est-ce-que": {
+  "file": "s/120024.mp3",
+  "t": "Quand est-ce que ça finit ?",
+  "e": "When does it end?",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/120024"
+ },
+ "combien-de": {
+  "file": "s/576481.mp3",
+  "t": "Combien de temps ça prend ?",
+  "e": "How long does it take?",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/576481"
+ },
+ "qui": {
+  "file": "s/181712.mp3",
+  "t": "Qui est cette fille  ?",
+  "e": "Who is this girl?",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/181712"
+ },
+ "quel-quelle": {
+  "file": "s/14501.mp3",
+  "t": "Quel est votre prénom ?",
+  "e": "What's your first name?",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/14501"
+ },
+ "est-ce-que": {
+  "file": "s/14157.mp3",
+  "t": "C'est ce que je pensais.",
+  "e": "Actually, that's what I thought.",
+  "by": "sacredceltic",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/14157"
+ },
+ "je-cherche": {
+  "file": "s/5419994.mp3",
+  "t": "Je cherche le gérant.",
+  "e": "I'm looking for the manager.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/5419994"
+ },
+ "vous-avez": {
+  "file": "s/335305.mp3",
+  "t": "Qu'est-ce que vous avez ?",
+  "e": "What do you have?",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/335305"
+ },
+ "je-ne-comprends-pas": {
+  "file": "s/1979237.mp3",
+  "t": "Non, je ne comprends pas.",
+  "e": "No, I don't understand.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/1979237"
+ },
+ "je-ne-sais-pas": {
+  "file": "s/389075.mp3",
+  "t": "Je ne sais pas trop.",
+  "e": "I don't really know.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/389075"
+ },
+ "on-pourrait": {
+  "file": "s/11229452.mp3",
+  "t": "On pourrait se relayer.",
+  "e": "We could take turns.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/11229452"
+ },
+ "bonne-idee": {
+  "file": "s/833288.mp3",
+  "t": "J'ai eu une bonne idée.",
+  "e": "I had a good idea.",
+  "by": "sacredceltic",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/833288"
+ },
+ "daccord": {
+  "file": "s/10262.mp3",
+  "t": "Je suis d'accord avec vous.",
+  "e": "I agree with you.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/10262"
+ },
+ "je-nai-pas-le-temps": {
+  "file": "s/458027.mp3",
+  "t": "Je n'ai pas le temps.",
+  "e": "I have no time.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/458027"
+ },
+ "je-ne-sais-pas-encore": {
+  "file": "s/965532.mp3",
+  "t": "Je ne sais pas encore.",
+  "e": "I don't know yet.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/965532"
+ },
+ "peut-etre": {
+  "file": "s/372135.mp3",
+  "t": "Il n'est peut-être pas heureux.",
+  "e": "He may not be happy.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/372135"
+ },
+ "jadore": {
+  "file": "s/128029.mp3",
+  "t": "Moi aussi, j'adore la musique.",
+  "e": "I love music, too.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/128029"
+ },
+ "jaime-beaucoup": {
+  "file": "s/13318.mp3",
+  "t": "J'aime beaucoup le tennis.",
+  "e": "I like tennis very much.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/13318"
+ },
+ "jaime-bien": {
+  "file": "s/10531306.mp3",
+  "t": "J'aime bien ça comme ça.",
+  "e": "I like it like that.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/10531306"
+ },
+ "je-naime-pas-beaucoup": {
+  "file": "s/7406.mp3",
+  "t": "Je n'aime pas beaucoup le fromage.",
+  "e": "I don't like cheese very much.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/7406"
+ },
+ "je-prefere": {
+  "file": "s/6309497.mp3",
+  "t": "Je préfère écrire en français.",
+  "e": "I prefer to write in French.",
+  "by": "vlecomte",
+  "lic": "CC BY-SA 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/6309497"
+ },
+ "ca-me-plait": {
+  "file": "s/3465.mp3",
+  "t": "Ça me plaît beaucoup.",
+  "e": "I like it very much.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/3465"
+ },
+ "ca-ne-me-plait-pas": {
+  "file": "s/2291825.mp3",
+  "t": "Ça ne me plaît pas.",
+  "e": "That isn't to my liking.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/2291825"
+ },
+ "moi-aussi": {
+  "file": "s/433586.mp3",
+  "t": "Moi aussi.",
+  "e": "So do I.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/433586"
+ },
+ "moi-non-plus": {
+  "file": "s/563360.mp3",
+  "t": "Moi non plus.",
+  "e": "Me neither.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/563360"
+ },
+ "moi-si": {
+  "file": "s/965681.mp3",
+  "t": "Appelle-moi si tu trouves quelque chose.",
+  "e": "Call me if you find something.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/965681"
+ },
+ "ca-mest-egal": {
+  "file": "s/4177.mp3",
+  "t": "Ça m'est égal.",
+  "e": "I don't care.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/4177"
+ },
+ "je-pense-que": {
+  "file": "s/2473915.mp3",
+  "t": "Je pense que c'est drôle.",
+  "e": "I think it's funny.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/2473915"
+ },
+ "je-crois-que": {
+  "file": "s/5326569.mp3",
+  "t": "Je crois que nous en avons vu assez.",
+  "e": "I believe we've seen enough.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/5326569"
+ },
+ "je-suis-daccord": {
+  "file": "s/127668.mp3",
+  "t": "Je suis d'accord avec lui.",
+  "e": "I agree with him.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/127668"
+ },
+ "tu-as-tort": {
+  "file": "s/1098030.mp3",
+  "t": "Je pense que tu as tort.",
+  "e": "I think you're wrong.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/1098030"
+ },
+ "cest-vrai": {
+  "file": "s/4242080.mp3",
+  "t": "Je sais que c'est vrai.",
+  "e": "I know this is true.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/4242080"
+ },
+ "pas-du-tout": {
+  "file": "s/3777185.mp3",
+  "t": "Non, pas du tout.",
+  "e": "No, not at all.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/3777185"
+ },
+ "exactement": {
+  "file": "s/2416857.mp3",
+  "t": "J'ai ressenti exactement la même chose.",
+  "e": "I felt exactly the same way.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/2416857"
+ },
+ "je-suis-desole-e": {
+  "file": "s/464046.mp3",
+  "t": "Je suis désolé d'entendre ça.",
+  "e": "I'm sorry to hear it.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/464046"
+ },
+ "cest-de-ma-faute": {
+  "file": "s/489468.mp3",
+  "t": "C'est de ma faute.",
+  "e": "That's my fault.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/489468"
+ },
+ "je-nai-pas-pu": {
+  "file": "s/135972.mp3",
+  "t": "Je n'ai pas pu aller travailler parce que j'étais malade.",
+  "e": "I couldn't go to work because I was sick.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/135972"
+ },
+ "a-cause-de": {
+  "file": "s/4846909.mp3",
+  "t": "À cause de son ronflement, je n'ai pas pu m'endormir.",
+  "e": "I couldn't sleep because of his snoring.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/4846909"
+ },
+ "jai-oublie": {
+  "file": "s/510932.mp3",
+  "t": "J'ai oublié son adresse.",
+  "e": "I forgot his address.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/510932"
+ },
+ "ne-vous-inquietez-pas": {
+  "file": "s/716558.mp3",
+  "t": "Ne vous inquiétez pas.",
+  "e": "Don't worry.",
+  "by": "vlecomte",
+  "lic": "CC BY-SA 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/716558"
+ },
+ "ne-quittez-pas": {
+  "file": "s/722690.mp3",
+  "t": "Ne quittez pas.",
+  "e": "Hold on.",
+  "by": "vlecomte",
+  "lic": "CC BY-SA 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/722690"
+ },
+ "il-elle-nest-pas-la": {
+  "file": "s/914859.mp3",
+  "t": "Il n'est pas là en ce moment.",
+  "e": "He isn't here now.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/914859"
+ },
+ "comment-vas-tu": {
+  "file": "s/8742.mp3",
+  "t": "Comment vas-tu ?",
+  "e": "How are you doing?",
+  "by": "vlecomte",
+  "lic": "CC BY-SA 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/8742"
+ },
+ "je-peux-vous-aider": {
+  "file": "s/3230879.mp3",
+  "t": "Je peux vous aider.",
+  "e": "I can help you.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/3230879"
+ },
+ "combien-ca-coute-ca-fait-combien": {
+  "file": "s/439117.mp3",
+  "t": "Combien ça coûte ?",
+  "e": "How much does this cost?",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/439117"
+ },
+ "je-le-la-prends": {
+  "file": "s/3383.mp3",
+  "t": "Je le prends.",
+  "e": "I'll take him.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/3383"
+ },
+ "quest-ce-quil-y-a-dans": {
+  "file": "s/10755334.mp3",
+  "t": "Qu'est-ce qu'il y a dans votre coffre ?",
+  "e": "What's in your trunk?",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/10755334"
+ },
+ "je-ne-mange-pas-de": {
+  "file": "s/7411954.mp3",
+  "t": "Je ne mange pas de poisson.",
+  "e": "I don't eat fish.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/7411954"
+ },
+ "cest-loin-dici": {
+  "file": "s/3470.mp3",
+  "t": "C'est loin d'ici ?",
+  "e": "Is it far from here?",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/3470"
+ },
+ "quest-ce-qui-ne-va-pas": {
+  "file": "s/1117978.mp3",
+  "t": "Qu'est-ce qui ne va pas ?",
+  "e": "What's wrong?",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/1117978"
+ },
+ "je-suis-enrhume-e": {
+  "file": "s/585660.mp3",
+  "t": "Je suis enrhumé.",
+  "e": "I have a cold.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/585660"
+ },
+ "au-secours": {
+  "file": "s/7829103.mp3",
+  "t": "Au secours !",
+  "e": "Help!",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/7829103"
+ },
+ "dabord": {
+  "file": "s/1720049.mp3",
+  "t": "D'abord, je veux manger un peu de gâteau.",
+  "e": "First, I want to eat a little bit of cake.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/1720049"
+ },
+ "cetait": {
+  "file": "s/12353.mp3",
+  "t": "C'était il y a des années.",
+  "e": "It was ages ago.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/12353"
+ },
+ "je-suis-alle-e": {
+  "file": "s/1020891.mp3",
+  "t": "Je suis allé au supermarché.",
+  "e": "I went to the supermarket.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/1020891"
+ },
+ "ca-sest-bien-passe": {
+  "file": "s/5375570.mp3",
+  "t": "Ça s'est bien passé.",
+  "e": "It went OK.",
+  "by": "vlecomte",
+  "lic": "CC BY-SA 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/5375570"
+ },
+ "je-vais-infinitif": {
+  "file": "s/5347897.mp3",
+  "t": "Je vais être ton avocat.",
+  "e": "I'm going to be your lawyer.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/5347897"
+ },
+ "jai-lintention-de": {
+  "file": "s/4857158.mp3",
+  "t": "J'ai l'intention de l'écouter ce soir.",
+  "e": "I intend to listen to it tonight.",
+  "by": "sacredceltic",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/4857158"
+ },
+ "jai-envie-de": {
+  "file": "s/12617.mp3",
+  "t": "J'ai envie de me reposer.",
+  "e": "I feel like taking a rest.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/12617"
+ },
+ "je-compte": {
+  "file": "s/9761671.mp3",
+  "t": "Je compte sauter le déjeuner.",
+  "e": "I plan to skip lunch.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/9761671"
+ },
+ "jespere": {
+  "file": "s/10071068.mp3",
+  "t": "J'espère que ça va marcher.",
+  "e": "I hope it pans out.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/10071068"
+ },
+ "tu-devrais": {
+  "file": "s/917495.mp3",
+  "t": "Tu devrais le savoir.",
+  "e": "You should know it.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/917495"
+ },
+ "vous-devriez": {
+  "file": "s/4827576.mp3",
+  "t": "Vous devriez faire ça.",
+  "e": "You should do that.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/4827576"
+ },
+ "fais-attention": {
+  "file": "s/7410786.mp3",
+  "t": "Fais attention, Tom.",
+  "e": "Be careful, Tom.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/7410786"
+ },
+ "et": {
+  "file": "s/477688.mp3",
+  "t": "Lui et moi sommes cousins.",
+  "e": "He and I are cousins.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/477688"
+ },
+ "alors": {
+  "file": "s/566857.mp3",
+  "t": "Alors commençons.",
+  "e": "Then let us begin.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/566857"
+ },
+ "si": {
+  "file": "s/9767738.mp3",
+  "t": "N'aie pas l'air si triste.",
+  "e": "Don't look so grim.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/9767738"
+ },
+ "cest-pourquoi": {
+  "file": "s/513910.mp3",
+  "t": "C'est pourquoi je suis en retard.",
+  "e": "That's why I'm late.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/513910"
+ },
+ "avoir-besoin-de": {
+  "file": "s/3470513.mp3",
+  "t": "Tu pourrais avoir besoin de ceci.",
+  "e": "You may need this.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/3470513"
+ },
+ "aller-infinitif": {
+  "file": "s/2460117.mp3",
+  "t": "Qui va y aller ?",
+  "e": "Who's going?",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/2460117"
+ },
+ "nimporte-quoi": {
+  "file": "s/10499043.mp3",
+  "t": "C'est absolument n'importe quoi.",
+  "e": "That's pure nonsense.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/10499043"
+ },
+ "jen-ai-besoin": {
+  "file": "s/2482624.mp3",
+  "t": "J'en ai besoin.",
+  "e": "I need that.",
+  "by": "sacredceltic",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/2482624"
+ },
+ "jy-vais": {
+  "file": "s/4693450.mp3",
+  "t": "J'y vais maintenant.",
+  "e": "I'm going there now.",
+  "by": "vlecomte",
+  "lic": "CC BY-SA 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/4693450"
+ },
+ "vas-y-allez-y": {
+  "file": "s/1534515.mp3",
+  "t": "Vas-y !",
+  "e": "Go ahead.",
+  "by": "sacredceltic",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/1534515"
+ },
+ "ca-suffit": {
+  "file": "s/7414873.mp3",
+  "t": "J'espère que ça suffit.",
+  "e": "I hope it's enough.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/7414873"
+ },
+ "repondez-aux-questions": {
+  "file": "s/11338039.mp3",
+  "t": "Répondez aux questions.",
+  "e": "Answer the questions.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/11338039"
+ },
+ "ecrivez": {
+  "file": "s/6463286.mp3",
+  "t": "Écrivez-vous en français ?",
+  "e": "Do you write in French?",
+  "by": "vlecomte",
+  "lic": "CC BY-SA 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/6463286"
+ },
+ "etre": {
+  "file": "s/3476.mp3",
+  "t": "Comment est-ce que tu t'appelles ?",
+  "e": "What is your name?",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/3476"
+ },
+ "avoir": {
+  "file": "s/4210.mp3",
+  "t": "Je ne l'ai pas fait exprès.",
+  "e": "I didn't mean it.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/4210"
+ },
+ "faire": {
+  "file": "s/429231.mp3",
+  "t": "Ne fais pas de bruit.",
+  "e": "Don't make a noise.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/429231"
+ },
+ "aller": {
+  "file": "s/11496.mp3",
+  "t": "Je vais à la maison maintenant.",
+  "e": "I'm going home now.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/11496"
+ },
+ "pouvoir": {
+  "file": "s/11593966.mp3",
+  "t": "Je ne sais pas si je vais pouvoir t'aider.",
+  "e": "I don't know if I'll be able to help you.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/11593966"
+ },
+ "vouloir": {
+  "file": "s/1309656.mp3",
+  "t": "Que voulez-vous manger ce week-end ?",
+  "e": "What do you want to eat this weekend?",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/1309656"
+ },
+ "devoir": {
+  "file": "s/10025.mp3",
+  "t": "Je dois en acheter un.",
+  "e": "I must buy one.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/10025"
+ },
+ "dire": {
+  "file": "s/341310.mp3",
+  "t": "Il n'a pas dit un mot.",
+  "e": "He didn't say a word.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/341310"
+ },
+ "voir": {
+  "file": "s/10403.mp3",
+  "t": "As-tu vu mon appareil photo ?",
+  "e": "Did you see my camera?",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/10403"
+ },
+ "savoir": {
+  "file": "s/9065.mp3",
+  "t": "Je sais que vous êtes riche.",
+  "e": "I know you are rich.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/9065"
+ },
+ "prendre": {
+  "file": "s/801103.mp3",
+  "t": "Prends un bain s'il te plaît.",
+  "e": "Please take a bath.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/801103"
+ },
+ "venir": {
+  "file": "s/6828.mp3",
+  "t": "Venez avec moi, je vous prie.",
+  "e": "Come along with me.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/6828"
+ },
+ "mettre": {
+  "file": "s/2390703.mp3",
+  "t": "Je l'ai mise quelque part ici.",
+  "e": "I put it here somewhere.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/2390703"
+ },
+ "parler": {
+  "file": "s/14314.mp3",
+  "t": "Je ne sais pas parler français.",
+  "e": "I can't speak French.",
+  "by": "vlecomte",
+  "lic": "CC BY-SA 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/14314"
+ },
+ "aimer": {
+  "file": "s/120011.mp3",
+  "t": "Qu'est-ce que tu aimes bien ?",
+  "e": "What do you like?",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/120011"
+ },
+ "manger": {
+  "file": "s/12452.mp3",
+  "t": "Ne mange pas comme un porc.",
+  "e": "Don't eat like a pig.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/12452"
+ },
+ "boire": {
+  "file": "s/14004.mp3",
+  "t": "Je vais te payer à boire.",
+  "e": "I'll buy you a drink.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/14004"
+ },
+ "acheter": {
+  "file": "s/11274408.mp3",
+  "t": "Achetez tout ce que vous voulez.",
+  "e": "Buy whatever you want.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/11274408"
+ },
+ "habiter": {
+  "file": "s/12874.mp3",
+  "t": "Au fait, où habitez-vous ?",
+  "e": "By the way, where do you live?",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/12874"
+ },
+ "travailler": {
+  "file": "s/3669707.mp3",
+  "t": "Je suis en train de travailler.",
+  "e": "I am working.",
+  "by": "vlecomte",
+  "lic": "CC BY-SA 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/3669707"
+ },
+ "partir": {
+  "file": "s/8507.mp3",
+  "t": "Je peux partir, maintenant ?",
+  "e": "May I leave now?",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/8507"
+ },
+ "sortir": {
+  "file": "s/11054426.mp3",
+  "t": "Ne laissez pas sortir le chien.",
+  "e": "Don't let the dog out.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/11054426"
+ },
+ "attendre": {
+  "file": "s/4245045.mp3",
+  "t": "Je vais attendre dans la voiture.",
+  "e": "I'll wait in the car.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/4245045"
+ },
+ "comprendre": {
+  "file": "s/11403.mp3",
+  "t": "Je ne comprends pas ce mot.",
+  "e": "I don't understand this word.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/11403"
+ },
+ "connaitre": {
+  "file": "s/2470536.mp3",
+  "t": "Connaissez-vous son nom de famille ?",
+  "e": "Do you know his last name?",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/2470536"
+ },
+ "penser": {
+  "file": "s/747288.mp3",
+  "t": "Je pense que vous avez raison.",
+  "e": "I think you're right.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/747288"
+ },
+ "trouver": {
+  "file": "s/1151650.mp3",
+  "t": "Je ne trouve pas ma clé.",
+  "e": "I can't find my key.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/1151650"
+ },
+ "donner": {
+  "file": "s/5594113.mp3",
+  "t": "Je ne leur ai rien donné.",
+  "e": "I didn't give them anything.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/5594113"
+ },
+ "demander": {
+  "file": "s/3470459.mp3",
+  "t": "Vous avez demandé à me voir.",
+  "e": "You asked to see me.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/3470459"
+ },
+ "arriver": {
+  "file": "s/3794649.mp3",
+  "t": "Quand est-ce que ça arrivera ?",
+  "e": "When will it happen?",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/3794649"
+ },
+ "le-temps": {
+  "file": "s/890893.mp3",
+  "t": "Il est temps de s'en aller.",
+  "e": "It's time to leave.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/890893"
+ },
+ "le-jour": {
+  "file": "s/1196785.mp3",
+  "t": "Nous mangeons trois fois par jour.",
+  "e": "We eat a meal three times a day.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/1196785"
+ },
+ "lan-lannee": {
+  "file": "s/9953290.mp3",
+  "t": "Attends l'année prochaine.",
+  "e": "Wait till next year.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/9953290"
+ },
+ "la-semaine": {
+  "file": "s/429109.mp3",
+  "t": "Je nage une fois par semaine.",
+  "e": "I swim once a week.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/429109"
+ },
+ "lheure-f": {
+  "file": "s/3072516.mp3",
+  "t": "Il est l'heure d'aller au lit.",
+  "e": "It's time for bed.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/3072516"
+ },
+ "la-maison": {
+  "file": "s/132067.mp3",
+  "t": "Il est à la maison aujourd'hui.",
+  "e": "He is at home today.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/132067"
+ },
+ "la-famille": {
+  "file": "s/914656.mp3",
+  "t": "Comment s'écrit votre nom de famille ?",
+  "e": "How is your family name written?",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/914656"
+ },
+ "lami-lamie": {
+  "file": "s/331126.mp3",
+  "t": "J'ai rencontré un ami là-bas.",
+  "e": "I met a friend there.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/331126"
+ },
+ "lenfant": {
+  "file": "s/10699662.mp3",
+  "t": "Mon enfant est malade.",
+  "e": "My child is sick.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/10699662"
+ },
+ "la-ville": {
+  "file": "s/139756.mp3",
+  "t": "Je voudrais un plan de la ville.",
+  "e": "I'd like a map of the city.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/139756"
+ },
+ "le-travail": {
+  "file": "s/10494390.mp3",
+  "t": "Je ne trouvais pas de travail.",
+  "e": "I couldn't find a job.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/10494390"
+ },
+ "lecole-f": {
+  "file": "s/339595.mp3",
+  "t": "Où se trouve ton école ?",
+  "e": "Where is your school?",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/339595"
+ },
+ "largent-m": {
+  "file": "s/11152426.mp3",
+  "t": "Tout le monde a besoin d'argent.",
+  "e": "Everyone needs money.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/11152426"
+ },
+ "la-voiture": {
+  "file": "s/728136.mp3",
+  "t": "J'ai perdu ma clé de voiture.",
+  "e": "I've lost my car key.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/728136"
+ },
+ "le-pays": {
+  "file": "s/3674723.mp3",
+  "t": "Tous les pays d'Europe portent le nom d'un de leurs envahisseurs.",
+  "e": "All the countries of Europe carry the name of their invaders.",
+  "by": "sacredceltic",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/3674723"
+ },
+ "la-chose": {
+  "file": "s/5391403.mp3",
+  "t": "C'était la seule chose à faire.",
+  "e": "It was the only thing to do.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/5391403"
+ },
+ "la-vie": {
+  "file": "s/14662.mp3",
+  "t": "La vie n'est pas toujours agréable.",
+  "e": "Life is not all fun.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/14662"
+ },
+ "le-monde": {
+  "file": "s/435907.mp3",
+  "t": "Le monde est petit.",
+  "e": "What a small world!",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/435907"
+ },
+ "le-repas": {
+  "file": "s/939959.mp3",
+  "t": "Merci pour le repas.",
+  "e": "Thanks for the meal.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/939959"
+ },
+ "leau-f": {
+  "file": "s/609944.mp3",
+  "t": "Un peu d'eau, s'il vous plaît.",
+  "e": "Some water, please.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/609944"
+ },
+ "le-pain": {
+  "file": "s/5829932.mp3",
+  "t": "Le pain français est délicieux.",
+  "e": "French bread is delicious.",
+  "by": "vlecomte",
+  "lic": "CC BY-SA 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/5829932"
+ },
+ "la-chambre": {
+  "file": "s/516032.mp3",
+  "t": "C'est la chambre de qui ?",
+  "e": "Whose room is this?",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/516032"
+ },
+ "les-vacances-f-pl": {
+  "file": "s/1612831.mp3",
+  "t": "Comment se sont passées tes vacances ?",
+  "e": "How was your holiday?",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/1612831"
+ },
+ "grand-grande": {
+  "file": "s/428238.mp3",
+  "t": "Je suis plus grand que toi.",
+  "e": "I'm taller than you.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/428238"
+ },
+ "petit-petite": {
+  "file": "s/5939128.mp3",
+  "t": "J'ai moi-même un petit peu soif.",
+  "e": "I'm a little thirsty myself.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/5939128"
+ },
+ "bon-bonne": {
+  "file": "s/14844.mp3",
+  "t": "Je suis bon en ski.",
+  "e": "I'm good at skiing.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/14844"
+ },
+ "mauvais-mauvaise": {
+  "file": "s/10766910.mp3",
+  "t": "C'est un très mauvais jeu de mots.",
+  "e": "That's a very bad pun.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/10766910"
+ },
+ "nouveau-nouvelle": {
+  "file": "s/3693045.mp3",
+  "t": "Il y a du nouveau ?",
+  "e": "Anything new?",
+  "by": "vlecomte",
+  "lic": "CC BY-SA 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/3693045"
+ },
+ "vieux-vieille": {
+  "file": "s/353423.mp3",
+  "t": "Je suis plus vieux que lui.",
+  "e": "I am older than him.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/353423"
+ },
+ "beau-belle": {
+  "file": "s/3651.mp3",
+  "t": "La vie est belle.",
+  "e": "Life is beautiful.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/3651"
+ },
+ "jeune": {
+  "file": "s/1451254.mp3",
+  "t": "Il est très jeune.",
+  "e": "He is very young.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/1451254"
+ },
+ "facile": {
+  "file": "s/6668616.mp3",
+  "t": "C'était plus facile que je le pensais.",
+  "e": "This was easier than I thought.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/6668616"
+ },
+ "difficile": {
+  "file": "s/6463150.mp3",
+  "t": "Est-il difficile d'apprendre le français ?",
+  "e": "Is it difficult to learn French?",
+  "by": "vlecomte",
+  "lic": "CC BY-SA 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/6463150"
+ },
+ "content-contente": {
+  "file": "s/3162974.mp3",
+  "t": "Je ne suis pas content.",
+  "e": "I am not happy.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/3162974"
+ },
+ "fatigue-fatiguee": {
+  "file": "s/135143.mp3",
+  "t": "Je ne suis pas fatigué du tout.",
+  "e": "I'm not at all tired.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/135143"
+ },
+ "cher-chere": {
+  "file": "s/12360.mp3",
+  "t": "Ce n'est pas cher.",
+  "e": "It isn't expensive.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/12360"
+ },
+ "prochain-prochaine": {
+  "file": "s/1317161.mp3",
+  "t": "Il prend sa retraite au printemps prochain.",
+  "e": "He retires next spring.",
+  "by": "sacredceltic",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/1317161"
+ },
+ "dernier-derniere": {
+  "file": "s/474839.mp3",
+  "t": "Où êtes-vous allé dimanche dernier ?",
+  "e": "Where did you go last Sunday?",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/474839"
+ },
+ "aujourdhui": {
+  "file": "s/6513.mp3",
+  "t": "Je ne suis pas occupé aujourd'hui.",
+  "e": "I'm not busy today.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/6513"
+ },
+ "demain": {
+  "file": "s/3391824.mp3",
+  "t": "Je vais aller chez toi demain.",
+  "e": "I will go to your house tomorrow.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/3391824"
+ },
+ "hier": {
+  "file": "s/6275819.mp3",
+  "t": "Tu es allé où, hier ?",
+  "e": "Where did you go yesterday?",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/6275819"
+ },
+ "maintenant": {
+  "file": "s/10966121.mp3",
+  "t": "Tu fais quelle taille maintenant ?",
+  "e": "How tall are you now?",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/10966121"
+ },
+ "toujours": {
+  "file": "s/2807233.mp3",
+  "t": "Pourquoi suis-je toujours en vie ?",
+  "e": "Why am I still alive?",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/2807233"
+ },
+ "souvent": {
+  "file": "s/6275784.mp3",
+  "t": "Vous allez souvent au cinéma ?",
+  "e": "Do you go to the movies often?",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/6275784"
+ },
+ "jamais": {
+  "file": "s/6944.mp3",
+  "t": "Je ne bois jamais de bière.",
+  "e": "I never touch beer.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/6944"
+ },
+ "deja": {
+  "file": "s/1353764.mp3",
+  "t": "Avez-vous déjà lu ce livre ?",
+  "e": "Have you read this book already?",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/1353764"
+ },
+ "encore": {
+  "file": "s/11180022.mp3",
+  "t": "Je suis encore à moitié endormi.",
+  "e": "I'm still half asleep.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/11180022"
+ },
+ "apres": {
+  "file": "s/999406.mp3",
+  "t": "Où vas-tu aller cette après-midi ?",
+  "e": "Where are you going this afternoon?",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/999406"
+ },
+ "avant": {
+  "file": "s/5603495.mp3",
+  "t": "Que faisiez-vous avant ceci ?",
+  "e": "What were you doing before this?",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/5603495"
+ },
+ "ici": {
+  "file": "s/463994.mp3",
+  "t": "Viens-tu ici tous les jours ?",
+  "e": "Do you come here every day?",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/463994"
+ },
+ "la-bas": {
+  "file": "s/329743.mp3",
+  "t": "Est-ce qu'il fait chaud là-bas ?",
+  "e": "Is it hot over there?",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/329743"
+ },
+ "tres": {
+  "file": "s/1337179.mp3",
+  "t": "Je suis très triste d'entendre ça.",
+  "e": "I'm very sad to hear that.",
+  "by": "sacredceltic",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/1337179"
+ },
+ "beaucoup": {
+  "file": "s/3470449.mp3",
+  "t": "Tu m'as fait beaucoup de mal.",
+  "e": "You've hurt me a lot.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/3470449"
+ },
+ "trop": {
+  "file": "s/132830.mp3",
+  "t": "Il est arrivé trop tôt.",
+  "e": "He arrived too early.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/132830"
+ },
+ "peu": {
+  "file": "s/3801900.mp3",
+  "t": "Tu es un peu en retard.",
+  "e": "You're a little late.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/3801900"
+ },
+ "assez": {
+  "file": "s/398147.mp3",
+  "t": "Nous avons assez de temps.",
+  "e": "We have enough time.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/398147"
+ },
+ "aussi": {
+  "file": "s/1446969.mp3",
+  "t": "Elle parle aussi le français.",
+  "e": "She also speaks French.",
+  "by": "vlecomte",
+  "lic": "CC BY-SA 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/1446969"
+ },
+ "bien": {
+  "file": "s/13741.mp3",
+  "t": "Je n’arrive pas à bien dormir.",
+  "e": "I can't sleep well.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/13741"
+ },
+ "mais": {
+  "file": "s/6219281.mp3",
+  "t": "Excusez-moi mais je ne comprends pas.",
+  "e": "Sorry, but I don't understand.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/6219281"
+ },
+ "parce-que": {
+  "file": "s/568095.mp3",
+  "t": "Parce que c'est trop grand.",
+  "e": "Because it's too big.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/568095"
+ },
+ "quand": {
+  "file": "s/331128.mp3",
+  "t": "Quand puis-je te rendre visite ?",
+  "e": "When can I visit you?",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/331128"
+ },
+ "ou": {
+  "file": "s/464115.mp3",
+  "t": "Où se trouve ton père ?",
+  "e": "Where is your father?",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/464115"
+ },
+ "pourquoi": {
+  "file": "s/1169441.mp3",
+  "t": "Pourquoi es-tu si en colère ?",
+  "e": "Why are you so angry?",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/1169441"
+ },
+ "comment": {
+  "file": "s/129141.mp3",
+  "t": "Comment s'est passé votre séjour ?",
+  "e": "How was your stay?",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/129141"
+ },
+ "combien": {
+  "file": "s/883817.mp3",
+  "t": "Combien est-ce que ça coûte ?",
+  "e": "How much does this cost?",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/883817"
+ },
+ "avec": {
+  "file": "s/13971.mp3",
+  "t": "Je peux courir avec toi ?",
+  "e": "May I run with you?",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/13971"
+ },
+ "chez": {
+  "file": "s/10940259.mp3",
+  "t": "Je suis allé chez le médecin.",
+  "e": "I went to the doctor.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/10940259"
+ },
+ "le-nom": {
+  "file": "s/529730.mp3",
+  "t": "Je le connais de nom.",
+  "e": "I know him by name.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/529730"
+ },
+ "le-prenom": {
+  "file": "s/5304992.mp3",
+  "t": "Je n'ai jamais su son prénom.",
+  "e": "I never knew his first name.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/5304992"
+ },
+ "lage-m": {
+  "file": "s/1314666.mp3",
+  "t": "J'ai le double de ton âge.",
+  "e": "I'm twice your age.",
+  "by": "sacredceltic",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/1314666"
+ },
+ "ne-nee": {
+  "file": "s/3207654.mp3",
+  "t": "Je suis né sur un bateau.",
+  "e": "I was born on a ship.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/3207654"
+ },
+ "anglais-anglaise": {
+  "file": "s/6463142.mp3",
+  "t": "Je parle français et anglais.",
+  "e": "I speak French and English.",
+  "by": "vlecomte",
+  "lic": "CC BY-SA 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/6463142"
+ },
+ "francais-francaise": {
+  "file": "s/950655.mp3",
+  "t": "Où avez-vous appris le français ?",
+  "e": "Where did you learn French?",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/950655"
+ },
+ "ladresse-f": {
+  "file": "s/374028.mp3",
+  "t": "Je connais son adresse.",
+  "e": "I know her address.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/374028"
+ },
+ "le-metier": {
+  "file": "s/374909.mp3",
+  "t": "Quel est ton métier ?",
+  "e": "What's your job?",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/374909"
+ },
+ "marie-mariee": {
+  "file": "s/132293.mp3",
+  "t": "Il s'est marié avec ma sœur.",
+  "e": "He married my sister.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/132293"
+ },
+ "divorce-divorcee": {
+  "file": "s/466776.mp3",
+  "t": "Je suis divorcé.",
+  "e": "I am divorced.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/466776"
+ },
+ "sappeler": {
+  "file": "s/5535081.mp3",
+  "t": "Appelle-moi si tu as des problèmes.",
+  "e": "Call me if you have any problems.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/5535081"
+ },
+ "vivre": {
+  "file": "s/136573.mp3",
+  "t": "Est-ce qu'il vit ici ?",
+  "e": "Does he live here?",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/136573"
+ },
+ "la-langue": {
+  "file": "s/1514014.mp3",
+  "t": "Comment dit-on « pomme » dans votre langue ?",
+  "e": "How to say \"apple\" in your language?",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/1514014"
+ },
+ "le-formulaire": {
+  "file": "s/1191026.mp3",
+  "t": "Remplissez ce formulaire.",
+  "e": "Fill in this form.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/1191026"
+ },
+ "les-parents-m-pl": {
+  "file": "s/11166379.mp3",
+  "t": "Sommes-nous de mauvais parents ?",
+  "e": "Are we bad parents?",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/11166379"
+ },
+ "le-pere": {
+  "file": "s/2026012.mp3",
+  "t": "Mon père est à la maison.",
+  "e": "My father is at home.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/2026012"
+ },
+ "la-mere": {
+  "file": "s/3628063.mp3",
+  "t": "Où est ta mère ?",
+  "e": "Where's your mother?",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/3628063"
+ },
+ "la-femme": {
+  "file": "s/5865650.mp3",
+  "t": "J'ai oublié l'anniversaire de ma femme.",
+  "e": "I forgot my wife's birthday.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/5865650"
+ },
+ "le-fils": {
+  "file": "s/728148.mp3",
+  "t": "Je suis fier de mon fils.",
+  "e": "I'm proud of my son.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/728148"
+ },
+ "la-fille": {
+  "file": "s/7126.mp3",
+  "t": "Je connais cette fille.",
+  "e": "I know the girl.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/7126"
+ },
+ "le-frere": {
+  "file": "s/6219298.mp3",
+  "t": "Quel âge a votre petit frère ?",
+  "e": "How old is your little brother?",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/6219298"
+ },
+ "la-soeur": {
+  "file": "s/6219299.mp3",
+  "t": "Quel âge a votre petite sœur ?",
+  "e": "How old is your little sister?",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/6219299"
+ },
+ "les-enfants-m-pl": {
+  "file": "s/5461555.mp3",
+  "t": "Combien d'enfants y a-t-il ?",
+  "e": "How many children are there?",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/5461555"
+ },
+ "loncle-m": {
+  "file": "s/6340.mp3",
+  "t": "J'habite avec mon oncle.",
+  "e": "I am living with my uncle.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/6340"
+ },
+ "le-cousin-la-cousine": {
+  "file": "s/132272.mp3",
+  "t": "Ce n'est pas mon cousin.",
+  "e": "He isn't my cousin.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/132272"
+ },
+ "la-niece": {
+  "file": "s/2656170.mp3",
+  "t": "Mary est ma nièce.",
+  "e": "Mary's my niece.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/2656170"
+ },
+ "le-bebe": {
+  "file": "s/332290.mp3",
+  "t": "Le bébé est en train de dormir.",
+  "e": "The baby is sleeping.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/332290"
+ },
+ "le-voisin-la-voisine": {
+  "file": "s/3466465.mp3",
+  "t": "Je suis votre voisin.",
+  "e": "I'm your neighbor.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/3466465"
+ },
+ "se-marier": {
+  "file": "s/5452590.mp3",
+  "t": "Je vais me marier en octobre.",
+  "e": "I'm getting married in October.",
+  "by": "vlecomte",
+  "lic": "CC BY-SA 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/5452590"
+ },
+ "gros-grosse": {
+  "file": "s/4841766.mp3",
+  "t": "Je ne suis pas gros.",
+  "e": "I'm not fat.",
+  "by": "vlecomte",
+  "lic": "CC BY-SA 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/4841766"
+ },
+ "age-agee": {
+  "file": "s/973716.mp3",
+  "t": "Mon cousin est un peu plus âgé que moi.",
+  "e": "My cousin is a little older than I am.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/973716"
+ },
+ "joli-jolie": {
+  "file": "s/3470483.mp3",
+  "t": "Tu es vraiment jolie.",
+  "e": "You sure are pretty.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/3470483"
+ },
+ "les-cheveux-m-pl": {
+  "file": "s/3666794.mp3",
+  "t": "Elle a de longs cheveux.",
+  "e": "She has long hair.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/3666794"
+ },
+ "blond-blonde": {
+  "file": "s/10971673.mp3",
+  "t": "J'ai teint mes cheveux en blond.",
+  "e": "I dyed my hair blonde.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/10971673"
+ },
+ "les-yeux-m-pl": {
+  "file": "s/135413.mp3",
+  "t": "Mes yeux sont bleus.",
+  "e": "My eyes are blue.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/135413"
+ },
+ "les-lunettes-f-pl": {
+  "file": "s/710308.mp3",
+  "t": "Passe-moi mes lunettes.",
+  "e": "Bring me my glasses.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/710308"
+ },
+ "gentil-gentille": {
+  "file": "s/1328726.mp3",
+  "t": "Elle n'est pas gentille avec lui.",
+  "e": "She isn't kind to him.",
+  "by": "sacredceltic",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/1328726"
+ },
+ "sympa": {
+  "file": "s/4654501.mp3",
+  "t": "Vous êtes sympa.",
+  "e": "You're nice.",
+  "by": "vlecomte",
+  "lic": "CC BY-SA 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/4654501"
+ },
+ "drole": {
+  "file": "s/4185827.mp3",
+  "t": "Je me sens drôle, aujourd'hui.",
+  "e": "I feel funny today.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/4185827"
+ },
+ "timide": {
+  "file": "s/2221432.mp3",
+  "t": "Je ne suis pas timide.",
+  "e": "I'm not shy.",
+  "by": "vlecomte",
+  "lic": "CC BY-SA 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/2221432"
+ },
+ "serieux-serieuse": {
+  "file": "s/517051.mp3",
+  "t": "Tu ne peux pas être sérieux.",
+  "e": "You cannot be serious.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/517051"
+ },
+ "patient-patiente": {
+  "file": "s/11256745.mp3",
+  "t": "Sois un peu plus patient.",
+  "e": "Be a bit more patient.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/11256745"
+ },
+ "calme": {
+  "file": "s/942309.mp3",
+  "t": "Je suis calme.",
+  "e": "I am calm.",
+  "by": "vlecomte",
+  "lic": "CC BY-SA 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/942309"
+ },
+ "intelligent-intelligente": {
+  "file": "s/129587.mp3",
+  "t": "J'aurais aimé être intelligent.",
+  "e": "I wish I were clever.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/129587"
+ },
+ "paresseux-paresseuse": {
+  "file": "s/837592.mp3",
+  "t": "Il est paresseux.",
+  "e": "He is lazy.",
+  "by": "sacredceltic",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/837592"
+ },
+ "mechant-mechante": {
+  "file": "s/4757823.mp3",
+  "t": "Je ne suis pas méchant.",
+  "e": "I'm not mean.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/4757823"
+ },
+ "avoir-lair": {
+  "file": "s/332306.mp3",
+  "t": "Le chien a l'air d'avoir faim.",
+  "e": "The dog looks hungry.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/332306"
+ },
+ "lappartement-m": {
+  "file": "s/11379225.mp3",
+  "t": "Mon appartement est minuscule.",
+  "e": "My apartment is tiny.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/11379225"
+ },
+ "lascenseur-m": {
+  "file": "s/11381610.mp3",
+  "t": "J'ai pris l'ascenseur.",
+  "e": "I took the elevator.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/11381610"
+ },
+ "la-piece": {
+  "file": "s/11323327.mp3",
+  "t": "La pièce était pleine à craquer.",
+  "e": "The room was crowded.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/11323327"
+ },
+ "la-cuisine": {
+  "file": "s/1182171.mp3",
+  "t": "Aimes-tu faire la cuisine ?",
+  "e": "Do you like cooking?",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/1182171"
+ },
+ "le-jardin": {
+  "file": "s/11045274.mp3",
+  "t": "J'ai arrosé le jardin.",
+  "e": "I watered the garden.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/11045274"
+ },
+ "le-balcon": {
+  "file": "s/181359.mp3",
+  "t": "Je suis sur le balcon.",
+  "e": "I'm on the balcony.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/181359"
+ },
+ "la-porte": {
+  "file": "s/181307.mp3",
+  "t": "Cette porte ne veut pas s'ouvrir.",
+  "e": "The door will not open.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/181307"
+ },
+ "la-fenetre": {
+  "file": "s/1039148.mp3",
+  "t": "Qui a cassé la fenêtre ?",
+  "e": "Who broke the window?",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/1039148"
+ },
+ "la-table": {
+  "file": "s/181306.mp3",
+  "t": "C'est une table.",
+  "e": "That is a table.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/181306"
+ },
+ "la-chaise": {
+  "file": "s/4198640.mp3",
+  "t": "Qui a cassé la chaise ?",
+  "e": "Who broke the chair?",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/4198640"
+ },
+ "le-lit": {
+  "file": "s/128565.mp3",
+  "t": "Puis-je aller au lit ?",
+  "e": "May I go to bed?",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/128565"
+ },
+ "la-cle": {
+  "file": "s/7414766.mp3",
+  "t": "Il vous faut une clé.",
+  "e": "You need a key.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/7414766"
+ },
+ "demenager": {
+  "file": "s/5063532.mp3",
+  "t": "Je suis en train de déménager.",
+  "e": "I'm moving.",
+  "by": "vlecomte",
+  "lic": "CC BY-SA 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/5063532"
+ },
+ "bruyant-bruyante": {
+  "file": "s/3983374.mp3",
+  "t": "C'était bruyant.",
+  "e": "It was noisy.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/3983374"
+ },
+ "se-reveiller": {
+  "file": "s/11290850.mp3",
+  "t": "Ne réveille pas le bébé.",
+  "e": "Don't wake the baby.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/11290850"
+ },
+ "se-lever": {
+  "file": "s/133513.mp3",
+  "t": "Il a essayé de se lever.",
+  "e": "He tried to stand up.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/133513"
+ },
+ "se-laver": {
+  "file": "s/339453.mp3",
+  "t": "Je vais laver les plats.",
+  "e": "I'll wash the dishes.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/339453"
+ },
+ "se-doucher": {
+  "file": "s/1975550.mp3",
+  "t": "Je peux prendre une douche?",
+  "e": "May I take a shower?",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/1975550"
+ },
+ "shabiller": {
+  "file": "s/5647373.mp3",
+  "t": "Es-tu habillé ?",
+  "e": "Are you dressed?",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/5647373"
+ },
+ "rentrer": {
+  "file": "s/6676.mp3",
+  "t": "Je dois rentrer chez moi.",
+  "e": "I have to go home.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/6676"
+ },
+ "dejeuner": {
+  "file": "s/132057.mp3",
+  "t": "Il est en train de déjeuner.",
+  "e": "He is having lunch.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/132057"
+ },
+ "diner": {
+  "file": "s/135504.mp3",
+  "t": "C'est l'heure du dîner.",
+  "e": "It's time for dinner.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/135504"
+ },
+ "faire-la-cuisine": {
+  "file": "s/4777394.mp3",
+  "t": "Nous ferons la cuisine.",
+  "e": "We'll cook.",
+  "by": "sacredceltic",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/4777394"
+ },
+ "faire-le-menage": {
+  "file": "s/3556094.mp3",
+  "t": "Je fais le ménage.",
+  "e": "I'm cleaning the house.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/3556094"
+ },
+ "faire-les-courses": {
+  "file": "s/2586715.mp3",
+  "t": "Je fais les courses.",
+  "e": "I'm shopping.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/2586715"
+ },
+ "se-reposer": {
+  "file": "s/2565670.mp3",
+  "t": "J'espère que vous êtes bien reposé.",
+  "e": "I hope you're well rested.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/2565670"
+ },
+ "se-coucher": {
+  "file": "s/1593343.mp3",
+  "t": "Dis aux enfants d'aller se coucher.",
+  "e": "Send the kids to bed.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/1593343"
+ },
+ "sendormir": {
+  "file": "s/4767907.mp3",
+  "t": "Tout le monde est endormi.",
+  "e": "Everyone's asleep.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/4767907"
+ },
+ "dormir": {
+  "file": "s/120000.mp3",
+  "t": "Il a dormi toute la journée.",
+  "e": "He slept all day.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/120000"
+ },
+ "se-depecher": {
+  "file": "s/1845924.mp3",
+  "t": "Dépêche-toi d'aller chez toi !",
+  "e": "Hurry home.",
+  "by": "vlecomte",
+  "lic": "CC BY-SA 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/1845924"
+ },
+ "dhabitude": {
+  "file": "s/8435298.mp3",
+  "t": "D'habitude, je vote.",
+  "e": "I usually do vote.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/8435298"
+ },
+ "le-matin": {
+  "file": "s/8488.mp3",
+  "t": "J'ai bu un verre de lait ce matin.",
+  "e": "I drank a glass of milk this morning.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/8488"
+ },
+ "lapres-midi-m": {
+  "file": "s/6518.mp3",
+  "t": "Je vais jouer au tennis cet après-midi.",
+  "e": "I will play tennis this afternoon.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/6518"
+ },
+ "le-soir": {
+  "file": "s/5671463.mp3",
+  "t": "Il fait très froid ce soir.",
+  "e": "It's very cold this evening.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/5671463"
+ },
+ "la-nuit": {
+  "file": "s/412100.mp3",
+  "t": "C'était une nuit calme.",
+  "e": "It was a quiet night.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/412100"
+ },
+ "tot": {
+  "file": "s/1328987.mp3",
+  "t": "Pourquoi êtes-vous venues tôt ?",
+  "e": "Why did you come early?",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/1328987"
+ },
+ "tard": {
+  "file": "s/8689.mp3",
+  "t": "Je te rappellerai plus tard.",
+  "e": "I'll call you back later.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/8689"
+ },
+ "en-retard": {
+  "file": "s/2043987.mp3",
+  "t": "Pourquoi es-tu en retard ?",
+  "e": "Why are you late?",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/2043987"
+ },
+ "a-lheure": {
+  "file": "s/6468598.mp3",
+  "t": "Sois à l'heure.",
+  "e": "Be on time.",
+  "by": "vlecomte",
+  "lic": "CC BY-SA 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/6468598"
+ },
+ "le-week-end": {
+  "file": "s/5297903.mp3",
+  "t": "Serez-vous à Boston ce week-end ?",
+  "e": "Will you be in Boston this weekend?",
+  "by": "vlecomte",
+  "lic": "CC BY-SA 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/5297903"
+ },
+ "le-beurre": {
+  "file": "s/3627763.mp3",
+  "t": "Où est le beurre ?",
+  "e": "Where's the butter?",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/3627763"
+ },
+ "le-fromage": {
+  "file": "s/7411547.mp3",
+  "t": "J'ai mangé du fromage.",
+  "e": "I ate some cheese.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/7411547"
+ },
+ "le-lait": {
+  "file": "s/488089.mp3",
+  "t": "Donne-moi un peu de lait.",
+  "e": "Give me some milk.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/488089"
+ },
+ "la-viande": {
+  "file": "s/656415.mp3",
+  "t": "Je ne peux pas manger de viande.",
+  "e": "I can't eat meat.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/656415"
+ },
+ "le-poulet": {
+  "file": "s/134264.mp3",
+  "t": "Elle a acheté du poulet.",
+  "e": "She bought chicken.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/134264"
+ },
+ "le-poisson": {
+  "file": "s/3139277.mp3",
+  "t": "Est-ce que tu manges du poisson?",
+  "e": "Do you eat fish?",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/3139277"
+ },
+ "les-fruits-m-pl": {
+  "file": "s/1121067.mp3",
+  "t": "Je mange des fruits.",
+  "e": "I eat fruit.",
+  "by": "vlecomte",
+  "lic": "CC BY-SA 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/1121067"
+ },
+ "la-pomme": {
+  "file": "s/2991798.mp3",
+  "t": "Je peux manger cette pomme ?",
+  "e": "May I eat this apple?",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/2991798"
+ },
+ "la-banane": {
+  "file": "s/5247261.mp3",
+  "t": "J'ai mangé une banane.",
+  "e": "I ate a banana.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/5247261"
+ },
+ "lorange-f": {
+  "file": "s/11241810.mp3",
+  "t": "Je peux manger cette orange ?",
+  "e": "Can I eat that orange?",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/11241810"
+ },
+ "le-riz": {
+  "file": "s/5311624.mp3",
+  "t": "Mangez-vous du riz tous les jours ?",
+  "e": "Do you eat rice every day?",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/5311624"
+ },
+ "les-pates-f-pl": {
+  "file": "s/11241755.mp3",
+  "t": "Mangeons des pâtes.",
+  "e": "Let's eat some pasta.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/11241755"
+ },
+ "le-sucre": {
+  "file": "s/504958.mp3",
+  "t": "Y a-t-il du sucre ?",
+  "e": "Is there any sugar?",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/504958"
+ },
+ "le-sel": {
+  "file": "s/427417.mp3",
+  "t": "Il n'y a plus de sel.",
+  "e": "There is no salt left.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/427417"
+ },
+ "le-gateau": {
+  "file": "s/126676.mp3",
+  "t": "Qui a fait ce gâteau ?",
+  "e": "Who made this cake?",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/126676"
+ },
+ "le-chocolat": {
+  "file": "s/1541815.mp3",
+  "t": "Je mange du chocolat.",
+  "e": "I eat chocolate.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/1541815"
+ },
+ "le-cafe": {
+  "file": "s/432872.mp3",
+  "t": "Je n'aime pas le café.",
+  "e": "I don't like coffee.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/432872"
+ },
+ "le-the": {
+  "file": "s/463853.mp3",
+  "t": "Préférez-vous le thé ou le café ?",
+  "e": "Do you prefer tea or coffee?",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/463853"
+ },
+ "le-vin": {
+  "file": "s/3659843.mp3",
+  "t": "Aimes-tu le vin français ?",
+  "e": "Do you like French wine?",
+  "by": "vlecomte",
+  "lic": "CC BY-SA 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/3659843"
+ },
+ "la-biere": {
+  "file": "s/1588582.mp3",
+  "t": "Vous n'aimez pas la bière ?",
+  "e": "You don't like beer?",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/1588582"
+ },
+ "le-petit-dejeuner": {
+  "file": "s/1337232.mp3",
+  "t": "Elle le rencontra pour le petit-déjeuner.",
+  "e": "She met him for breakfast.",
+  "by": "sacredceltic",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/1337232"
+ },
+ "le-dejeuner": {
+  "file": "s/5573157.mp3",
+  "t": "Je n'ai pas fini mon déjeuner.",
+  "e": "I haven't finished my lunch.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/5573157"
+ },
+ "le-diner": {
+  "file": "s/4767900.mp3",
+  "t": "Merci pour le dîner.",
+  "e": "Thanks for dinner.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/4767900"
+ },
+ "delicieux-delicieuse": {
+  "file": "s/10491982.mp3",
+  "t": "Ça a l'air délicieux.",
+  "e": "That looks delicious.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/10491982"
+ },
+ "avoir-faim": {
+  "file": "s/3551584.mp3",
+  "t": "À quel point tu as faim ?",
+  "e": "How hungry are you?",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/3551584"
+ },
+ "avoir-soif": {
+  "file": "s/3636.mp3",
+  "t": "J'ai soif.",
+  "e": "I'm thirsty.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/3636"
+ },
+ "le-restaurant": {
+  "file": "s/119839.mp3",
+  "t": "Je vais au restaurant tous les deux jours.",
+  "e": "I go to the restaurant every 2 days.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/119839"
+ },
+ "le-dessert": {
+  "file": "s/7410849.mp3",
+  "t": "Je mange rarement du dessert.",
+  "e": "I seldom eat dessert.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/7410849"
+ },
+ "commander": {
+  "file": "s/7414748.mp3",
+  "t": "Je ne l'ai pas commandé.",
+  "e": "I didn't order it.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/7414748"
+ },
+ "laddition-f": {
+  "file": "s/9623620.mp3",
+  "t": "Voici l'addition.",
+  "e": "Here is the bill.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/9623620"
+ },
+ "le-pourboire": {
+  "file": "s/4300.mp3",
+  "t": "Tu as laissé un pourboire ?",
+  "e": "Did you leave a tip?",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/4300"
+ },
+ "lassiette-f": {
+  "file": "s/11215161.mp3",
+  "t": "Qui a cassé l'assiette ?",
+  "e": "Who broke the plate?",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/11215161"
+ },
+ "le-verre": {
+  "file": "s/11179850.mp3",
+  "t": "À qui est ce verre ?",
+  "e": "Whose glass is that?",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/11179850"
+ },
+ "la-fourchette": {
+  "file": "s/13223.mp3",
+  "t": "Pouvons-nous avoir une fourchette ?",
+  "e": "Could we have a fork?",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/13223"
+ },
+ "le-couteau": {
+  "file": "s/3258545.mp3",
+  "t": "Je n'ai pas de couteau.",
+  "e": "I don't have a knife.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/3258545"
+ },
+ "la-serviette": {
+  "file": "s/5386403.mp3",
+  "t": "Passe-moi une serviette.",
+  "e": "Hand me a towel.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/5386403"
+ },
+ "saignant-a-point-bien-cuit": {
+  "file": "s/474030.mp3",
+  "t": "Bien cuit !",
+  "e": "Well done!",
+  "by": "sacredceltic",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/474030"
+ },
+ "epice-epicee": {
+  "file": "s/9704470.mp3",
+  "t": "J'aime la cuisine épicée.",
+  "e": "I like spicy food.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/9704470"
+ },
+ "sucre-sucree": {
+  "file": "s/5326437.mp3",
+  "t": "C'était sucré.",
+  "e": "That was sweet.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/5326437"
+ },
+ "chaud-chaude": {
+  "file": "s/531734.mp3",
+  "t": "Il fait très chaud aujourd'hui.",
+  "e": "It is very hot today.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/531734"
+ },
+ "froid-froide": {
+  "file": "s/8422.mp3",
+  "t": "Il fait très froid aujourd'hui.",
+  "e": "It is very cold today.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/8422"
+ },
+ "la-boulangerie": {
+  "file": "s/6379890.mp3",
+  "t": "La boulangerie est fermée.",
+  "e": "The bakery is closed.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/6379890"
+ },
+ "la-pharmacie": {
+  "file": "s/4099414.mp3",
+  "t": "Où se trouve la pharmacie ?",
+  "e": "Where's the pharmacy?",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/4099414"
+ },
+ "le-prix": {
+  "file": "s/181460.mp3",
+  "t": "C'est à quel prix ?",
+  "e": "What is the price?",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/181460"
+ },
+ "couter": {
+  "file": "s/10259027.mp3",
+  "t": "Ça m'a coûté un max.",
+  "e": "It cost me a bundle.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/10259027"
+ },
+ "bon-marche": {
+  "file": "s/10530.mp3",
+  "t": "C'est un magasin bon marché.",
+  "e": "That's a cheap store.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/10530"
+ },
+ "payer": {
+  "file": "s/5058708.mp3",
+  "t": "Je suis en train de payer.",
+  "e": "I'm paying.",
+  "by": "vlecomte",
+  "lic": "CC BY-SA 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/5058708"
+ },
+ "la-monnaie": {
+  "file": "s/4298.mp3",
+  "t": "Voici votre monnaie.",
+  "e": "Here is your change.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/4298"
+ },
+ "le-sac": {
+  "file": "s/1262369.mp3",
+  "t": "À qui est le sac ?",
+  "e": "Whose is this bag?",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/1262369"
+ },
+ "une-tranche-de": {
+  "file": "s/3138115.mp3",
+  "t": "Peux-tu me donner une tranche de pain ?",
+  "e": "Can you give me a slice of bread?",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/3138115"
+ },
+ "essayer": {
+  "file": "s/7415063.mp3",
+  "t": "Essaie de te souvenir !",
+  "e": "Try to remember.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/7415063"
+ },
+ "la-taille": {
+  "file": "s/355651.mp3",
+  "t": "Il fait à peu près ma taille.",
+  "e": "He is about my size.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/355651"
+ },
+ "la-pointure": {
+  "file": "s/1557965.mp3",
+  "t": "Quelle pointure faites-vous ?",
+  "e": "What's your shoe size?",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/1557965"
+ },
+ "ouvert-ouverte": {
+  "file": "s/12005.mp3",
+  "t": "Ne le laissez pas ouvert.",
+  "e": "Don't leave it open.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/12005"
+ },
+ "ferme-fermee": {
+  "file": "s/6379922.mp3",
+  "t": "La pâtisserie est fermée.",
+  "e": "The cake shop is closed.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/6379922"
+ },
+ "les-vetements-m-pl": {
+  "file": "s/481294.mp3",
+  "t": "Portez des vêtements chauds.",
+  "e": "Wear warm clothes.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/481294"
+ },
+ "la-robe": {
+  "file": "s/11060895.mp3",
+  "t": "Cette robe est affreuse.",
+  "e": "That dress is awful.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/11060895"
+ },
+ "la-chemise": {
+  "file": "s/10758969.mp3",
+  "t": "À qui est cette chemise ?",
+  "e": "Whose is that shirt?",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/10758969"
+ },
+ "le-manteau": {
+  "file": "s/4199391.mp3",
+  "t": "Ce manteau est à ta taille.",
+  "e": "This coat fits you.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/4199391"
+ },
+ "le-costume": {
+  "file": "s/1314069.mp3",
+  "t": "Il m'a confectionné un nouveau costume.",
+  "e": "He made me a new suit.",
+  "by": "sacredceltic",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/1314069"
+ },
+ "les-chaussures-f-pl": {
+  "file": "s/11433319.mp3",
+  "t": "J'ai mis mes chaussures.",
+  "e": "I put on my shoes.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/11433319"
+ },
+ "le-chapeau": {
+  "file": "s/5347914.mp3",
+  "t": "Pourquoi portez-vous toujours ce chapeau ?",
+  "e": "Why do you always wear that hat?",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/5347914"
+ },
+ "lecharpe-f": {
+  "file": "s/2799247.mp3",
+  "t": "J'adore cette écharpe.",
+  "e": "I love that scarf.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/2799247"
+ },
+ "les-gants-m-pl": {
+  "file": "s/10703573.mp3",
+  "t": "Avez-vous besoin de gants ?",
+  "e": "Do you need gloves?",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/10703573"
+ },
+ "porter": {
+  "file": "s/5347917.mp3",
+  "t": "Pourquoi portes-tu toujours ce chapeau ?",
+  "e": "Why do you always wear that hat?",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/5347917"
+ },
+ "serre-serree": {
+  "file": "s/8950743.mp3",
+  "t": "J'ai serré les écrous.",
+  "e": "I tightened the nuts.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/8950743"
+ },
+ "la-couleur": {
+  "file": "s/4541931.mp3",
+  "t": "Quelle couleur aimez-vous ?",
+  "e": "What color do you like?",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/4541931"
+ },
+ "blanc-blanche": {
+  "file": "s/4244618.mp3",
+  "t": "C'était blanc.",
+  "e": "It was white.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/4244618"
+ },
+ "noir-noire": {
+  "file": "s/894558.mp3",
+  "t": "N'est-ce pas noir ?",
+  "e": "Is it not black?",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/894558"
+ },
+ "rouge": {
+  "file": "s/1076536.mp3",
+  "t": "J'ai une nouvelle voiture rouge.",
+  "e": "I have a new red car.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/1076536"
+ },
+ "bleu-bleue": {
+  "file": "s/3633569.mp3",
+  "t": "J'aime le bleu.",
+  "e": "I like blue.",
+  "by": "vlecomte",
+  "lic": "CC BY-SA 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/3633569"
+ },
+ "vert-verte": {
+  "file": "s/2190313.mp3",
+  "t": "C'est vert.",
+  "e": "It's green.",
+  "by": "sacredceltic",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/2190313"
+ },
+ "la-poste": {
+  "file": "s/2590506.mp3",
+  "t": "Je travaille à la poste.",
+  "e": "I work at the post office.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/2590506"
+ },
+ "la-banque": {
+  "file": "s/7415108.mp3",
+  "t": "Je suis allé à la banque.",
+  "e": "I went to the bank.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/7415108"
+ },
+ "lhopital-m": {
+  "file": "s/3627804.mp3",
+  "t": "Où est l'hôpital ?",
+  "e": "Where is the hospital?",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/3627804"
+ },
+ "le-parc": {
+  "file": "s/11342.mp3",
+  "t": "Quelle taille fait ce parc ?",
+  "e": "How big is this park?",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/11342"
+ },
+ "la-bibliotheque": {
+  "file": "s/465210.mp3",
+  "t": "Où se trouve la bibliothèque ?",
+  "e": "Where is the library?",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/465210"
+ },
+ "tout-droit": {
+  "file": "s/13455.mp3",
+  "t": "Va tout droit.",
+  "e": "Go straight on.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/13455"
+ },
+ "a-droite": {
+  "file": "s/10948215.mp3",
+  "t": "La voiture a tourné à droite.",
+  "e": "The car turned right.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/10948215"
+ },
+ "a-gauche": {
+  "file": "s/465012.mp3",
+  "t": "Tourne à gauche.",
+  "e": "Turn to the left.",
+  "by": "vlecomte",
+  "lic": "CC BY-SA 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/465012"
+ },
+ "tourner": {
+  "file": "s/1241570.mp3",
+  "t": "J'ai tourné à droite.",
+  "e": "I turned right.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/1241570"
+ },
+ "traverser": {
+  "file": "s/1402604.mp3",
+  "t": "Traversons ici.",
+  "e": "Let's cross here.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/1402604"
+ },
+ "pres-de": {
+  "file": "s/10810336.mp3",
+  "t": "J'habite près de la digue.",
+  "e": "I live near the dyke.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/10810336"
+ },
+ "loin-de": {
+  "file": "s/5382924.mp3",
+  "t": "Ce n'est pas loin de Boston.",
+  "e": "It's not far to Boston.",
+  "by": "vlecomte",
+  "lic": "CC BY-SA 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/5382924"
+ },
+ "a-cote-de": {
+  "file": "s/134376.mp3",
+  "t": "Elle s'est assise à côté de moi.",
+  "e": "She sat next to me.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/134376"
+ },
+ "se-perdre": {
+  "file": "s/4678895.mp3",
+  "t": "Je suis en train de perdre.",
+  "e": "I'm losing.",
+  "by": "sacredceltic",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/4678895"
+ },
+ "le-train": {
+  "file": "s/10511529.mp3",
+  "t": "On y va en train.",
+  "e": "We're going by train.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/10511529"
+ },
+ "le-bus": {
+  "file": "s/10741381.mp3",
+  "t": "Je suis montée dans le bus.",
+  "e": "I got onboard the bus.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/10741381"
+ },
+ "lavion-m": {
+  "file": "s/565859.mp3",
+  "t": "J'ai fait un avion en papier.",
+  "e": "I made a paper plane.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/565859"
+ },
+ "laeroport-m": {
+  "file": "s/4259958.mp3",
+  "t": "Je travaille à l'aéroport.",
+  "e": "I work at the airport.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/4259958"
+ },
+ "le-bateau": {
+  "file": "s/11166391.mp3",
+  "t": "J'ai vu le bateau couler.",
+  "e": "I saw the boat sink.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/11166391"
+ },
+ "le-billet": {
+  "file": "s/11153620.mp3",
+  "t": "Quel est le prix d'un billet ?",
+  "e": "What's the price of a ticket?",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/11153620"
+ },
+ "le-ticket": {
+  "file": "s/5458240.mp3",
+  "t": "J'ai déjà acheté mon ticket pour Boston.",
+  "e": "I already bought my ticket to Boston.",
+  "by": "vlecomte",
+  "lic": "CC BY-SA 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/5458240"
+ },
+ "larrivee-f": {
+  "file": "s/181450.mp3",
+  "t": "Elle est arrivée en voiture.",
+  "e": "She arrived in a car.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/181450"
+ },
+ "monter": {
+  "file": "s/10761111.mp3",
+  "t": "Je suis monté dans le taxi.",
+  "e": "I got in the cab.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/10761111"
+ },
+ "descendre": {
+  "file": "s/11167552.mp3",
+  "t": "Je suis descendu de mon cheval.",
+  "e": "I got off my horse.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/11167552"
+ },
+ "conduire": {
+  "file": "s/2285483.mp3",
+  "t": "Je suis en train de conduire.",
+  "e": "I'm driving.",
+  "by": "vlecomte",
+  "lic": "CC BY-SA 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/2285483"
+ },
+ "garer": {
+  "file": "s/1314529.mp3",
+  "t": "Vous pouvez vous garer ici.",
+  "e": "You may park here.",
+  "by": "sacredceltic",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/1314529"
+ },
+ "le-voyage": {
+  "file": "s/6285955.mp3",
+  "t": "Nous avons un long voyage devant nous.",
+  "e": "We have a long trip ahead of us.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/6285955"
+ },
+ "voyager": {
+  "file": "s/745202.mp3",
+  "t": "Il adore voyager.",
+  "e": "He loves traveling.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/745202"
+ },
+ "lhotel-m": {
+  "file": "s/1189383.mp3",
+  "t": "Les toilettes dans cet hôtel sont de toute première classe !",
+  "e": "The restrooms in this hotel are first class!",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/1189383"
+ },
+ "la-mer": {
+  "file": "s/525055.mp3",
+  "t": "Nous avons nagé dans la mer.",
+  "e": "We swam in the sea.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/525055"
+ },
+ "la-montagne": {
+  "file": "s/1483758.mp3",
+  "t": "Aimez-vous la montagne ?",
+  "e": "Do you like the mountain?",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/1483758"
+ },
+ "le-lac": {
+  "file": "s/11054568.mp3",
+  "t": "On a nagé dans le lac.",
+  "e": "We swam in the lake.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/11054568"
+ },
+ "letranger-m": {
+  "file": "s/9469.mp3",
+  "t": "Avez-vous déjà été à l'étranger ?",
+  "e": "Have you been abroad?",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/9469"
+ },
+ "visiter": {
+  "file": "s/781167.mp3",
+  "t": "Quand puis-je vous rendre visite ?",
+  "e": "When can I visit you?",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/781167"
+ },
+ "la-carte-postale": {
+  "file": "s/330513.mp3",
+  "t": "Envoie-moi une carte postale.",
+  "e": "Send me a postcard.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/330513"
+ },
+ "lappareil-photo-m": {
+  "file": "s/7335.mp3",
+  "t": "J'ai perdu mon appareil photo.",
+  "e": "I have lost my camera.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/7335"
+ },
+ "le-guide": {
+  "file": "s/12029.mp3",
+  "t": "Ne blâmez pas le guide.",
+  "e": "Don't blame the guide.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/12029"
+ },
+ "le-vol": {
+  "file": "s/6454526.mp3",
+  "t": "Ton vol part à 14 h 30.",
+  "e": "Your flight leaves at 2:30.",
+  "by": "vlecomte",
+  "lic": "CC BY-SA 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/6454526"
+ },
+ "il-fait-chaud": {
+  "file": "s/378280.mp3",
+  "t": "Il fait chaud aujourd'hui.",
+  "e": "It's hot today.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/378280"
+ },
+ "il-fait-froid": {
+  "file": "s/8438.mp3",
+  "t": "Il fait froid aujourd'hui.",
+  "e": "It's cold today.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/8438"
+ },
+ "il-pleut": {
+  "file": "s/13443.mp3",
+  "t": "Il pleut encore.",
+  "e": "It's still raining.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/13443"
+ },
+ "il-neige": {
+  "file": "s/5070981.mp3",
+  "t": "Il neige toujours à Boston.",
+  "e": "It's still snowing in Boston.",
+  "by": "vlecomte",
+  "lic": "CC BY-SA 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/5070981"
+ },
+ "le-soleil": {
+  "file": "s/332414.mp3",
+  "t": "Le soleil se lève.",
+  "e": "The sun is rising.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/332414"
+ },
+ "la-neige": {
+  "file": "s/5573184.mp3",
+  "t": "Nous nous attendions à beaucoup de neige.",
+  "e": "We were expecting a lot of snow.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/5573184"
+ },
+ "le-vent": {
+  "file": "s/3591.mp3",
+  "t": "Le vent s'est calmé.",
+  "e": "The wind calmed down.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/3591"
+ },
+ "le-brouillard": {
+  "file": "s/499717.mp3",
+  "t": "Le brouillard s'est levé.",
+  "e": "The fog has lifted.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/499717"
+ },
+ "le-parapluie": {
+  "file": "s/11222477.mp3",
+  "t": "Ce parapluie est à moi.",
+  "e": "That umbrella is mine.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/11222477"
+ },
+ "la-saison": {
+  "file": "s/3940913.mp3",
+  "t": "C'est la saison des cerfs.",
+  "e": "It's deer season.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/3940913"
+ },
+ "le-printemps": {
+  "file": "s/428235.mp3",
+  "t": "Le printemps est arrivé.",
+  "e": "Spring has come.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/428235"
+ },
+ "lete-m": {
+  "file": "s/1283358.mp3",
+  "t": "Qu'avez-vous fait cet été ?",
+  "e": "What did you do this summer?",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/1283358"
+ },
+ "lhiver-m": {
+  "file": "s/403922.mp3",
+  "t": "L'hiver est doux cette année.",
+  "e": "This winter is warm.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/403922"
+ },
+ "ensoleille-ensoleillee": {
+  "file": "s/129477.mp3",
+  "t": "C'est un jour ensoleillé.",
+  "e": "It's a sunny day.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/129477"
+ },
+ "nuageux-nuageuse": {
+  "file": "s/781169.mp3",
+  "t": "C'est une journée nuageuse.",
+  "e": "It's a cloudy day.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/781169"
+ },
+ "lundi": {
+  "file": "s/8826.mp3",
+  "t": "Nous sommes lundi.",
+  "e": "It's Monday.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/8826"
+ },
+ "mardi": {
+  "file": "s/6307946.mp3",
+  "t": "Je viens seulement le mardi et le jeudi.",
+  "e": "I only come on Tuesdays and Thursdays.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/6307946"
+ },
+ "mercredi": {
+  "file": "s/3219136.mp3",
+  "t": "Aujourd'hui on est mercredi.",
+  "e": "Today is Wednesday.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/3219136"
+ },
+ "jeudi": {
+  "file": "s/1153593.mp3",
+  "t": "Nous sommes jeudi.",
+  "e": "Today is Thursday.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/1153593"
+ },
+ "vendredi": {
+  "file": "s/1153592.mp3",
+  "t": "Nous sommes vendredi.",
+  "e": "Today is Friday.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/1153592"
+ },
+ "samedi": {
+  "file": "s/1541801.mp3",
+  "t": "C'est samedi.",
+  "e": "It is Saturday.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/1541801"
+ },
+ "dimanche": {
+  "file": "s/1734653.mp3",
+  "t": "Travaillez-vous le dimanche ?",
+  "e": "Do you work on Sundays?",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/1734653"
+ },
+ "septembre": {
+  "file": "s/3430464.mp3",
+  "t": "Les plages sont moins encombrées en septembre.",
+  "e": "The beaches are less crowded in September.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/3430464"
+ },
+ "octobre": {
+  "file": "s/4036038.mp3",
+  "t": "Mon anniversaire est le vingt octobre.",
+  "e": "My birthday is October 20th.",
+  "by": "vlecomte",
+  "lic": "CC BY-SA 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/4036038"
+ },
+ "la-date": {
+  "file": "s/4625965.mp3",
+  "t": "Choisissez une date !",
+  "e": "Pick a date.",
+  "by": "vlecomte",
+  "lic": "CC BY-SA 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/4625965"
+ },
+ "le-mois": {
+  "file": "s/128915.mp3",
+  "t": "Il a fait très froid le mois dernier.",
+  "e": "It was very cold last month.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/128915"
+ },
+ "lannee-f": {
+  "file": "s/5752697.mp3",
+  "t": "Je n'habitais pas à Boston l'année dernière.",
+  "e": "I wasn't living in Boston last year.",
+  "by": "vlecomte",
+  "lic": "CC BY-SA 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/5752697"
+ },
+ "la-journee": {
+  "file": "s/237206.mp3",
+  "t": "J'ai été occupé toute la journée.",
+  "e": "I was busy all day.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/237206"
+ },
+ "la-minute": {
+  "file": "s/5619265.mp3",
+  "t": "Donne-moi une minute, tu veux ?",
+  "e": "Give me a minute, would you?",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/5619265"
+ },
+ "midi": {
+  "file": "s/237251.mp3",
+  "t": "Je l'ai rencontré vers midi.",
+  "e": "I met him about noon.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/237251"
+ },
+ "la-semaine-derniere": {
+  "file": "s/10966484.mp3",
+  "t": "C'est arrivé la semaine dernière.",
+  "e": "It happened last week.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/10966484"
+ },
+ "depuis": {
+  "file": "s/6402490.mp3",
+  "t": "Je vis à Boston depuis 1995.",
+  "e": "I have lived in Boston since 1995.",
+  "by": "vlecomte",
+  "lic": "CC BY-SA 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/6402490"
+ },
+ "dans": {
+  "file": "s/1986556.mp3",
+  "t": "Suis-je dans le vrai ?",
+  "e": "Am I right?",
+  "by": "sacredceltic",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/1986556"
+ },
+ "bientot": {
+  "file": "s/3447676.mp3",
+  "t": "Ils vont bientôt revenir.",
+  "e": "They'll be back soon.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/3447676"
+ },
+ "tout-de-suite": {
+  "file": "s/7416482.mp3",
+  "t": "Fais-le tout de suite.",
+  "e": "Do it right now.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/7416482"
+ },
+ "rarement": {
+  "file": "s/9707425.mp3",
+  "t": "Je mange rarement au restaurant.",
+  "e": "I rarely eat out.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/9707425"
+ },
+ "tous-les-jours": {
+  "file": "s/2415916.mp3",
+  "t": "Je mange ici tous les jours.",
+  "e": "I eat here every day.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/2415916"
+ },
+ "une-fois-par-semaine": {
+  "file": "s/2934178.mp3",
+  "t": "Je cours deux fois par semaine.",
+  "e": "I jog twice a week.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/2934178"
+ },
+ "un-une": {
+  "file": "s/237065.mp3",
+  "t": "C'est une question de bon sens.",
+  "e": "That's common sense.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/237065"
+ },
+ "deux": {
+  "file": "s/3483459.mp3",
+  "t": "Vous deux, vous pouvez partir.",
+  "e": "You two may leave.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/3483459"
+ },
+ "trois": {
+  "file": "s/5662082.mp3",
+  "t": "Nous n'attendrons que trois heures de plus.",
+  "e": "We'll only wait three more hours.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/5662082"
+ },
+ "cinq": {
+  "file": "s/237252.mp3",
+  "t": "Je me suis levé vers cinq heures.",
+  "e": "I got up about five.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/237252"
+ },
+ "six": {
+  "file": "s/431368.mp3",
+  "t": "Tu te lèves à six heures ?",
+  "e": "Do you get up at six?",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/431368"
+ },
+ "huit": {
+  "file": "s/130651.mp3",
+  "t": "Il a huit ans.",
+  "e": "He is eight.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/130651"
+ },
+ "dix": {
+  "file": "s/330014.mp3",
+  "t": "Je reviens à dix heures.",
+  "e": "I'll be back at ten.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/330014"
+ },
+ "onze": {
+  "file": "s/1771877.mp3",
+  "t": "Il est déjà onze heures.",
+  "e": "It is already eleven.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/1771877"
+ },
+ "douze": {
+  "file": "s/3513974.mp3",
+  "t": "J'étais amoureux de toi, quand j'avais douze ans.",
+  "e": "I had a crush on you when I was twelve.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/3513974"
+ },
+ "trente": {
+  "file": "s/5663257.mp3",
+  "t": "Je vais avoir trente ans en octobre.",
+  "e": "I'm turning thirty in October.",
+  "by": "vlecomte",
+  "lic": "CC BY-SA 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/5663257"
+ },
+ "premier-premiere": {
+  "file": "s/3138711.mp3",
+  "t": "Je suis rentré le premier à la maison.",
+  "e": "I got home first.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/3138711"
+ },
+ "la-moitie": {
+  "file": "s/10511569.mp3",
+  "t": "J'ai la moitié de ton âge.",
+  "e": "I'm half your age.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/10511569"
+ },
+ "beaucoup-de": {
+  "file": "s/3530935.mp3",
+  "t": "Il me faut beaucoup de temps.",
+  "e": "I need lots of time.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/3530935"
+ },
+ "peu-de": {
+  "file": "s/515596.mp3",
+  "t": "Ils ont peu de livres.",
+  "e": "They have few books.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/515596"
+ },
+ "un-peu-de": {
+  "file": "s/5375534.mp3",
+  "t": "J'ai appris un peu de français.",
+  "e": "I learned a little French.",
+  "by": "vlecomte",
+  "lic": "CC BY-SA 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/5375534"
+ },
+ "trop-de": {
+  "file": "s/10719384.mp3",
+  "t": "Je fais trop de fautes de frappe.",
+  "e": "I make too many typos.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/10719384"
+ },
+ "quelques": {
+  "file": "s/11242180.mp3",
+  "t": "J'ai acheté quelques pommes.",
+  "e": "I bought a few apples.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/11242180"
+ },
+ "le-numero": {
+  "file": "s/2934411.mp3",
+  "t": "Le numéro de ma chambre est le 5.",
+  "e": "My room number is 5.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/2934411"
+ },
+ "le-sport": {
+  "file": "s/1466598.mp3",
+  "t": "Vous aimez le sport ?",
+  "e": "Do you like sports?",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/1466598"
+ },
+ "faire-du-sport": {
+  "file": "s/2500483.mp3",
+  "t": "Je fais du sport tous les jours.",
+  "e": "I play sports every day.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/2500483"
+ },
+ "jouer-au-football": {
+  "file": "s/130909.mp3",
+  "t": "Il joue au football.",
+  "e": "He plays soccer.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/130909"
+ },
+ "jouer-au-tennis": {
+  "file": "s/335074.mp3",
+  "t": "Il a joué au tennis.",
+  "e": "He played tennis.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/335074"
+ },
+ "jouer-du-piano": {
+  "file": "s/605373.mp3",
+  "t": "Elle joue du piano tous les jours.",
+  "e": "She plays the piano every day.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/605373"
+ },
+ "jouer-de-la-guitare": {
+  "file": "s/11012.mp3",
+  "t": "Savez-vous jouer de la guitare ?",
+  "e": "Can you play the guitar?",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/11012"
+ },
+ "nager": {
+  "file": "s/1314105.mp3",
+  "t": "Il est en train de nager.",
+  "e": "He's swimming now.",
+  "by": "sacredceltic",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/1314105"
+ },
+ "la-piscine": {
+  "file": "s/6275787.mp3",
+  "t": "Vous allez souvent à la piscine ?",
+  "e": "Do you go to the pool often?",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/6275787"
+ },
+ "courir": {
+  "file": "s/4043.mp3",
+  "t": "Je suis à court d'idées.",
+  "e": "I'm running out of ideas.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/4043"
+ },
+ "le-match": {
+  "file": "s/746458.mp3",
+  "t": "On a gagné le match.",
+  "e": "We won the match.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/746458"
+ },
+ "lequipe-f": {
+  "file": "s/427485.mp3",
+  "t": "Notre équipe est en train de gagner.",
+  "e": "Our team is winning.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/427485"
+ },
+ "gagner": {
+  "file": "s/331689.mp3",
+  "t": "Je suis sûr qu'ils vont gagner.",
+  "e": "I'm sure they'll win.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/331689"
+ },
+ "perdre": {
+  "file": "s/553688.mp3",
+  "t": "Il a perdu son travail.",
+  "e": "He lost his job.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/553688"
+ },
+ "la-musique": {
+  "file": "s/3318466.mp3",
+  "t": "Quelle sorte de musique aimez-vous ?",
+  "e": "What kind of music do you like?",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/3318466"
+ },
+ "la-chanson": {
+  "file": "s/1507480.mp3",
+  "t": "Chante une chanson s'il te plaît.",
+  "e": "Please sing a song.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/1507480"
+ },
+ "chanter": {
+  "file": "s/1942210.mp3",
+  "t": "Chantez, je vous prie !",
+  "e": "Please sing.",
+  "by": "vlecomte",
+  "lic": "CC BY-SA 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/1942210"
+ },
+ "danser": {
+  "file": "s/4585803.mp3",
+  "t": "Je suis en train de danser.",
+  "e": "I'm dancing.",
+  "by": "vlecomte",
+  "lic": "CC BY-SA 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/4585803"
+ },
+ "le-film": {
+  "file": "s/1090629.mp3",
+  "t": "Quel film avez-vous vu ?",
+  "e": "Which film did you see?",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/1090629"
+ },
+ "le-livre": {
+  "file": "s/11460.mp3",
+  "t": "Je peux avoir ce livre ?",
+  "e": "May I have this book?",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/11460"
+ },
+ "lire": {
+  "file": "s/4220444.mp3",
+  "t": "Je ne peux pas lire ceci.",
+  "e": "I can't read this.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/4220444"
+ },
+ "le-roman": {
+  "file": "s/627815.mp3",
+  "t": "Ce roman m'ennuie.",
+  "e": "This novel bores me.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/627815"
+ },
+ "la-photo": {
+  "file": "s/10779326.mp3",
+  "t": "Légende cette photo.",
+  "e": "Caption this photo.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/10779326"
+ },
+ "samuser": {
+  "file": "s/2719996.mp3",
+  "t": "Tout le monde s'est amusé.",
+  "e": "Everyone had fun.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/2719996"
+ },
+ "la-sante": {
+  "file": "s/1690168.mp3",
+  "t": "Il a l'air en bonne santé.",
+  "e": "He looks healthy.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/1690168"
+ },
+ "le-corps": {
+  "file": "s/1316436.mp3",
+  "t": "Tout mon corps est endolori.",
+  "e": "My whole body is sore.",
+  "by": "sacredceltic",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/1316436"
+ },
+ "la-tete": {
+  "file": "s/133045.mp3",
+  "t": "Il avait mal à la tête.",
+  "e": "His head ached.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/133045"
+ },
+ "le-nez": {
+  "file": "s/132036.mp3",
+  "t": "Il a un long nez.",
+  "e": "He has a long nose.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/132036"
+ },
+ "la-bouche": {
+  "file": "s/8654.mp3",
+  "t": "Ouvrez grand la bouche.",
+  "e": "Open your mouth wide.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/8654"
+ },
+ "la-dent": {
+  "file": "s/901954.mp3",
+  "t": "Quelle est la dent qui fait mal ?",
+  "e": "Which tooth hurts?",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/901954"
+ },
+ "le-cou": {
+  "file": "s/11166484.mp3",
+  "t": "J'ai encore mal au cou.",
+  "e": "My neck still hurts.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/11166484"
+ },
+ "le-dos": {
+  "file": "s/10510804.mp3",
+  "t": "Je dors sur le dos.",
+  "e": "I sleep on my back.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/10510804"
+ },
+ "le-bras": {
+  "file": "s/3483263.mp3",
+  "t": "Tu t'es cassé le bras.",
+  "e": "You broke your arm.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/3483263"
+ },
+ "la-main": {
+  "file": "s/753227.mp3",
+  "t": "Elle m'a pris par la main.",
+  "e": "She got me by the hand.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/753227"
+ },
+ "le-doigt": {
+  "file": "s/181403.mp3",
+  "t": "Je viens de me couper le doigt.",
+  "e": "I just cut my finger.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/181403"
+ },
+ "la-jambe": {
+  "file": "s/6222.mp3",
+  "t": "Je me suis cassé la jambe.",
+  "e": "I broke my leg.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/6222"
+ },
+ "le-genou": {
+  "file": "s/9941711.mp3",
+  "t": "Je me suis cogné le genou.",
+  "e": "I bumped my knee.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/9941711"
+ },
+ "malade": {
+  "file": "s/14725.mp3",
+  "t": "Je crois qu'elle est malade.",
+  "e": "I think she is sick.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/14725"
+ },
+ "la-maladie": {
+  "file": "s/350877.mp3",
+  "t": "Il a soigné ma maladie.",
+  "e": "He cured my illness.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/350877"
+ },
+ "la-fievre": {
+  "file": "s/129828.mp3",
+  "t": "As-tu de la fièvre ?",
+  "e": "Do you have a fever?",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/129828"
+ },
+ "le-rhume": {
+  "file": "s/6938.mp3",
+  "t": "J'ai un mauvais rhume.",
+  "e": "I have a bad cold.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/6938"
+ },
+ "la-grippe": {
+  "file": "s/11426642.mp3",
+  "t": "Ça doit être la grippe.",
+  "e": "It must be the flu.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/11426642"
+ },
+ "en-forme": {
+  "file": "s/2802689.mp3",
+  "t": "Je suis en forme.",
+  "e": "I'm fit.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/2802689"
+ },
+ "se-sentir": {
+  "file": "s/5419867.mp3",
+  "t": "Comment te sens-tu ce soir ?",
+  "e": "How are you feeling tonight?",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/5419867"
+ },
+ "le-medecin": {
+  "file": "s/1072809.mp3",
+  "t": "C'est un bon médecin.",
+  "e": "He is a good doctor.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/1072809"
+ },
+ "le-dentiste": {
+  "file": "s/6397790.mp3",
+  "t": "Tom est un dentiste.",
+  "e": "Tom is a dentist.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/6397790"
+ },
+ "le-rendez-vous": {
+  "file": "s/5390523.mp3",
+  "t": "J'ai un rendez-vous à 14:30.",
+  "e": "I have an appointment at 2:30.",
+  "by": "vlecomte",
+  "lic": "CC BY-SA 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/5390523"
+ },
+ "se-casser": {
+  "file": "s/10998.mp3",
+  "t": "Le verre casse facilement.",
+  "e": "Glass breaks easily.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/10998"
+ },
+ "se-blesser": {
+  "file": "s/5558925.mp3",
+  "t": "J'ai été blessé.",
+  "e": "I've been injured.",
+  "by": "vlecomte",
+  "lic": "CC BY-SA 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/5558925"
+ },
+ "guerir": {
+  "file": "s/2285488.mp3",
+  "t": "Je suis guéri.",
+  "e": "I'm cured.",
+  "by": "sacredceltic",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/2285488"
+ },
+ "lemploi-m": {
+  "file": "s/1973318.mp3",
+  "t": "Trouve un emploi !",
+  "e": "Get a job.",
+  "by": "vlecomte",
+  "lic": "CC BY-SA 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/1973318"
+ },
+ "le-bureau": {
+  "file": "s/11145652.mp3",
+  "t": "Je suis au bureau.",
+  "e": "I'm at the office.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/11145652"
+ },
+ "le-patron-la-patronne": {
+  "file": "s/11145706.mp3",
+  "t": "Ne le dis pas au patron.",
+  "e": "Don't tell the boss.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/11145706"
+ },
+ "le-salaire": {
+  "file": "s/3326846.mp3",
+  "t": "Quel est le salaire minimum en Islande ?",
+  "e": "What's the minimum salary in Iceland?",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/3326846"
+ },
+ "la-reunion": {
+  "file": "s/5324451.mp3",
+  "t": "J’ai une réunion à 14 h 30.",
+  "e": "I have a meeting at 2:30.",
+  "by": "vlecomte",
+  "lic": "CC BY-SA 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/5324451"
+ },
+ "linfirmier-linfirmiere": {
+  "file": "s/808788.mp3",
+  "t": "Elle est infirmière.",
+  "e": "She is a nurse.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/808788"
+ },
+ "le-professeur-la-professeure": {
+  "file": "s/5420023.mp3",
+  "t": "Qui est ton professeur de français ?",
+  "e": "Who's your French teacher?",
+  "by": "vlecomte",
+  "lic": "CC BY-SA 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/5420023"
+ },
+ "lavocat-lavocate": {
+  "file": "s/5347898.mp3",
+  "t": "Je vais être votre avocat.",
+  "e": "I'm going to be your lawyer.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/5347898"
+ },
+ "le-cuisinier-la-cuisiniere": {
+  "file": "s/433354.mp3",
+  "t": "Tu es bon cuisinier.",
+  "e": "You are a good cook.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/433354"
+ },
+ "lemploye-lemployee": {
+  "file": "s/6633.mp3",
+  "t": "Je suis employé de banque.",
+  "e": "I'm a bank clerk.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/6633"
+ },
+ "le-lycee": {
+  "file": "s/5353215.mp3",
+  "t": "Tom est allé au lycée avec moi.",
+  "e": "Tom went to high school with me.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/5353215"
+ },
+ "luniversite-f": {
+  "file": "s/5452301.mp3",
+  "t": "J'étudie à l'université.",
+  "e": "I study at a university.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/5452301"
+ },
+ "letudiant-letudiante": {
+  "file": "s/353482.mp3",
+  "t": "Il est étudiant en droit.",
+  "e": "He is a law student.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/353482"
+ },
+ "la-classe": {
+  "file": "s/1119672.mp3",
+  "t": "Ils sont en classe.",
+  "e": "They are in class.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/1119672"
+ },
+ "les-maths-f-pl": {
+  "file": "s/792116.mp3",
+  "t": "J'ai besoin d'étudier les maths.",
+  "e": "I need to study math.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/792116"
+ },
+ "lhistoire-f": {
+  "file": "s/7087.mp3",
+  "t": "Je crois à cette histoire.",
+  "e": "I believe that story.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/7087"
+ },
+ "les-devoirs-m-pl": {
+  "file": "s/6333.mp3",
+  "t": "Je n'aime pas les devoirs.",
+  "e": "I don't like homework.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/6333"
+ },
+ "lexamen-m": {
+  "file": "s/133100.mp3",
+  "t": "Il a raté l'examen d'entrée.",
+  "e": "He failed the entrance exam.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/133100"
+ },
+ "reussir": {
+  "file": "s/1843229.mp3",
+  "t": "Nous avons réussi.",
+  "e": "We succeeded.",
+  "by": "sacredceltic",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/1843229"
+ },
+ "echouer": {
+  "file": "s/9742328.mp3",
+  "t": "J'ai fait exprès d'échouer.",
+  "e": "I failed on purpose.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/9742328"
+ },
+ "apprendre": {
+  "file": "s/1127444.mp3",
+  "t": "Où as-tu appris le français ?",
+  "e": "Where did you learn French?",
+  "by": "vlecomte",
+  "lic": "CC BY-SA 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/1127444"
+ },
+ "etudier": {
+  "file": "s/6508.mp3",
+  "t": "Je suis en train d'étudier.",
+  "e": "I am studying now.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/6508"
+ },
+ "expliquer": {
+  "file": "s/10767766.mp3",
+  "t": "Je peux tout expliquer.",
+  "e": "I can explain it all.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/10767766"
+ },
+ "repeter": {
+  "file": "s/1191361.mp3",
+  "t": "Peux-tu répéter ça ?",
+  "e": "Could you repeat that?",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/1191361"
+ },
+ "le-mot": {
+  "file": "s/11338461.mp3",
+  "t": "Je ferai passer le mot.",
+  "e": "I'll spread the word.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/11338461"
+ },
+ "la-phrase": {
+  "file": "s/884267.mp3",
+  "t": "Ta petite phrase est trop proprette.",
+  "e": "Your little sentence is too neat.",
+  "by": "sacredceltic",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/884267"
+ },
+ "le-dictionnaire": {
+  "file": "s/11594122.mp3",
+  "t": "J'ai acheté un dictionnaire.",
+  "e": "I bought a dictionary.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/11594122"
+ },
+ "le-stylo": {
+  "file": "s/11281.mp3",
+  "t": "Combien coûte ce stylo ?",
+  "e": "How much is this pen?",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/11281"
+ },
+ "le-telephone": {
+  "file": "s/10946447.mp3",
+  "t": "Je suis au téléphone, là.",
+  "e": "I'm on the phone now.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/10946447"
+ },
+ "appeler": {
+  "file": "s/5535082.mp3",
+  "t": "Appelez-moi si vous avez des problèmes.",
+  "e": "Call me if you have any problems.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/5535082"
+ },
+ "telephoner": {
+  "file": "s/1086386.mp3",
+  "t": "Qui a téléphoné ?",
+  "e": "Who phoned?",
+  "by": "vlecomte",
+  "lic": "CC BY-SA 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/1086386"
+ },
+ "lappel-m": {
+  "file": "s/5814328.mp3",
+  "t": "Je dois passer un autre appel.",
+  "e": "I have to make another call.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/5814328"
+ },
+ "occupe-occupee": {
+  "file": "s/132441.mp3",
+  "t": "Il m'a dit qu'il était occupé.",
+  "e": "He told me that he was busy.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/132441"
+ },
+ "envoyer": {
+  "file": "s/3798601.mp3",
+  "t": "Ils envoient de l'aide.",
+  "e": "They're sending help.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/3798601"
+ },
+ "recevoir": {
+  "file": "s/639772.mp3",
+  "t": "Je peux avoir un reçu ?",
+  "e": "May I have a receipt?",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/639772"
+ },
+ "repondre": {
+  "file": "s/5829951.mp3",
+  "t": "Réponds en français, s'il te plaît.",
+  "e": "Please answer in French.",
+  "by": "vlecomte",
+  "lic": "CC BY-SA 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/5829951"
+ },
+ "la-lettre": {
+  "file": "s/6463083.mp3",
+  "t": "J'ai écrit une lettre en français.",
+  "e": "I wrote a letter in French.",
+  "by": "vlecomte",
+  "lic": "CC BY-SA 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/6463083"
+ },
+ "lenveloppe-f": {
+  "file": "s/134947.mp3",
+  "t": "J'ai besoin d'une enveloppe.",
+  "e": "I need an envelope.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/134947"
+ },
+ "le-mot-de-passe": {
+  "file": "s/11595334.mp3",
+  "t": "Tu connais le mot de passe de Tom ?",
+  "e": "Do you know Tom's password?",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/11595334"
+ },
+ "la-tele": {
+  "file": "s/3364168.mp3",
+  "t": "Je ne regarde pas la télé.",
+  "e": "I don't watch TV.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/3364168"
+ },
+ "la-radio": {
+  "file": "s/180607.mp3",
+  "t": "La radio est cassée.",
+  "e": "The radio will not work.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/180607"
+ },
+ "la-fete": {
+  "file": "s/3483157.mp3",
+  "t": "Ce n'était pas une fête.",
+  "e": "It wasn't a party.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/3483157"
+ },
+ "lanniversaire-m": {
+  "file": "s/808504.mp3",
+  "t": "Mon anniversaire approche.",
+  "e": "My birthday approaches.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/808504"
+ },
+ "inviter": {
+  "file": "s/3692431.mp3",
+  "t": "Je n'ai pas été invité.",
+  "e": "I wasn't invited.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/3692431"
+ },
+ "feter": {
+  "file": "s/3474182.mp3",
+  "t": "Maintenant, fêtons ça.",
+  "e": "Now let's celebrate.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/3474182"
+ },
+ "le-mariage": {
+  "file": "s/11594147.mp3",
+  "t": "Félicitations pour ton mariage.",
+  "e": "Congratulations on your marriage.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/11594147"
+ },
+ "noel-m": {
+  "file": "s/13569.mp3",
+  "t": "Noël arrive bientôt.",
+  "e": "Christmas is coming soon.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/13569"
+ },
+ "la-surprise": {
+  "file": "s/3384.mp3",
+  "t": "C'est une surprise.",
+  "e": "It's a surprise.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/3384"
+ },
+ "heureux-heureuse": {
+  "file": "s/11031570.mp3",
+  "t": "Nous étions tous les deux heureux.",
+  "e": "We were both happy.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/11031570"
+ },
+ "triste": {
+  "file": "s/12433.mp3",
+  "t": "Ça me rend triste d'entendre ça.",
+  "e": "I am sad to hear it.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/12433"
+ },
+ "fache-fachee": {
+  "file": "s/3470419.mp3",
+  "t": "Tu parles que je suis fâché.",
+  "e": "You bet I'm angry.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/3470419"
+ },
+ "en-colere": {
+  "file": "s/429137.mp3",
+  "t": "Il se met vite en colère.",
+  "e": "He easily gets angry.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/429137"
+ },
+ "inquiet-inquiete": {
+  "file": "s/10713132.mp3",
+  "t": "Tu as l'air inquiet.",
+  "e": "You sound worried.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/10713132"
+ },
+ "decu-decue": {
+  "file": "s/11583326.mp3",
+  "t": "Vous serez déçue.",
+  "e": "You'll be disappointed.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/11583326"
+ },
+ "fier-fiere": {
+  "file": "s/7419.mp3",
+  "t": "Je suis fier de toi.",
+  "e": "I'm proud of you.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/7419"
+ },
+ "amoureux-amoureuse": {
+  "file": "s/972442.mp3",
+  "t": "Elle n'est jamais tombée amoureuse.",
+  "e": "She has never fallen in love.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/972442"
+ },
+ "avoir-peur": {
+  "file": "s/130905.mp3",
+  "t": "Il a peur de nager.",
+  "e": "He is afraid to swim.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/130905"
+ },
+ "sennuyer": {
+  "file": "s/348529.mp3",
+  "t": "Tu as l'air de t'ennuyer.",
+  "e": "You look bored.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/348529"
+ },
+ "adorer": {
+  "file": "s/6933.mp3",
+  "t": "J'adore les films français.",
+  "e": "I love French films.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/6933"
+ },
+ "detester": {
+  "file": "s/2804498.mp3",
+  "t": "Qui te déteste ?",
+  "e": "Who hates you?",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/2804498"
+ },
+ "preferer": {
+  "file": "s/1014297.mp3",
+  "t": "Préférez-vous la viande ou le poisson ?",
+  "e": "Do you prefer meat or fish?",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/1014297"
+ },
+ "croire": {
+  "file": "s/1174463.mp3",
+  "t": "Tu ne me crois pas ?",
+  "e": "Don't you believe me?",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/1174463"
+ },
+ "lavis-m": {
+  "file": "s/2269498.mp3",
+  "t": "C’est ton avis.",
+  "e": "That's your opinion.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/2269498"
+ },
+ "avoir-raison": {
+  "file": "s/181373.mp3",
+  "t": "Pour une fois j'ai raison.",
+  "e": "I am right for once.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/181373"
+ },
+ "avoir-tort": {
+  "file": "s/335775.mp3",
+  "t": "Est-ce que j'avais tort ?",
+  "e": "Was I wrong?",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/335775"
+ },
+ "interessant-interessante": {
+  "file": "s/4450864.mp3",
+  "t": "Ce n'était pas du tout intéressant.",
+  "e": "It wasn't interesting at all.",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/4450864"
+ },
+ "horrible": {
+  "file": "s/4767892.mp3",
+  "t": "Ça a l'air horrible.",
+  "e": "That sounds horrible.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/4767892"
+ },
+ "important-importante": {
+  "file": "s/7415175.mp3",
+  "t": "C'est important ?",
+  "e": "Is it important?",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/7415175"
+ },
+ "utile": {
+  "file": "s/4550292.mp3",
+  "t": "Apprendre le français est utile.",
+  "e": "Learning French is useful.",
+  "by": "vlecomte",
+  "lic": "CC BY-SA 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/4550292"
+ },
+ "le-probleme": {
+  "file": "s/749723.mp3",
+  "t": "Nous avons un problème.",
+  "e": "We're having some problem.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/749723"
+ },
+ "larbre-m": {
+  "file": "s/5359202.mp3",
+  "t": "Y a-t-il des pommes sur l'arbre ?",
+  "e": "Are there any apples on the tree?",
+  "by": "Aiji",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/5359202"
+ },
+ "la-foret": {
+  "file": "s/4846905.mp3",
+  "t": "Un arbre cache la forêt.",
+  "e": "To miss the forest for the trees.",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/4846905"
+ },
+ "la-riviere": {
+  "file": "s/10767899.mp3",
+  "t": "La rivière s'est asséchée.",
+  "e": "The river dried up.",
+  "by": "Adrien_FR",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/10767899"
+ },
+ "le-chien": {
+  "file": "s/427528.mp3",
+  "t": "Quel est ton chien ?",
+  "e": "Which dog is yours?",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/427528"
+ },
+ "le-chat": {
+  "file": "s/426388.mp3",
+  "t": "Est-ce que c'est un chat ?",
+  "e": "Is that a cat?",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/426388"
+ },
+ "loiseau-m": {
+  "file": "s/444812.mp3",
+  "t": "Quel est cet oiseau ?",
+  "e": "What's that bird?",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/444812"
+ },
+ "le-cheval": {
+  "file": "s/10424.mp3",
+  "t": "Pouvez-vous monter à cheval ?",
+  "e": "Can you ride a horse?",
+  "by": "Phoenix",
+  "lic": "CC BY-NC 4.0",
+  "src": "https://tatoeba.org/en/sentences/show/10424"
+ }
+}

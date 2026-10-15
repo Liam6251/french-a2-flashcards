@@ -1,0 +1,255 @@
+// DELF A2 expressions, part 1 (by communicative function). Each item: [french, english, example / context FR, example EN]
+var THEMES = window.THEMES = window.THEMES || [];
+
+THEMES.push({id:"saluer", kind:"expr", icon:"👋", name:"Greetings & goodbyes", fr:"Saluer & prendre congé", items:[
+["Bonjour !","Hello! / Good morning!","Bonjour madame, comment allez-vous ?","Hello madam, how are you?"],
+["Bonsoir !","Good evening!","Bonsoir, vous avez une table ?","Good evening, do you have a table?"],
+["Salut !","Hi! / Bye! (informal)","Salut Marc, ça va ?","Hi Marc, how's it going?"],
+["Comment allez-vous ?","How are you? (formal)","Bonjour docteur, comment allez-vous ?","Hello doctor, how are you?"],
+["Comment ça va ?","How are things?","Salut ! Comment ça va ?","Hi! How are things?"],
+["Ça va ?","How are you? / All right?","Ça va ? — Oui, ça va bien, et toi ?","All right? — Yes, fine, and you?"],
+["Ça va bien, merci.","I'm fine, thanks.","Ça va bien, merci. Et vous ?","I'm fine, thanks. And you?"],
+["Pas mal.","Not bad.","Ça va ? — Pas mal, et toi ?","How's it going? — Not bad, and you?"],
+["Et vous ? / Et toi ?","And you?","Je vais bien. Et toi ?","I'm well. And you?"],
+["Au revoir !","Goodbye!","Au revoir et merci !","Goodbye and thank you!"],
+["À bientôt !","See you soon!","Merci pour tout, à bientôt !","Thanks for everything, see you soon!"],
+["À tout à l'heure !","See you later (today)!","Je vais à la boulangerie, à tout à l'heure !","I'm going to the bakery, see you in a bit!"],
+["À plus tard !","See you later!","Je dois partir, à plus tard !","I have to go, see you later!"],
+["À demain !","See you tomorrow!","Bonne soirée, à demain !","Have a good evening, see you tomorrow!"],
+["Bonne journée !","Have a nice day!","Merci, bonne journée !","Thanks, have a nice day!"],
+["Bonne soirée !","Have a nice evening!","Au revoir, bonne soirée !","Goodbye, have a nice evening!"],
+["Bon week-end !","Have a good weekend!","À lundi, bon week-end !","See you Monday, have a good weekend!"],
+["Bonne nuit !","Good night!","Bonne nuit, dors bien !","Good night, sleep well!"],
+["Enchanté / Enchantée","Pleased to meet you","Je m'appelle Anne. — Enchanté !","My name is Anne. — Pleased to meet you!"],
+["Bienvenue !","Welcome!","Bienvenue chez nous !","Welcome to our home!"],
+["Bon appétit !","Enjoy your meal!","Voilà vos plats, bon appétit !","Here are your dishes, enjoy your meal!"],
+["Bonne chance !","Good luck!","Bonne chance pour ton examen !","Good luck with your exam!"],
+["Bon courage !","Hang in there! / Good luck!","Tu as beaucoup de travail ? Bon courage !","Lots of work? Hang in there!"],
+["Amuse-toi bien !","Have fun!","Tu vas au concert ? Amuse-toi bien !","Going to the concert? Have fun!"]
+]});
+
+THEMES.push({id:"politesse", kind:"expr", icon:"🙏", name:"Politeness & thanks", fr:"Politesse & remerciements", items:[
+["S'il vous plaît","Please (formal)","Un café, s'il vous plaît.","A coffee, please."],
+["S'il te plaît","Please (informal)","Passe-moi le pain, s'il te plaît.","Pass me the bread, please."],
+["Merci beaucoup !","Thank you very much!","Merci beaucoup pour votre aide !","Thank you very much for your help!"],
+["Merci pour tout.","Thanks for everything.","Merci pour tout, c'était parfait.","Thanks for everything, it was perfect."],
+["Je vous remercie.","Thank you (formal).","Je vous remercie de votre réponse.","Thank you for your reply."],
+["C'est très gentil.","That's very kind.","Vous m'aidez ? C'est très gentil.","You'll help me? That's very kind."],
+["De rien.","You're welcome.","Merci ! — De rien.","Thanks! — You're welcome."],
+["Je vous en prie.","You're welcome / Please do (formal).","Merci, monsieur. — Je vous en prie.","Thank you, sir. — You're welcome."],
+["Il n'y a pas de quoi.","Don't mention it.","Merci ! — Il n'y a pas de quoi.","Thanks! — Don't mention it."],
+["Excusez-moi.","Excuse me.","Excusez-moi, où est la gare ?","Excuse me, where is the station?"],
+["Pardon.","Sorry / Excuse me.","Pardon, je peux passer ?","Excuse me, can I get past?"],
+["Je voudrais…","I would like…","Je voudrais un billet pour Paris.","I'd like a ticket to Paris."],
+["Est-ce que je pourrais… ?","Could I…?","Est-ce que je pourrais ouvrir la fenêtre ?","Could I open the window?"],
+["Pourriez-vous… ?","Could you…?","Pourriez-vous parler plus lentement ?","Could you speak more slowly?"],
+["Avec plaisir !","With pleasure!","Tu viens dîner ? — Avec plaisir !","Coming to dinner? — With pleasure!"],
+["Volontiers.","Gladly / I'd love to.","Un thé ? — Volontiers.","Some tea? — I'd love some."],
+["Après vous.","After you.","Je vous en prie, après vous.","Please, after you."],
+["Servez-vous.","Help yourself.","Il y a du gâteau, servez-vous !","There's cake, help yourself!"]
+]});
+
+THEMES.push({id:"presenter", kind:"expr", icon:"🤝", name:"Introducing yourself", fr:"Se présenter & faire connaissance", items:[
+["Je m'appelle…","My name is…","Je m'appelle David, je suis anglais.","My name is David, I'm English."],
+["J'ai … ans.","I'm … years old.","J'ai quarante-cinq ans.","I'm forty-five."],
+["Je suis anglais / anglaise.","I'm English.","Je suis anglais, mais j'habite en France.","I'm English, but I live in France."],
+["Je viens de…","I come from…","Je viens de Londres.","I come from London."],
+["J'habite à… / en…","I live in…","J'habite à Bristol, en Angleterre.","I live in Bristol, in England."],
+["Je travaille comme…","I work as…","Je travaille comme ingénieur.","I work as an engineer."],
+["Je suis marié(e) et j'ai … enfants.","I'm married with … children.","Je suis marié et j'ai deux enfants.","I'm married with two children."],
+["J'apprends le français depuis…","I've been learning French for…","J'apprends le français depuis six mois.","I've been learning French for six months."],
+["J'aime… / Je n'aime pas…","I like… / I don't like…","J'aime le sport, mais je n'aime pas courir.","I like sport, but I don't like running."],
+["Je vous présente…","May I introduce… (formal)","Je vous présente ma femme, Sarah.","May I introduce my wife, Sarah."],
+["Je te présente…","This is… (informal)","Je te présente mon ami Paul.","This is my friend Paul."],
+["Vous vous appelez comment ?","What's your name? (formal)","Bonjour ! Vous vous appelez comment ?","Hello! What's your name?"],
+["Tu t'appelles comment ?","What's your name? (informal)","Salut ! Tu t'appelles comment ?","Hi! What's your name?"],
+["Vous êtes d'où ?","Where are you from?","Vous êtes d'où ? — Je suis de Leeds.","Where are you from? — I'm from Leeds."],
+["Qu'est-ce que vous faites dans la vie ?","What do you do for a living?","Qu'est-ce que vous faites dans la vie ? — Je suis professeur.","What do you do? — I'm a teacher."],
+["Vous parlez anglais ?","Do you speak English?","Excusez-moi, vous parlez anglais ?","Excuse me, do you speak English?"],
+["On se tutoie ?","Shall we use 'tu'?","On se connaît bien maintenant, on se tutoie ?","We know each other well now, shall we use 'tu'?"],
+["Ravi(e) de vous rencontrer.","Delighted to meet you.","Ravi de vous rencontrer, madame.","Delighted to meet you, madam."]
+]});
+
+THEMES.push({id:"questions", kind:"expr", icon:"❓", name:"Asking for information", fr:"Demander des informations", items:[
+["Qu'est-ce que c'est ?","What is it?","Qu'est-ce que c'est, ce plat ?","What is this dish?"],
+["C'est combien ?","How much is it?","Ce pull, c'est combien ?","How much is this jumper?"],
+["Il y a… ?","Is there…? / Are there…?","Il y a une pharmacie près d'ici ?","Is there a pharmacy near here?"],
+["Où est… ? / Où se trouve… ?","Where is…?","Où se trouve la gare, s'il vous plaît ?","Where is the station, please?"],
+["À quelle heure… ?","At what time…?","À quelle heure part le train ?","What time does the train leave?"],
+["Quand est-ce que… ?","When…?","Quand est-ce que le magasin ouvre ?","When does the shop open?"],
+["Pourquoi… ?","Why…?","Pourquoi tu ne viens pas ?","Why aren't you coming?"],
+["Comment… ?","How…?","Comment on va au musée ?","How do you get to the museum?"],
+["Combien de… ?","How many…?","Combien de temps dure le voyage ?","How long does the journey take?"],
+["Qui… ?","Who…?","Qui est cette femme ?","Who is that woman?"],
+["Quel / Quelle… ?","Which… / What…?","Quelle est votre adresse ?","What is your address?"],
+["Est-ce que… ?","(turns a sentence into a question)","Est-ce que vous avez une chambre libre ?","Do you have a room free?"],
+["Est-ce que vous pouvez m'aider ?","Can you help me?","Excusez-moi, est-ce que vous pouvez m'aider ?","Excuse me, can you help me?"],
+["Je cherche…","I'm looking for…","Je cherche la rue Victor-Hugo.","I'm looking for Rue Victor-Hugo."],
+["Vous avez… ?","Do you have…?","Vous avez ce modèle en bleu ?","Do you have this model in blue?"],
+["C'est ouvert le dimanche ?","Is it open on Sundays?","Le musée, c'est ouvert le dimanche ?","Is the museum open on Sundays?"],
+["Ça dure combien de temps ?","How long does it last?","La visite, ça dure combien de temps ?","How long does the tour last?"],
+["Je voudrais savoir…","I'd like to know…","Je voudrais savoir les horaires d'ouverture.","I'd like to know the opening hours."],
+["Pouvez-vous me dire… ?","Can you tell me…?","Pouvez-vous me dire où sont les toilettes ?","Can you tell me where the toilets are?"]
+]});
+
+THEMES.push({id:"comprendre", kind:"expr", icon:"🧠", name:"Understanding & clarifying", fr:"Comprendre & se faire comprendre", items:[
+["Je ne comprends pas.","I don't understand.","Pardon, je ne comprends pas.","Sorry, I don't understand."],
+["Pouvez-vous répéter, s'il vous plaît ?","Could you repeat, please?","Pardon ? Pouvez-vous répéter, s'il vous plaît ?","Sorry? Could you repeat, please?"],
+["Plus lentement, s'il vous plaît.","More slowly, please.","Vous parlez vite… plus lentement, s'il vous plaît.","You speak fast… more slowly, please."],
+["Qu'est-ce que ça veut dire ?","What does that mean?","« Bouchon », qu'est-ce que ça veut dire ?","What does 'bouchon' mean?"],
+["Comment on dit … en français ?","How do you say … in French?","Comment on dit « umbrella » en français ?","How do you say 'umbrella' in French?"],
+["Comment ça s'écrit ?","How is it spelt?","Votre nom, comment ça s'écrit ?","How is your name spelt?"],
+["Vous pouvez épeler ?","Can you spell it?","Vous pouvez épeler votre nom ?","Can you spell your name?"],
+["Je ne sais pas.","I don't know.","Désolé, je ne sais pas.","Sorry, I don't know."],
+["Je ne suis pas sûr(e).","I'm not sure.","Je ne suis pas sûr, mais je crois que oui.","I'm not sure, but I think so."],
+["J'ai compris.","I understand / Got it.","D'accord, j'ai compris, merci.","OK, got it, thanks."],
+["C'est-à-dire ?","Meaning? / That is?","C'est-à-dire ? Je ne comprends pas.","Meaning? I don't understand."],
+["Vous voulez dire que… ?","Do you mean that…?","Vous voulez dire que c'est fermé ?","Do you mean it's closed?"],
+["Comment ? / Pardon ?","Sorry? / Pardon?","Pardon ? Je n'ai pas entendu.","Sorry? I didn't hear."],
+["Je cherche le mot…","I'm looking for the word…","Je cherche le mot… c'est pour ouvrir une bouteille.","I'm looking for the word… it's for opening a bottle."],
+["C'est un truc pour…","It's a thing for…","C'est un truc pour couper le pain.","It's a thing for cutting bread."]
+]});
+
+THEMES.push({id:"inviter", kind:"expr", icon:"💌", name:"Inviting & suggesting", fr:"Inviter & proposer", items:[
+["Tu es libre samedi ?","Are you free on Saturday?","Tu es libre samedi soir ?","Are you free on Saturday evening?"],
+["Ça te dit de… ?","Do you fancy…?","Ça te dit d'aller au cinéma ?","Do you fancy going to the cinema?"],
+["Tu veux venir… ?","Do you want to come…?","Tu veux venir dîner à la maison ?","Do you want to come to dinner at our place?"],
+["Je t'invite à…","I'm inviting you to…","Je t'invite à ma fête d'anniversaire.","I'm inviting you to my birthday party."],
+["J'aimerais vous inviter à…","I'd like to invite you to… (formal)","J'aimerais vous inviter à notre mariage.","I'd like to invite you to our wedding."],
+["On pourrait…","We could…","On pourrait aller à la plage.","We could go to the beach."],
+["Et si on allait… ?","How about going…?","Et si on allait au restaurant ?","How about going to a restaurant?"],
+["Pourquoi pas… ?","Why not…?","Pourquoi pas une promenade au parc ?","Why not a walk in the park?"],
+["Je te propose de…","I suggest we…","Je te propose de partir à huit heures.","I suggest we leave at eight."],
+["Ça te tente ?","Does that tempt you?","Un week-end à la mer, ça te tente ?","A weekend at the seaside, are you tempted?"],
+["On se retrouve où ?","Where shall we meet?","On se retrouve où ? Devant le cinéma ?","Where shall we meet? Outside the cinema?"],
+["On se retrouve à quelle heure ?","What time shall we meet?","On se retrouve à quelle heure ? À 19 h ?","What time shall we meet? At 7?"],
+["Rendez-vous à… devant…","Meet at… outside…","Rendez-vous à 20 h devant la gare.","Meet at 8 pm outside the station."],
+["N'hésite pas à venir avec…","Feel free to bring…","N'hésite pas à venir avec ta femme.","Feel free to bring your wife."],
+["Dis-moi si tu peux venir.","Let me know if you can come.","Dis-moi vite si tu peux venir !","Let me know soon if you can come!"],
+["Réponds-moi avant…","Reply to me before…","Réponds-moi avant vendredi.","Reply to me before Friday."]
+]});
+
+THEMES.push({id:"accepter", kind:"expr", icon:"✅", name:"Accepting & refusing", fr:"Accepter & refuser", items:[
+["Oui, avec plaisir !","Yes, with pleasure!","Un dîner samedi ? Oui, avec plaisir !","Dinner on Saturday? Yes, with pleasure!"],
+["Bonne idée !","Good idea!","On va au marché ? — Bonne idée !","Shall we go to the market? — Good idea!"],
+["D'accord.","OK / Agreed.","D'accord, à samedi !","OK, see you Saturday!"],
+["Ça marche !","Sounds good! / Deal!","À 20 h ? — Ça marche !","At 8? — Deal!"],
+["Je veux bien.","I'd like that / Yes please.","Encore un peu de gâteau ? — Je veux bien.","More cake? — Yes please."],
+["C'est une excellente idée.","That's an excellent idea.","Partir en Bretagne ? C'est une excellente idée.","Going to Brittany? That's an excellent idea."],
+["Je viendrai avec plaisir.","I'll be glad to come.","Merci pour l'invitation, je viendrai avec plaisir.","Thanks for the invitation, I'll be glad to come."],
+["Je suis désolé(e), mais je ne peux pas.","I'm sorry, but I can't.","Je suis désolé, mais je ne peux pas samedi.","I'm sorry, but I can't on Saturday."],
+["Malheureusement, je ne suis pas libre.","Unfortunately I'm not free.","Malheureusement, je ne suis pas libre ce soir.","Unfortunately I'm not free tonight."],
+["C'est dommage !","What a shame!","Tu ne peux pas venir ? C'est dommage !","You can't come? What a shame!"],
+["Une autre fois, peut-être ?","Another time, maybe?","Pas ce soir… une autre fois, peut-être ?","Not tonight… another time, maybe?"],
+["J'ai déjà quelque chose de prévu.","I've already got something planned.","Samedi, j'ai déjà quelque chose de prévu.","On Saturday I've already got plans."],
+["Je dois travailler.","I have to work.","Je ne peux pas venir, je dois travailler.","I can't come, I have to work."],
+["Ça ne me dit rien.","I don't fancy it.","Le cinéma ? Ça ne me dit rien ce soir.","The cinema? I don't fancy it tonight."],
+["Je n'ai pas le temps.","I don't have time.","Désolé, je n'ai pas le temps aujourd'hui.","Sorry, I don't have time today."],
+["Je ne sais pas encore.","I don't know yet.","Je ne sais pas encore, je te dis demain.","I don't know yet, I'll tell you tomorrow."],
+["Peut-être.","Maybe.","Tu viens ? — Peut-être, je vais voir.","Are you coming? — Maybe, I'll see."],
+["Merci quand même !","Thanks anyway!","Je ne peux pas, mais merci quand même !","I can't, but thanks anyway!"]
+]});
+
+THEMES.push({id:"gouts", kind:"expr", icon:"❤️", name:"Likes & preferences", fr:"Goûts & préférences", items:[
+["J'adore…","I love…","J'adore la cuisine italienne.","I love Italian food."],
+["J'aime beaucoup…","I really like…","J'aime beaucoup ce quartier.","I really like this neighbourhood."],
+["J'aime bien…","I quite like…","J'aime bien le jazz.","I quite like jazz."],
+["Je n'aime pas beaucoup…","I don't really like…","Je n'aime pas beaucoup le froid.","I don't really like the cold."],
+["Je n'aime pas du tout…","I don't like … at all","Je n'aime pas du tout les films d'horreur.","I don't like horror films at all."],
+["Je déteste…","I hate…","Je déteste me lever tôt.","I hate getting up early."],
+["Je préfère…","I prefer…","Je préfère la mer à la montagne.","I prefer the seaside to the mountains."],
+["Ce que je préfère, c'est…","What I like best is…","Ce que je préfère, c'est le week-end.","What I like best is the weekend."],
+["Mon … préféré, c'est…","My favourite … is…","Mon film préféré, c'est Amélie.","My favourite film is Amélie."],
+["Je suis passionné(e) de…","I'm passionate about…","Je suis passionné de football.","I'm passionate about football."],
+["Ça me plaît.","I like it.","Cette robe me plaît beaucoup.","I really like this dress."],
+["Ça ne me plaît pas.","I don't like it.","Ce quartier ne me plaît pas.","I don't like this area."],
+["Je trouve ça…","I find it…","Je trouve ça très joli.","I find it very pretty."],
+["Moi aussi.","Me too.","J'aime le chocolat. — Moi aussi !","I like chocolate. — Me too!"],
+["Moi non plus.","Me neither.","Je n'aime pas le café. — Moi non plus.","I don't like coffee. — Me neither."],
+["Moi, si !","I do!","Tu n'aimes pas le sport ? Moi, si !","You don't like sport? I do!"],
+["Ça dépend.","It depends.","Tu aimes le cinéma ? — Ça dépend des films.","Do you like the cinema? — It depends on the film."],
+["Ça m'est égal.","I don't mind.","Thé ou café ? — Ça m'est égal.","Tea or coffee? — I don't mind."]
+]});
+
+THEMES.push({id:"opinion", kind:"expr", icon:"🗣️", name:"Giving your opinion", fr:"Donner son opinion", items:[
+["À mon avis,…","In my opinion,…","À mon avis, c'est une bonne idée.","In my opinion, it's a good idea."],
+["Je pense que…","I think that…","Je pense que tu as raison.","I think you're right."],
+["Je crois que…","I believe that…","Je crois qu'il va pleuvoir.","I think it's going to rain."],
+["Je trouve que…","I find that…","Je trouve que les transports sont chers.","I find that transport is expensive."],
+["Pour moi,…","For me,…","Pour moi, la famille est très importante.","For me, family is very important."],
+["Selon moi,…","In my view,…","Selon moi, il faut faire plus de sport.","In my view, we should do more sport."],
+["Je suis d'accord.","I agree.","Je suis d'accord avec toi.","I agree with you."],
+["Je ne suis pas d'accord.","I disagree.","Je ne suis pas d'accord avec cette idée.","I disagree with that idea."],
+["Je suis tout à fait d'accord.","I completely agree.","Je suis tout à fait d'accord avec vous.","I completely agree with you."],
+["Tu as raison.","You're right.","Tu as raison, c'est trop cher.","You're right, it's too expensive."],
+["Tu as tort.","You're wrong.","Non, tu as tort, c'est lundi.","No, you're wrong, it's Monday."],
+["C'est vrai.","That's true.","C'est vrai, il fait froid ici.","That's true, it's cold in here."],
+["Ce n'est pas vrai !","That's not true!","Ce n'est pas vrai, je n'ai rien dit !","That's not true, I didn't say anything!"],
+["Bien sûr !","Of course!","Tu viens ? — Bien sûr !","Are you coming? — Of course!"],
+["Pas du tout.","Not at all.","Tu es fatigué ? — Pas du tout.","Are you tired? — Not at all."],
+["Exactement !","Exactly!","C'est trop loin. — Exactement !","It's too far. — Exactly!"],
+["L'avantage, c'est que…","The advantage is that…","L'avantage, c'est que c'est près de chez moi.","The advantage is that it's close to my home."],
+["L'inconvénient, c'est que…","The drawback is that…","L'inconvénient, c'est que c'est cher.","The drawback is that it's expensive."],
+["D'un côté… de l'autre…","On the one hand… on the other…","D'un côté c'est pratique, de l'autre c'est cher.","On the one hand it's practical, on the other it's expensive."],
+["Il faut…","You have to / We must…","Il faut protéger la planète.","We must protect the planet."],
+["C'est mieux de…","It's better to…","C'est mieux de prendre le train.","It's better to take the train."]
+]});
+
+THEMES.push({id:"reactions", kind:"expr", icon:"😮", name:"Feelings & reactions", fr:"Exprimer ses sentiments", items:[
+["Je suis content(e) que…","I'm glad that…","Je suis content que tu sois là.","I'm glad you're here."],
+["Je suis ravi(e) de…","I'm delighted to…","Je suis ravi de vous voir.","I'm delighted to see you."],
+["Quelle bonne nouvelle !","What good news!","Tu as réussi ? Quelle bonne nouvelle !","You passed? What good news!"],
+["Génial !","Brilliant!","On part en vacances ! — Génial !","We're going on holiday! — Brilliant!"],
+["Super !","Great!","Il fait beau ? Super !","It's sunny? Great!"],
+["Quelle chance !","How lucky!","Tu pars au Canada ? Quelle chance !","You're going to Canada? How lucky!"],
+["Ça me fait plaisir.","That makes me happy.","Ton message me fait très plaisir.","Your message makes me very happy."],
+["J'ai hâte de…","I can't wait to…","J'ai hâte de te voir !","I can't wait to see you!"],
+["Oh là là !","Oh dear! / Wow!","Oh là là, il est déjà midi !","Oh dear, it's already noon!"],
+["Quel dommage !","What a pity!","Le concert est annulé ? Quel dommage !","The concert's cancelled? What a pity!"],
+["Je suis désolé(e) pour…","I'm sorry about…","Je suis désolé pour ton grand-père.","I'm sorry about your grandfather."],
+["J'en ai marre !","I'm fed up!","Il pleut encore, j'en ai marre !","It's raining again, I'm fed up!"],
+["Ça m'énerve !","That annoys me!","Le bruit des voisins m'énerve !","The neighbours' noise annoys me!"],
+["Je m'inquiète pour…","I'm worried about…","Je m'inquiète pour mon fils.","I'm worried about my son."],
+["Ne t'inquiète pas.","Don't worry.","Ne t'inquiète pas, tout va bien.","Don't worry, everything's fine."],
+["Ce n'est pas grave.","It doesn't matter / No big deal.","Tu es en retard ? Ce n'est pas grave.","You're late? No big deal."],
+["Quelle surprise !","What a surprise!","Toi ici ? Quelle surprise !","You here? What a surprise!"],
+["C'est incroyable !","That's incredible!","Il a gagné ? C'est incroyable !","He won? That's incredible!"],
+["Tant mieux !","Good! / So much the better!","Il ne pleut plus ? Tant mieux !","It's stopped raining? Good!"],
+["Tant pis !","Never mind! / Too bad!","Le magasin est fermé ? Tant pis !","The shop's closed? Never mind!"]
+]});
+
+THEMES.push({id:"excuses", kind:"expr", icon:"😔", name:"Apologising & explaining", fr:"S'excuser & se justifier", items:[
+["Je suis désolé(e).","I'm sorry.","Je suis désolé, je suis en retard.","I'm sorry, I'm late."],
+["Excusez-moi pour…","Sorry for…","Excusez-moi pour le retard.","Sorry for the delay."],
+["Pardon, je ne l'ai pas fait exprès.","Sorry, I didn't do it on purpose.","Pardon, je ne l'ai pas fait exprès !","Sorry, I didn't do it on purpose!"],
+["C'est de ma faute.","It's my fault.","Désolé, c'est de ma faute.","Sorry, it's my fault."],
+["Je n'ai pas pu…","I couldn't…","Je n'ai pas pu venir hier.","I couldn't come yesterday."],
+["parce que…","because…","Je suis en retard parce que le bus est en panne.","I'm late because the bus broke down."],
+["à cause de…","because of… (negative)","Je suis en retard à cause des embouteillages.","I'm late because of the traffic."],
+["grâce à…","thanks to… (positive)","J'ai réussi grâce à toi.","I passed thanks to you."],
+["J'ai oublié.","I forgot.","Désolé, j'ai complètement oublié !","Sorry, I completely forgot!"],
+["Ce n'est pas grave.","It's OK / It doesn't matter.","Excuse-moi ! — Ce n'est pas grave.","Sorry! — It's OK."],
+["Ne vous inquiétez pas.","Don't worry (formal).","Ne vous inquiétez pas, ça arrive.","Don't worry, it happens."],
+["Ça arrive.","It happens.","Tu as oublié ? Ça arrive !","You forgot? It happens!"],
+["Je ne recommencerai pas.","I won't do it again.","Promis, je ne recommencerai pas.","I promise I won't do it again."],
+["Je vous prie de m'excuser.","Please accept my apologies (formal).","Je vous prie de m'excuser pour ce problème.","Please accept my apologies for this problem."]
+]});
+
+THEMES.push({id:"telephone", kind:"expr", icon:"☎️", name:"On the phone", fr:"Au téléphone", items:[
+["Allô ?","Hello? (on the phone)","Allô ? Bonjour, c'est Marie.","Hello? Hi, it's Marie."],
+["C'est … à l'appareil.","It's … speaking.","Bonjour, c'est Paul Martin à l'appareil.","Hello, it's Paul Martin speaking."],
+["Qui est à l'appareil ?","Who's speaking?","Pardon, qui est à l'appareil ?","Sorry, who's speaking?"],
+["Je voudrais parler à…","I'd like to speak to…","Je voudrais parler à Madame Dupont.","I'd like to speak to Mrs Dupont."],
+["Ne quittez pas.","Hold the line.","Ne quittez pas, je vous la passe.","Hold the line, I'll put you through to her."],
+["Je vous le / la passe.","I'll put you through.","Un instant, je vous le passe.","One moment, I'll put you through."],
+["Il / Elle n'est pas là.","He / She isn't here.","Désolé, elle n'est pas là ce matin.","Sorry, she isn't here this morning."],
+["Vous voulez laisser un message ?","Would you like to leave a message?","Il est absent. Vous voulez laisser un message ?","He's out. Would you like to leave a message?"],
+["Pouvez-vous lui dire de me rappeler ?","Can you ask him / her to call me back?","Pouvez-vous lui dire de me rappeler ?","Can you ask him to call me back?"],
+["Je rappellerai plus tard.","I'll call back later.","Merci, je rappellerai plus tard.","Thanks, I'll call back later."],
+["Vous vous êtes trompé(e) de numéro.","You've got the wrong number.","Désolé, vous vous êtes trompé de numéro.","Sorry, you've got the wrong number."],
+["Je t'entends mal.","I can't hear you well.","Allô ? Je t'entends mal !","Hello? I can't hear you well!"],
+["Ça a coupé.","We got cut off.","Désolé, ça a coupé.","Sorry, we got cut off."],
+["Je t'appelle pour…","I'm calling to…","Je t'appelle pour te dire merci.","I'm calling to say thank you."],
+["Je vous appelle au sujet de…","I'm calling about… (formal)","Je vous appelle au sujet de l'annonce.","I'm calling about the advert."],
+["Bonne journée, au revoir.","Have a nice day, goodbye.","Merci beaucoup, bonne journée, au revoir.","Thanks a lot, have a nice day, goodbye."]
+]});

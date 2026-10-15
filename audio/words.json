@@ -1,0 +1,5314 @@
+{
+ "être": {
+  "file": "etre.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-être.wav",
+  "speaker": "Lepticed7"
+ },
+ "avoir": {
+  "file": "avoir.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-avoir.wav",
+  "speaker": "Lepticed7"
+ },
+ "faire": {
+  "file": "faire.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-GrandCelinien-faire.wav",
+  "speaker": "GrandCelinien"
+ },
+ "aller": {
+  "file": "aller.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-aller.wav",
+  "speaker": "Lepticed7"
+ },
+ "pouvoir": {
+  "file": "pouvoir.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-pouvoir.wav",
+  "speaker": "LoquaxFR"
+ },
+ "vouloir": {
+  "file": "vouloir.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-vouloir.wav",
+  "speaker": "Lepticed7"
+ },
+ "devoir": {
+  "file": "devoir.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-devoir.wav",
+  "speaker": "Lepticed7"
+ },
+ "dire": {
+  "file": "dire.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-dire.wav",
+  "speaker": "Lepticed7"
+ },
+ "voir": {
+  "file": "voir.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-voir.wav",
+  "speaker": "Lepticed7"
+ },
+ "savoir": {
+  "file": "savoir.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-savoir.wav",
+  "speaker": "Lepticed7"
+ },
+ "prendre": {
+  "file": "prendre.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-prendre.wav",
+  "speaker": "Lepticed7"
+ },
+ "venir": {
+  "file": "venir.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-venir.wav",
+  "speaker": "Lepticed7"
+ },
+ "mettre": {
+  "file": "mettre.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-mettre.wav",
+  "speaker": "Lepticed7"
+ },
+ "parler": {
+  "file": "parler.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-parler.wav",
+  "speaker": "Lepticed7"
+ },
+ "aimer": {
+  "file": "aimer.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-aimer.wav",
+  "speaker": "Lepticed7"
+ },
+ "manger": {
+  "file": "manger.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-manger.wav",
+  "speaker": "Lepticed7"
+ },
+ "boire": {
+  "file": "boire.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-boire.wav",
+  "speaker": "Lepticed7"
+ },
+ "acheter": {
+  "file": "acheter.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-acheter.wav",
+  "speaker": "Lepticed7"
+ },
+ "habiter": {
+  "file": "habiter.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-habiter.wav",
+  "speaker": "LoquaxFR"
+ },
+ "travailler": {
+  "file": "travailler.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-travailler.wav",
+  "speaker": "Lepticed7"
+ },
+ "partir": {
+  "file": "partir.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-partir.wav",
+  "speaker": "Lepticed7"
+ },
+ "sortir": {
+  "file": "sortir.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-sortir.wav",
+  "speaker": "LoquaxFR"
+ },
+ "attendre": {
+  "file": "attendre.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-attendre.wav",
+  "speaker": "Lepticed7"
+ },
+ "comprendre": {
+  "file": "comprendre.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-comprendre.wav",
+  "speaker": "Lepticed7"
+ },
+ "connaître": {
+  "file": "connaitre.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-connaître.wav",
+  "speaker": "Lepticed7"
+ },
+ "penser": {
+  "file": "penser.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-penser.wav",
+  "speaker": "Lepticed7"
+ },
+ "trouver": {
+  "file": "trouver.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-trouver.wav",
+  "speaker": "Lepticed7"
+ },
+ "donner": {
+  "file": "donner.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-donner.wav",
+  "speaker": "Lepticed7"
+ },
+ "demander": {
+  "file": "demander.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-demander.wav",
+  "speaker": "LoquaxFR"
+ },
+ "arriver": {
+  "file": "arriver.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-arriver.wav",
+  "speaker": "Lepticed7"
+ },
+ "temps": {
+  "file": "temps.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-temps.wav",
+  "speaker": "Lepticed7"
+ },
+ "jour": {
+  "file": "jour.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-jour.wav",
+  "speaker": "Lepticed7"
+ },
+ "an": {
+  "file": "an.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-an.wav",
+  "speaker": "Lepticed7"
+ },
+ "année": {
+  "file": "annee.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-année.wav",
+  "speaker": "Lepticed7"
+ },
+ "semaine": {
+  "file": "semaine.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-semaine.wav",
+  "speaker": "Poslovitch"
+ },
+ "heure": {
+  "file": "heure.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-heure.wav",
+  "speaker": "LoquaxFR"
+ },
+ "maison": {
+  "file": "maison.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-maison.wav",
+  "speaker": "LoquaxFR"
+ },
+ "famille": {
+  "file": "famille.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-famille.wav",
+  "speaker": "Lepticed7"
+ },
+ "ami": {
+  "file": "ami.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-ami.wav",
+  "speaker": "LoquaxFR"
+ },
+ "amie": {
+  "file": "amie.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-0x010C-amie.wav",
+  "speaker": "0x010C"
+ },
+ "enfant": {
+  "file": "enfant.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-enfant.wav",
+  "speaker": "Lepticed7"
+ },
+ "ville": {
+  "file": "ville.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-ville.wav",
+  "speaker": "LoquaxFR"
+ },
+ "travail": {
+  "file": "travail.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-travail.wav",
+  "speaker": "LoquaxFR"
+ },
+ "école": {
+  "file": "ecole.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-école.wav",
+  "speaker": "LoquaxFR"
+ },
+ "argent": {
+  "file": "argent.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-argent.wav",
+  "speaker": "Lepticed7"
+ },
+ "voiture": {
+  "file": "voiture.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-voiture.wav",
+  "speaker": "LoquaxFR"
+ },
+ "pays": {
+  "file": "pays.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-pays.wav",
+  "speaker": "LoquaxFR"
+ },
+ "chose": {
+  "file": "chose.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-chose.wav",
+  "speaker": "Lepticed7"
+ },
+ "vie": {
+  "file": "vie.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-vie.wav",
+  "speaker": "Lepticed7"
+ },
+ "monde": {
+  "file": "monde.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-monde.wav",
+  "speaker": "LoquaxFR"
+ },
+ "rue": {
+  "file": "rue.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-rue.wav",
+  "speaker": "LoquaxFR"
+ },
+ "repas": {
+  "file": "repas.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-repas.wav",
+  "speaker": "LoquaxFR"
+ },
+ "eau": {
+  "file": "eau.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-eau.wav",
+  "speaker": "Lepticed7"
+ },
+ "pain": {
+  "file": "pain.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-pain.wav",
+  "speaker": "LoquaxFR"
+ },
+ "chambre": {
+  "file": "chambre.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-chambre.wav",
+  "speaker": "LoquaxFR"
+ },
+ "magasin": {
+  "file": "magasin.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-magasin.wav",
+  "speaker": "Lepticed7"
+ },
+ "vacances": {
+  "file": "vacances.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-vacances.wav",
+  "speaker": "Lepticed7"
+ },
+ "grand": {
+  "file": "grand.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-grand.wav",
+  "speaker": "Lepticed7"
+ },
+ "grande": {
+  "file": "grande.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-grande.wav",
+  "speaker": "Poslovitch"
+ },
+ "petit": {
+  "file": "petit.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-petit.wav",
+  "speaker": "Lepticed7"
+ },
+ "petite": {
+  "file": "petite.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Pamputt-petite.wav",
+  "speaker": "Pamputt"
+ },
+ "bon": {
+  "file": "bon.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-bon.wav",
+  "speaker": "Lepticed7"
+ },
+ "bonne": {
+  "file": "bonne.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-bonne.wav",
+  "speaker": "LoquaxFR"
+ },
+ "mauvais": {
+  "file": "mauvais.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-mauvais.wav",
+  "speaker": "Lepticed7"
+ },
+ "mauvaise": {
+  "file": "mauvaise.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-DenisdeShawi-mauvaise.wav",
+  "speaker": "DenisdeShawi"
+ },
+ "nouveau": {
+  "file": "nouveau.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-nouveau.wav",
+  "speaker": "Lepticed7"
+ },
+ "nouvelle": {
+  "file": "nouvelle.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-nouvelle.wav",
+  "speaker": "Poslovitch"
+ },
+ "vieux": {
+  "file": "vieux.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-vieux.wav",
+  "speaker": "Lepticed7"
+ },
+ "vieille": {
+  "file": "vieille.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-vieille.wav",
+  "speaker": "LoquaxFR"
+ },
+ "beau": {
+  "file": "beau.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-beau.wav",
+  "speaker": "Lepticed7"
+ },
+ "belle": {
+  "file": "belle.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-belle.wav",
+  "speaker": "LoquaxFR"
+ },
+ "jeune": {
+  "file": "jeune.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-jeune.wav",
+  "speaker": "Lepticed7"
+ },
+ "facile": {
+  "file": "facile.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-facile.wav",
+  "speaker": "LoquaxFR"
+ },
+ "difficile": {
+  "file": "difficile.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-difficile.wav",
+  "speaker": "LoquaxFR"
+ },
+ "content": {
+  "file": "content.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-content.wav",
+  "speaker": "LoquaxFR"
+ },
+ "contente": {
+  "file": "contente.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Pamputt-contente.wav",
+  "speaker": "Pamputt"
+ },
+ "fatigué": {
+  "file": "fatigue.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-fatigué.wav",
+  "speaker": "LoquaxFR"
+ },
+ "fatiguée": {
+  "file": "fatiguee.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-fatiguée.wav",
+  "speaker": "WikiLucas00"
+ },
+ "cher": {
+  "file": "cher.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-cher.wav",
+  "speaker": "Lepticed7"
+ },
+ "chère": {
+  "file": "chere.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Pamputt-chère.wav",
+  "speaker": "Pamputt"
+ },
+ "prochain": {
+  "file": "prochain.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-prochain.wav",
+  "speaker": "Poslovitch"
+ },
+ "prochaine": {
+  "file": "prochaine.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-prochaine.wav",
+  "speaker": "Poslovitch"
+ },
+ "dernier": {
+  "file": "dernier.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-dernier.wav",
+  "speaker": "Lepticed7"
+ },
+ "dernière": {
+  "file": "derniere.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Le_Commissaire-dernière.wav",
+  "speaker": "Le Commissaire"
+ },
+ "aujourd’hui": {
+  "file": "aujourdhui.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-aujourd’hui.wav",
+  "speaker": "Lepticed7"
+ },
+ "demain": {
+  "file": "demain.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-demain.wav",
+  "speaker": "Lepticed7"
+ },
+ "hier": {
+  "file": "hier.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-hier.wav",
+  "speaker": "Lepticed7"
+ },
+ "maintenant": {
+  "file": "maintenant.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-maintenant.wav",
+  "speaker": "Lepticed7"
+ },
+ "toujours": {
+  "file": "toujours.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-toujours.wav",
+  "speaker": "LoquaxFR"
+ },
+ "souvent": {
+  "file": "souvent.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-souvent.wav",
+  "speaker": "LoquaxFR"
+ },
+ "jamais": {
+  "file": "jamais.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-jamais.wav",
+  "speaker": "LoquaxFR"
+ },
+ "déjà": {
+  "file": "deja.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-déjà.wav",
+  "speaker": "Lepticed7"
+ },
+ "encore": {
+  "file": "encore.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-encore.wav",
+  "speaker": "LoquaxFR"
+ },
+ "après": {
+  "file": "apres.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-après.wav",
+  "speaker": "Lepticed7"
+ },
+ "avant": {
+  "file": "avant.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-avant.wav",
+  "speaker": "Lepticed7"
+ },
+ "ici": {
+  "file": "ici.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-ici.wav",
+  "speaker": "Lepticed7"
+ },
+ "là-bas": {
+  "file": "la-bas.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-là-bas.wav",
+  "speaker": "WikiLucas00-là"
+ },
+ "très": {
+  "file": "tres.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-très.wav",
+  "speaker": "WikiLucas00"
+ },
+ "beaucoup": {
+  "file": "beaucoup.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-beaucoup.wav",
+  "speaker": "Lepticed7"
+ },
+ "trop": {
+  "file": "trop.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-trop.wav",
+  "speaker": "LoquaxFR"
+ },
+ "peu": {
+  "file": "peu.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-peu.wav",
+  "speaker": "Lepticed7"
+ },
+ "assez": {
+  "file": "assez.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-assez.wav",
+  "speaker": "Lepticed7"
+ },
+ "aussi": {
+  "file": "aussi.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-aussi.wav",
+  "speaker": "Lepticed7"
+ },
+ "bien": {
+  "file": "bien.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-bien.wav",
+  "speaker": "Lepticed7"
+ },
+ "mais": {
+  "file": "mais.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-mais.wav",
+  "speaker": "WikiLucas00"
+ },
+ "parce que": {
+  "file": "parce-que.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-parce_que.wav",
+  "speaker": "Lepticed7"
+ },
+ "donc": {
+  "file": "donc.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-donc.wav",
+  "speaker": "LoquaxFR"
+ },
+ "quand": {
+  "file": "quand.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-quand.wav",
+  "speaker": "Lepticed7"
+ },
+ "où": {
+  "file": "ou.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-où.wav",
+  "speaker": "Lepticed7"
+ },
+ "pourquoi": {
+  "file": "pourquoi.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-pourquoi.wav",
+  "speaker": "WikiLucas00"
+ },
+ "comment": {
+  "file": "comment.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-comment.wav",
+  "speaker": "Lepticed7"
+ },
+ "combien": {
+  "file": "combien.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-combien.wav",
+  "speaker": "Lepticed7"
+ },
+ "avec": {
+  "file": "avec.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-avec.wav",
+  "speaker": "Lepticed7"
+ },
+ "chez": {
+  "file": "chez.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-chez.wav",
+  "speaker": "LoquaxFR"
+ },
+ "Bonjour": {
+  "file": "bonjour.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-bonjour.wav",
+  "speaker": "LoquaxFR"
+ },
+ "Bonsoir": {
+  "file": "bonsoir.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-bonsoir.wav",
+  "speaker": "LoquaxFR"
+ },
+ "Salut": {
+  "file": "salut.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-salut.wav",
+  "speaker": "LoquaxFR"
+ },
+ "Comment allez-vous": {
+  "file": "comment-allez-vous.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-comment_allez-vous.wav",
+  "speaker": "LoquaxFR-comment allez"
+ },
+ "Comment ça va": {
+  "file": "comment-ca-va.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-comment_ça_va.wav",
+  "speaker": "LoquaxFR"
+ },
+ "Ça va": {
+  "file": "ca-va.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-ça_va.wav",
+  "speaker": "LoquaxFR"
+ },
+ "Ça va bien, merci": null,
+ "Pas mal": {
+  "file": "pas-mal.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-pas_mal.wav",
+  "speaker": "LoquaxFR"
+ },
+ "Et vous": null,
+ "Au revoir": {
+  "file": "au-revoir.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-au_revoir.wav",
+  "speaker": "LoquaxFR"
+ },
+ "À bientôt": {
+  "file": "a-bientot.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-à_bientôt.wav",
+  "speaker": "LoquaxFR"
+ },
+ "À tout à l’heure": {
+  "file": "a-tout-a-lheure.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-à_tout_à_l’heure.wav",
+  "speaker": "LoquaxFR"
+ },
+ "À plus tard": {
+  "file": "a-plus-tard.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-à_plus_tard.wav",
+  "speaker": "LoquaxFR"
+ },
+ "À demain": {
+  "file": "a-demain.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-à_demain.wav",
+  "speaker": "LoquaxFR"
+ },
+ "Bonne journée": {
+  "file": "bonne-journee.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-bonne_journée.wav",
+  "speaker": "LoquaxFR"
+ },
+ "Bonne soirée": {
+  "file": "bonne-soiree.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-bonne_soirée.wav",
+  "speaker": "LoquaxFR"
+ },
+ "Bon week-end": null,
+ "Bonne nuit": {
+  "file": "bonne-nuit.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-bonne_nuit.wav",
+  "speaker": "LoquaxFR"
+ },
+ "Enchanté": {
+  "file": "enchante.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-enchanté.wav",
+  "speaker": "LoquaxFR"
+ },
+ "Bienvenue": {
+  "file": "bienvenue.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-bienvenue.wav",
+  "speaker": "LoquaxFR"
+ },
+ "Bon appétit": {
+  "file": "bon-appetit.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-bon_appétit.wav",
+  "speaker": "LoquaxFR"
+ },
+ "Bonne chance": {
+  "file": "bonne-chance.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-bonne_chance.wav",
+  "speaker": "LoquaxFR"
+ },
+ "Bon courage": {
+  "file": "bon-courage.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-bon_courage.wav",
+  "speaker": "Poslovitch"
+ },
+ "Amuse-toi bien": null,
+ "S’il vous plaît": {
+  "file": "sil-vous-plait.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-s’il_vous_plaît.wav",
+  "speaker": "LoquaxFR"
+ },
+ "S’il te plaît": {
+  "file": "sil-te-plait.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-s’il_te_plaît.wav",
+  "speaker": "LoquaxFR"
+ },
+ "Merci beaucoup": {
+  "file": "merci-beaucoup.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-merci_beaucoup.wav",
+  "speaker": "LoquaxFR"
+ },
+ "Merci pour tout": null,
+ "Je vous remercie": null,
+ "C’est très gentil": null,
+ "De rien": {
+  "file": "de-rien.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-de_rien.wav",
+  "speaker": "LoquaxFR"
+ },
+ "Je vous en prie": {
+  "file": "je-vous-en-prie.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-je_vous_en_prie.wav",
+  "speaker": "LoquaxFR"
+ },
+ "Il n’y a pas de quoi": {
+  "file": "il-ny-a-pas-de-quoi.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-il_n’y_a_pas_de_quoi.wav",
+  "speaker": "WikiLucas00"
+ },
+ "Excusez-moi": {
+  "file": "excusez-moi.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-excusez-moi.wav",
+  "speaker": "LoquaxFR-excusez"
+ },
+ "Pardon": {
+  "file": "pardon.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-pardon.wav",
+  "speaker": "LoquaxFR"
+ },
+ "Je voudrais": null,
+ "Est-ce que je pourrais": null,
+ "Pourriez-vous": null,
+ "Avec plaisir": {
+  "file": "avec-plaisir.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-avec_plaisir.wav",
+  "speaker": "LoquaxFR"
+ },
+ "Volontiers": {
+  "file": "volontiers.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-volontiers.wav",
+  "speaker": "WikiLucas00"
+ },
+ "Après vous": null,
+ "Servez-vous": null,
+ "Je m’appelle": null,
+ "J’ai ans": null,
+ "Je suis anglais": null,
+ "Je viens de": null,
+ "J’habite à": null,
+ "Je travaille comme": null,
+ "Je suis marié et j’ai enfants": null,
+ "J’apprends le français depuis": null,
+ "J’aime n’aime pas": null,
+ "Je vous présente": null,
+ "Je te présente": null,
+ "Vous vous appelez comment": null,
+ "Tu t’appelles comment": null,
+ "Vous êtes d’où": null,
+ "Vous parlez anglais": null,
+ "On se tutoie": null,
+ "Ravi de vous rencontrer": null,
+ "Qu’est-ce que c’est": {
+  "file": "quest-ce-que-cest.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Jérémy-Günther-Heinz_Jähnick-qu’est-ce_que_c’est.wav",
+  "speaker": "Jérémy-Günther-Heinz Jähnick-qu’est"
+ },
+ "C’est combien": null,
+ "Il y a": {
+  "file": "il-y-a.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Jérémy-Günther-Heinz_Jähnick-il_y_a.wav",
+  "speaker": "Jérémy-Günther-Heinz Jähnick"
+ },
+ "Où est": null,
+ "À quelle heure": {
+  "file": "a-quelle-heure.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-à_quelle_heure.wav",
+  "speaker": "LoquaxFR"
+ },
+ "Quand est-ce que": null,
+ "Combien de": null,
+ "Qui": {
+  "file": "qui.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-qui.wav",
+  "speaker": "Lepticed7"
+ },
+ "Quel": {
+  "file": "quel.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-DenisdeShawi-quel.wav",
+  "speaker": "DenisdeShawi"
+ },
+ "Est-ce que": {
+  "file": "est-ce-que.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lyokoï-est-ce_que.wav",
+  "speaker": "Lyokoï-est"
+ },
+ "Est-ce que vous pouvez m’aider": null,
+ "Je cherche": null,
+ "Vous avez": null,
+ "C’est ouvert le dimanche": null,
+ "Ça dure combien de temps": null,
+ "Je voudrais savoir": null,
+ "Pouvez-vous me dire": null,
+ "Je ne comprends pas": null,
+ "Pouvez-vous répéter, s’il vous plaît": null,
+ "Plus lentement, s’il vous plaît": null,
+ "Qu’est-ce que ça veut dire": null,
+ "Comment on dit en français": null,
+ "Comment ça s’écrit": null,
+ "Vous pouvez épeler": null,
+ "Je ne sais pas": null,
+ "Je ne suis pas sûr": null,
+ "J’ai compris": null,
+ "C’est-à-dire": {
+  "file": "cest-a-dire.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Pamputt-c'est-à-dire.wav",
+  "speaker": "Pamputt-c'est-à"
+ },
+ "Vous voulez dire que": null,
+ "Comment": {
+  "file": "comment.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-comment.wav",
+  "speaker": "Lepticed7"
+ },
+ "Je cherche le mot": null,
+ "C’est un truc pour": null,
+ "Tu es libre samedi": null,
+ "Ça te dit de": null,
+ "Tu veux venir": null,
+ "Je t’invite à": null,
+ "J’aimerais vous inviter à": null,
+ "On pourrait": null,
+ "Et si on allait": null,
+ "Pourquoi pas": {
+  "file": "pourquoi-pas.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Jérémy-Günther-Heinz_Jähnick-pourquoi_pas.wav",
+  "speaker": "Jérémy-Günther-Heinz Jähnick"
+ },
+ "Je te propose de": null,
+ "Ça te tente": null,
+ "On se retrouve où": null,
+ "On se retrouve à quelle heure": null,
+ "Rendez-vous à devant": null,
+ "N’hésite pas à venir avec": null,
+ "Dis-moi si tu peux venir": null,
+ "Réponds-moi avant": null,
+ "Oui, avec plaisir": null,
+ "Bonne idée": null,
+ "D’accord": {
+  "file": "daccord.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-d’accord.wav",
+  "speaker": "Lepticed7"
+ },
+ "Ça marche": {
+  "file": "ca-marche.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-ça_marche.wav",
+  "speaker": "LoquaxFR"
+ },
+ "Je veux bien": null,
+ "C’est une excellente idée": null,
+ "Je viendrai avec plaisir": null,
+ "Malheureusement, je ne suis pas libre": null,
+ "C’est dommage": null,
+ "Une autre fois, peut-être": null,
+ "J’ai déjà quelque chose de prévu": null,
+ "Je dois travailler": null,
+ "Ça ne me dit rien": null,
+ "Je n’ai pas le temps": null,
+ "Je ne sais pas encore": null,
+ "Peut-être": {
+  "file": "peut-etre.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-peut-être.wav",
+  "speaker": "LoquaxFR-peut"
+ },
+ "Merci quand même": {
+  "file": "merci-quand-meme.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-merci_quand_même.wav",
+  "speaker": "LoquaxFR"
+ },
+ "J’adore": null,
+ "J’aime beaucoup": null,
+ "J’aime bien": null,
+ "Je n’aime pas beaucoup": null,
+ "Je n’aime pas du tout": null,
+ "Je déteste": null,
+ "Je préfère": null,
+ "Ce que je préfère, c’est": null,
+ "Mon préféré, c’est": null,
+ "Je suis passionné de": null,
+ "Ça me plaît": null,
+ "Ça ne me plaît pas": null,
+ "Je trouve ça": null,
+ "Moi aussi": null,
+ "Moi non plus": null,
+ "Moi, si": null,
+ "Ça dépend": null,
+ "Ça m’est égal": {
+  "file": "ca-mest-egal.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-ça_m’est_égal.wav",
+  "speaker": "LoquaxFR"
+ },
+ "À mon avis": {
+  "file": "a-mon-avis.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-à_mon_avis.wav",
+  "speaker": "LoquaxFR"
+ },
+ "Je pense que": null,
+ "Je crois que": null,
+ "Je trouve que": null,
+ "Pour moi": null,
+ "Selon moi": null,
+ "Je suis d’accord": null,
+ "Je ne suis pas d’accord": null,
+ "Je suis tout à fait d’accord": null,
+ "Tu as raison": {
+  "file": "tu-as-raison.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-tu_as_raison.wav",
+  "speaker": "LoquaxFR"
+ },
+ "Tu as tort": null,
+ "C’est vrai": null,
+ "Ce n’est pas vrai": null,
+ "Bien sûr": {
+  "file": "bien-sur.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-bien_sûr.wav",
+  "speaker": "WikiLucas00"
+ },
+ "Pas du tout": null,
+ "Exactement": {
+  "file": "exactement.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-exactement.wav",
+  "speaker": "WikiLucas00"
+ },
+ "L’avantage, c’est que": null,
+ "L’inconvénient, c’est que": null,
+ "D’un côté de l’autre": null,
+ "Il faut": null,
+ "C’est mieux de": null,
+ "Je suis content que": null,
+ "Je suis ravi de": null,
+ "Quelle bonne nouvelle": null,
+ "Génial": {
+  "file": "genial.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-génial.wav",
+  "speaker": "Poslovitch"
+ },
+ "Super": {
+  "file": "super.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-super.wav",
+  "speaker": "LoquaxFR"
+ },
+ "Quelle chance": null,
+ "Ça me fait plaisir": null,
+ "J’ai hâte de": null,
+ "Oh là là": {
+  "file": "oh-la-la.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-oh_là_là.wav",
+  "speaker": "LoquaxFR"
+ },
+ "Quel dommage": null,
+ "Je suis désolé pour": null,
+ "J’en ai marre": null,
+ "Ça m’énerve": null,
+ "Je m’inquiète pour": null,
+ "Ne t’inquiète pas": null,
+ "Ce n’est pas grave": {
+  "file": "ce-nest-pas-grave.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-ce_n’est_pas_grave.wav",
+  "speaker": "LoquaxFR"
+ },
+ "Quelle surprise": null,
+ "C’est incroyable": null,
+ "Tant mieux": {
+  "file": "tant-mieux.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-tant_mieux.wav",
+  "speaker": "LoquaxFR"
+ },
+ "Tant pis": {
+  "file": "tant-pis.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-tant_pis.wav",
+  "speaker": "WikiLucas00"
+ },
+ "Je suis désolé": null,
+ "Excusez-moi pour": null,
+ "C’est de ma faute": null,
+ "Je n’ai pas pu": null,
+ "à cause de": {
+  "file": "a-cause-de.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Yug-à_cause_de.wav",
+  "speaker": "Yug"
+ },
+ "grâce à": {
+  "file": "grace-a.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-grâce_à.wav",
+  "speaker": "LoquaxFR"
+ },
+ "J’ai oublié": null,
+ "Ne vous inquiétez pas": null,
+ "Ça arrive": {
+  "file": "ca-arrive.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-ça_arrive.wav",
+  "speaker": "LoquaxFR"
+ },
+ "Je ne recommencerai pas": null,
+ "Je vous prie de m’excuser": null,
+ "Allô": {
+  "file": "allo.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-allô.wav",
+  "speaker": "LoquaxFR"
+ },
+ "C’est à l’appareil": null,
+ "Qui est à l’appareil": null,
+ "Je voudrais parler à": null,
+ "Ne quittez pas": null,
+ "Je vous le passe": null,
+ "Il n’est pas là": null,
+ "Vous voulez laisser un message": null,
+ "Pouvez-vous lui dire de me rappeler": null,
+ "Je rappellerai plus tard": null,
+ "Vous vous êtes trompé de numéro": null,
+ "Je t’entends mal": null,
+ "Ça a coupé": null,
+ "Je t’appelle pour": null,
+ "Je vous appelle au sujet de": null,
+ "Bonne journée, au revoir": null,
+ "Cher Paul": null,
+ "Salut tout le monde": null,
+ "Madame, Monsieur": {
+  "file": "madame-monsieur.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-Madame,_Monsieur.wav",
+  "speaker": "LoquaxFR"
+ },
+ "Je t’écris pour": null,
+ "Je vous écris pour": null,
+ "Comment vas-tu": {
+  "file": "comment-vas-tu.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-comment_vas-tu.wav",
+  "speaker": "Lepticed7-comment vas"
+ },
+ "J’espère que tu vas bien": null,
+ "Merci pour ton message": null,
+ "J’ai bien reçu": null,
+ "Je te raconte": null,
+ "Je voudrais savoir si": null,
+ "Pourriez-vous m’envoyer": null,
+ "Je te remercie pour": null,
+ "Réponds-moi vite": null,
+ "Dans l’attente de votre réponse": null,
+ "Bises bises": null,
+ "Je t’embrasse": null,
+ "Amicalement": {
+  "file": "amicalement.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-amicalement.wav",
+  "speaker": "Lepticed7"
+ },
+ "Cordialement": {
+  "file": "cordialement.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-cordialement.wav",
+  "speaker": "Lepticed7"
+ },
+ "P.-S": null,
+ "l’objet": null,
+ "la pièce jointe": null,
+ "Je peux vous aider": null,
+ "Je regarde, merci": null,
+ "Vous l’avez en": null,
+ "Je peux l’essayer": null,
+ "Ça me va": null,
+ "C’est trop grand petit": null,
+ "Combien ça coûte": null,
+ "Je le prends": null,
+ "C’est un peu cher": null,
+ "Vous avez moins cher": null,
+ "Je peux payer par carte": null,
+ "Et avec ceci": {
+  "file": "et-avec-ceci.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Jérémy-Günther-Heinz_Jähnick-et_avec_ceci.wav",
+  "speaker": "Jérémy-Günther-Heinz Jähnick"
+ },
+ "C’est tout, merci": null,
+ "Vous pouvez faire un paquet-cadeau": null,
+ "Je voudrais échanger cet article": null,
+ "Il est abîmé": null,
+ "Gardez la monnaie": {
+  "file": "gardez-la-monnaie.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-gardez_la_monnaie.wav",
+  "speaker": "LoquaxFR"
+ },
+ "J’ai réservé au nom de": null,
+ "Vous avez choisi": null,
+ "Je vais prendre": null,
+ "Comme entrée": null,
+ "Qu’est-ce que vous me conseillez": null,
+ "Qu’est-ce qu’il y a dans": null,
+ "Je suis allergique à": null,
+ "Je ne mange pas de": null,
+ "Et comme boisson": null,
+ "Une carafe d’eau, s’il vous plaît": null,
+ "C’était délicieux": null,
+ "Tout s’est bien passé": null,
+ "L’addition, s’il vous plaît": {
+  "file": "laddition-sil-vous-plait.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Jérémy-Günther-Heinz_Jähnick-l’addition,_s’il_vous_plaît.wav",
+  "speaker": "Jérémy-Günther-Heinz Jähnick"
+ },
+ "Le service est compris": null,
+ "On partage": null,
+ "C’est moi qui invite": null,
+ "Un café, s’il vous plaît": null,
+ "Pour aller à, s’il vous plaît": null,
+ "C’est loin d’ici": null,
+ "C’est à combien de minutes": null,
+ "C’est à minutes à pied": null,
+ "Allez tout droit": null,
+ "Tournez à droite gauche": null,
+ "Prenez la première rue à droite": null,
+ "Traversez": null,
+ "Continuez jusqu’à": null,
+ "C’est sur votre droite": null,
+ "Vous ne pouvez pas le rater": null,
+ "Je suis perdu": null,
+ "Il faut prendre le bus numéro": null,
+ "Je ne suis pas d’ici": null,
+ "Je voudrais réserver": null,
+ "Vous avez une chambre libre": null,
+ "C’est complet": null,
+ "pour deux personnes": null,
+ "du au": null,
+ "Le petit-déjeuner est compris": null,
+ "C’est combien la nuit": null,
+ "Il y a le wifi": null,
+ "J’ai une réservation au nom de": null,
+ "Je voudrais annuler ma réservation": null,
+ "Je voudrais confirmer": null,
+ "La douche ne marche pas": null,
+ "avec vue sur la mer": null,
+ "Je voudrais prendre rendez-vous": null,
+ "Qu’est-ce qui ne va pas": null,
+ "Ça fait mal ici": null,
+ "Depuis quand": null,
+ "Depuis jours": null,
+ "Je ne me sens pas bien": null,
+ "J’ai de la fièvre": null,
+ "Je suis enrhumé": null,
+ "Je prends des médicaments": null,
+ "Il faut vous reposer": null,
+ "Prenez ce médicament fois par jour": null,
+ "Appelez le 15! 112": null,
+ "Au secours": {
+  "file": "au-secours.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-au_secours.wav",
+  "speaker": "LoquaxFR"
+ },
+ "D’abord": {
+  "file": "dabord.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Sartus85-d’abord.wav",
+  "speaker": "Sartus85"
+ },
+ "Ensuite": {
+  "file": "ensuite.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-ensuite.wav",
+  "speaker": "Lepticed7"
+ },
+ "Puis": {
+  "file": "puis.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-puis.wav",
+  "speaker": "Lepticed7"
+ },
+ "Enfin": {
+  "file": "enfin.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-enfin.wav",
+  "speaker": "Lepticed7"
+ },
+ "Le week-end dernier": null,
+ "Il y a deux ans": null,
+ "Un jour": {
+  "file": "un-jour.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-un_jour.wav",
+  "speaker": "Lepticed7"
+ },
+ "Tout à coup": {
+  "file": "tout-a-coup.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-GrandCelinien-tout_à_coup.wav",
+  "speaker": "GrandCelinien"
+ },
+ "Quand j’étais petit": null,
+ "Avant, je": null,
+ "Pendant les vacances": null,
+ "C’était": {
+  "file": "cetait.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Jérémy-Günther-Heinz_Jähnick-c’était.wav",
+  "speaker": "Jérémy-Günther-Heinz Jähnick"
+ },
+ "Il faisait beau": null,
+ "Il y avait": {
+  "file": "il-y-avait.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Jérémy-Günther-Heinz_Jähnick-il_y_avait.wav",
+  "speaker": "Jérémy-Günther-Heinz Jähnick"
+ },
+ "Je suis allé": null,
+ "J’ai passé un très bon séjour": null,
+ "On s’est bien amusés": null,
+ "Ça s’est bien passé": null,
+ "Je vais": null,
+ "J’ai l’intention de": null,
+ "J’ai envie de": null,
+ "Je compte": null,
+ "J’espère": null,
+ "Mon projet, c’est de": null,
+ "L’année prochaine": null,
+ "Dans ans": null,
+ "Je suis sur le point de": null,
+ "Si j’ai le temps": null,
+ "S’il fait beau": null,
+ "Tu devrais": null,
+ "Vous devriez": null,
+ "Je te conseille de": null,
+ "À ta place, je": null,
+ "Il vaut mieux": {
+  "file": "il-vaut-mieux.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-il_vaut_mieux.wav",
+  "speaker": "WikiLucas00"
+ },
+ "N’oublie pas de": null,
+ "Fais attention": null,
+ "Pourquoi tu ne pas": null,
+ "Je ne suis pas satisfait": null,
+ "Il y a un problème avec": null,
+ "Ce n’est pas normal": null,
+ "Je voudrais être remboursé": null,
+ "Je voudrais parler au responsable": null,
+ "Ça ne marche pas": null,
+ "et": {
+  "file": "et.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-et.wav",
+  "speaker": "Lepticed7"
+ },
+ "alors": {
+  "file": "alors.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-alors.wav",
+  "speaker": "Lepticed7"
+ },
+ "car": {
+  "file": "car.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-car.wav",
+  "speaker": "LoquaxFR"
+ },
+ "comme": {
+  "file": "comme.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-comme.wav",
+  "speaker": "Lepticed7"
+ },
+ "pourtant": {
+  "file": "pourtant.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-pourtant.wav",
+  "speaker": "WikiLucas00"
+ },
+ "cependant": {
+  "file": "cependant.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-cependant.wav",
+  "speaker": "Lepticed7"
+ },
+ "par contre": {
+  "file": "par-contre.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-DenisdeShawi-par_contre.wav",
+  "speaker": "DenisdeShawi"
+ },
+ "en plus": null,
+ "par exemple": {
+  "file": "par-exemple.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Pamputt-par_exemple.wav",
+  "speaker": "Pamputt"
+ },
+ "pendant que": {
+  "file": "pendant-que.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lyokoï-pendant_que.wav",
+  "speaker": "Lyokoï"
+ },
+ "avant de": {
+  "file": "avant-de.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:Fr-avant_de.ogg",
+  "speaker": "Wiktionary"
+ },
+ "si": {
+  "file": "si.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-si.wav",
+  "speaker": "Lepticed7"
+ },
+ "sinon": {
+  "file": "sinon.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Sartus85-sinon.wav",
+  "speaker": "Sartus85"
+ },
+ "pour": {
+  "file": "pour.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-pour.wav",
+  "speaker": "WikiLucas00"
+ },
+ "c’est pourquoi": {
+  "file": "cest-pourquoi.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:Fr-c’est_pourquoi.ogg",
+  "speaker": "Wiktionary"
+ },
+ "avoir besoin de": {
+  "file": "avoir-besoin-de.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-avoir_besoin_de.wav",
+  "speaker": "LoquaxFR"
+ },
+ "avoir envie de": {
+  "file": "avoir-envie-de.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-avoir_envie.wav",
+  "speaker": "LoquaxFR"
+ },
+ "avoir l’habitude de": {
+  "file": "avoir-lhabitude-de.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-avoir_l’habitude.wav",
+  "speaker": "LoquaxFR"
+ },
+ "avoir le temps de": null,
+ "avoir de la chance": {
+  "file": "avoir-de-la-chance.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-avoir_de_la_chance.wav",
+  "speaker": "LoquaxFR"
+ },
+ "être en train de": {
+  "file": "etre-en-train-de.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-être_en_train_de.wav",
+  "speaker": "LoquaxFR"
+ },
+ "venir de": {
+  "file": "venir-de.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-venir_de.wav",
+  "speaker": "WikiLucas00"
+ },
+ "faire la queue": {
+  "file": "faire-la-queue.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-faire_la_queue.wav",
+  "speaker": "LoquaxFR"
+ },
+ "faire attention": {
+  "file": "faire-attention.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-faire_attention.wav",
+  "speaker": "LoquaxFR"
+ },
+ "faire une promenade": null,
+ "faire la grasse matinée": {
+  "file": "faire-la-grasse-matinee.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-faire_la_grasse_matinée.wav",
+  "speaker": "Lepticed7"
+ },
+ "Ça ne fait rien": {
+  "file": "ca-ne-fait-rien.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-ça_ne_fait_rien.wav",
+  "speaker": "LoquaxFR"
+ },
+ "Pas de souci": {
+  "file": "pas-de-souci.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-pas_de_souci.wav",
+  "speaker": "LoquaxFR"
+ },
+ "C’est pas grave": null,
+ "N’importe quoi": null,
+ "Ça y est": {
+  "file": "ca-y-est.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-ça_y_est.wav",
+  "speaker": "Lepticed7"
+ },
+ "Tu plaisantes": null,
+ "Ça vaut le coup": null,
+ "J’en ai besoin": null,
+ "J’y vais": null,
+ "On y va": null,
+ "Vas-y": {
+  "file": "vas-y.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Jérémy-Günther-Heinz_Jähnick-vas-y.wav",
+  "speaker": "Jérémy-Günther-Heinz Jähnick-vas"
+ },
+ "Ça suffit": {
+  "file": "ca-suffit.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-ça_suffit.wav",
+  "speaker": "LoquaxFR"
+ },
+ "Ça se voit": null,
+ "Quelle heure est-il": null,
+ "Lisez le document": null,
+ "Écoutez le document": null,
+ "Répondez aux questions": null,
+ "Cochez la bonne réponse": null,
+ "Vrai ou faux": null,
+ "Justifiez votre réponse": null,
+ "Recopiez": null,
+ "Écrivez": {
+  "file": "ecrivez.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Pamputt-écrivez.wav",
+  "speaker": "Pamputt"
+ },
+ "Rédigez": null,
+ "60 mots minimum": null,
+ "Associez": null,
+ "Complétez": {
+  "file": "completez.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Manestra-complétez.wav",
+  "speaker": "Manestra"
+ },
+ "Indiquez": {
+  "file": "indiquez.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lyokoï-indiquez.wav",
+  "speaker": "Lyokoï"
+ },
+ "Racontez": {
+  "file": "racontez.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-racontez.wav",
+  "speaker": "WikiLucas00"
+ },
+ "Décrivez": {
+  "file": "decrivez.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-DenisdeShawi-décrivez.wav",
+  "speaker": "DenisdeShawi"
+ },
+ "Vous acceptez l’invitation": null,
+ "Vous donnez des détails": null,
+ "Vous exprimez vos sentiments": null,
+ "Jouez la scène": null,
+ "l’examinateur": null,
+ "le monologue suivi": null,
+ "l’exercice en interaction": null,
+ "l’entretien dirigé": null,
+ "Présentez-vous": null,
+ "nom": {
+  "file": "nom.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-nom.wav",
+  "speaker": "Lepticed7"
+ },
+ "prénom": {
+  "file": "prenom.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-prénom.wav",
+  "speaker": "LoquaxFR"
+ },
+ "âge": {
+  "file": "age.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-âge.wav",
+  "speaker": "Lepticed7"
+ },
+ "date de naissance": {
+  "file": "date-de-naissance.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-date_de_naissance.wav",
+  "speaker": "Lepticed7"
+ },
+ "né": {
+  "file": "ne.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-né.wav",
+  "speaker": "LoquaxFR"
+ },
+ "née": {
+  "file": "nee.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-née.wav",
+  "speaker": "Lepticed7"
+ },
+ "nationalité": {
+  "file": "nationalite.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Eihel-nationalité.wav",
+  "speaker": "Eihel"
+ },
+ "anglais": {
+  "file": "anglais.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-anglais.wav",
+  "speaker": "Poslovitch"
+ },
+ "anglaise": {
+  "file": "anglaise.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-anglaise.wav",
+  "speaker": "Poslovitch"
+ },
+ "français": {
+  "file": "francais.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-français.wav",
+  "speaker": "Lepticed7"
+ },
+ "française": {
+  "file": "francaise.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-française.wav",
+  "speaker": "Poslovitch"
+ },
+ "adresse": {
+  "file": "adresse.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-adresse.wav",
+  "speaker": "Lepticed7"
+ },
+ "numéro de téléphone": {
+  "file": "numero-de-telephone.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Damian_B._(BiblioCanet66)-numéro_de_téléphone.wav",
+  "speaker": "Damian B. (BiblioCanet66)"
+ },
+ "adresse e-mail": {
+  "file": "adresse-e-mail.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-adresse_e-mail.wav",
+  "speaker": "LoquaxFR-adresse e"
+ },
+ "métier": {
+  "file": "metier.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-métier.wav",
+  "speaker": "LoquaxFR"
+ },
+ "profession": {
+  "file": "profession.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-profession.wav",
+  "speaker": "Poslovitch"
+ },
+ "célibataire": {
+  "file": "celibataire.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-célibataire.wav",
+  "speaker": "LoquaxFR"
+ },
+ "marié": {
+  "file": "marie.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-marié.wav",
+  "speaker": "WikiLucas00"
+ },
+ "mariée": {
+  "file": "mariee.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-mariée.wav",
+  "speaker": "Poslovitch"
+ },
+ "divorcé": {
+  "file": "divorce.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-divorcé.wav",
+  "speaker": "Lepticed7"
+ },
+ "divorcée": {
+  "file": "divorcee.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-divorcée.wav",
+  "speaker": "Poslovitch"
+ },
+ "s’appeler": {
+  "file": "sappeler.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-s'appeler.wav",
+  "speaker": "WikiLucas00"
+ },
+ "vivre": {
+  "file": "vivre.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-vivre.wav",
+  "speaker": "Lepticed7"
+ },
+ "langue": {
+  "file": "langue.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-langue.wav",
+  "speaker": "Lepticed7"
+ },
+ "ville natale": null,
+ "formulaire": {
+  "file": "formulaire.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-formulaire.wav",
+  "speaker": "Poslovitch"
+ },
+ "signature": {
+  "file": "signature.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-signature.wav",
+  "speaker": "Lepticed7"
+ },
+ "carte d’identité": {
+  "file": "carte-didentite.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-carte_d'identité.wav",
+  "speaker": "Lepticed7"
+ },
+ "passeport": {
+  "file": "passeport.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-passeport.wav",
+  "speaker": "Lepticed7"
+ },
+ "parents": {
+  "file": "parents.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:Fr-parents.ogg",
+  "speaker": "Wiktionary"
+ },
+ "père": {
+  "file": "pere.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-père.wav",
+  "speaker": "Lepticed7"
+ },
+ "mère": {
+  "file": "mere.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-mère.wav",
+  "speaker": "Lepticed7"
+ },
+ "mari": {
+  "file": "mari.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-mari.wav",
+  "speaker": "Lepticed7"
+ },
+ "femme": {
+  "file": "femme.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-femme.wav",
+  "speaker": "Lepticed7"
+ },
+ "fils": {
+  "file": "fils.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-fils.wav",
+  "speaker": "Lepticed7"
+ },
+ "fille": {
+  "file": "fille.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-fille.wav",
+  "speaker": "Lepticed7"
+ },
+ "frère": {
+  "file": "frere.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-frère.wav",
+  "speaker": "Lepticed7"
+ },
+ "sœur": {
+  "file": "soeur.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-sœur.wav",
+  "speaker": "Lepticed7"
+ },
+ "enfants": {
+  "file": "enfants.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Roptat-enfants.wav",
+  "speaker": "Roptat"
+ },
+ "grand-père": {
+  "file": "grand-pere.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-grand-père.wav",
+  "speaker": "Lepticed7-grand"
+ },
+ "grand-mère": {
+  "file": "grand-mere.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-grand-mère.wav",
+  "speaker": "Lepticed7-grand"
+ },
+ "grands-parents": {
+  "file": "grands-parents.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Pamputt-grands-parents.wav",
+  "speaker": "Pamputt-grands"
+ },
+ "petit-fils": {
+  "file": "petit-fils.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-petit-fils.wav",
+  "speaker": "Lepticed7-petit"
+ },
+ "petite-fille": {
+  "file": "petite-fille.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-petite-fille.wav",
+  "speaker": "Lepticed7-petite"
+ },
+ "oncle": {
+  "file": "oncle.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-oncle.wav",
+  "speaker": "Lepticed7"
+ },
+ "tante": {
+  "file": "tante.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-tante.wav",
+  "speaker": "Lepticed7"
+ },
+ "cousin": {
+  "file": "cousin.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-cousin.wav",
+  "speaker": "Lepticed7"
+ },
+ "cousine": {
+  "file": "cousine.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-cousine.wav",
+  "speaker": "Lepticed7"
+ },
+ "neveu": {
+  "file": "neveu.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-neveu.wav",
+  "speaker": "Lepticed7"
+ },
+ "nièce": {
+  "file": "niece.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-nièce.wav",
+  "speaker": "Lepticed7"
+ },
+ "bébé": {
+  "file": "bebe.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-bébé.wav",
+  "speaker": "LoquaxFR"
+ },
+ "copain": {
+  "file": "copain.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-copain.wav",
+  "speaker": "LoquaxFR"
+ },
+ "copine": {
+  "file": "copine.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Pamputt-copine.wav",
+  "speaker": "Pamputt"
+ },
+ "voisin": {
+  "file": "voisin.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-voisin.wav",
+  "speaker": "LoquaxFR"
+ },
+ "voisine": {
+  "file": "voisine.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-0x010C-voisine.wav",
+  "speaker": "0x010C"
+ },
+ "couple": {
+  "file": "couple.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-couple.wav",
+  "speaker": "LoquaxFR"
+ },
+ "se marier": {
+  "file": "se-marier.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-se_marier.wav",
+  "speaker": "Poslovitch"
+ },
+ "s’entendre bien": null,
+ "aîné": {
+  "file": "aine.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-aîné.wav",
+  "speaker": "LoquaxFR"
+ },
+ "aînée": {
+  "file": "ainee.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-aînée.wav",
+  "speaker": "WikiLucas00"
+ },
+ "cadet": {
+  "file": "cadet.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-cadet.wav",
+  "speaker": "Lepticed7"
+ },
+ "cadette": {
+  "file": "cadette.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-cadette.wav",
+  "speaker": "LoquaxFR"
+ },
+ "fils unique": {
+  "file": "fils-unique.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-fils_unique.wav",
+  "speaker": "WikiLucas00"
+ },
+ "mince": {
+  "file": "mince.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-mince.wav",
+  "speaker": "Lepticed7"
+ },
+ "gros": {
+  "file": "gros.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-gros.wav",
+  "speaker": "Lepticed7"
+ },
+ "grosse": {
+  "file": "grosse.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-grosse.wav",
+  "speaker": "LoquaxFR"
+ },
+ "âgé": {
+  "file": "age.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-âgé.wav",
+  "speaker": "LoquaxFR"
+ },
+ "âgée": {
+  "file": "agee.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lyokoï-âgée.wav",
+  "speaker": "Lyokoï"
+ },
+ "joli": {
+  "file": "joli.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-joli.wav",
+  "speaker": "LoquaxFR"
+ },
+ "jolie": {
+  "file": "jolie.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Le_Commissaire-jolie.wav",
+  "speaker": "Le Commissaire"
+ },
+ "cheveux": {
+  "file": "cheveux.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-cheveux.wav",
+  "speaker": "Lepticed7"
+ },
+ "blond": {
+  "file": "blond.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-blond.wav",
+  "speaker": "Lepticed7"
+ },
+ "blonde": {
+  "file": "blonde.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-blonde.wav",
+  "speaker": "LoquaxFR"
+ },
+ "brun": {
+  "file": "brun.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-brun.wav",
+  "speaker": "Lepticed7"
+ },
+ "brune": {
+  "file": "brune.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-brune.wav",
+  "speaker": "LoquaxFR"
+ },
+ "roux": {
+  "file": "roux.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-roux.wav",
+  "speaker": "LoquaxFR"
+ },
+ "rousse": {
+  "file": "rousse.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-rousse.wav",
+  "speaker": "Poslovitch"
+ },
+ "yeux": {
+  "file": "yeux.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-yeux.wav",
+  "speaker": "LoquaxFR"
+ },
+ "barbe": {
+  "file": "barbe.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-barbe.wav",
+  "speaker": "LoquaxFR"
+ },
+ "lunettes": {
+  "file": "lunettes.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-lunettes.wav",
+  "speaker": "Lepticed7"
+ },
+ "gentil": {
+  "file": "gentil.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-gentil.wav",
+  "speaker": "LoquaxFR"
+ },
+ "gentille": {
+  "file": "gentille.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Julien_Baley-gentille.wav",
+  "speaker": "Julien Baley"
+ },
+ "sympa": {
+  "file": "sympa.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:Fr-sympa.ogg",
+  "speaker": "Wiktionary"
+ },
+ "drôle": {
+  "file": "drole.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-drôle.wav",
+  "speaker": "LoquaxFR"
+ },
+ "timide": {
+  "file": "timide.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Sartus85-timide.wav",
+  "speaker": "Sartus85"
+ },
+ "sérieux": {
+  "file": "serieux.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-sérieux.wav",
+  "speaker": "LoquaxFR"
+ },
+ "sérieuse": {
+  "file": "serieuse.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lyokoï-sérieuse.wav",
+  "speaker": "Lyokoï"
+ },
+ "patient": {
+  "file": "patient.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-patient.wav",
+  "speaker": "LoquaxFR"
+ },
+ "patiente": {
+  "file": "patiente.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-patiente.wav",
+  "speaker": "Lepticed7"
+ },
+ "calme": {
+  "file": "calme.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-calme.wav",
+  "speaker": "LoquaxFR"
+ },
+ "intelligent": {
+  "file": "intelligent.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-intelligent.wav",
+  "speaker": "Poslovitch"
+ },
+ "intelligente": {
+  "file": "intelligente.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-O2-intelligente.wav",
+  "speaker": "O2"
+ },
+ "paresseux": {
+  "file": "paresseux.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-paresseux.wav",
+  "speaker": "Poslovitch"
+ },
+ "paresseuse": {
+  "file": "paresseuse.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-paresseuse.wav",
+  "speaker": "WikiLucas00"
+ },
+ "généreux": {
+  "file": "genereux.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-généreux.wav",
+  "speaker": "LoquaxFR"
+ },
+ "généreuse": {
+  "file": "genereuse.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-généreuse.wav",
+  "speaker": "WikiLucas00"
+ },
+ "sportif": {
+  "file": "sportif.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-sportif.wav",
+  "speaker": "Poslovitch"
+ },
+ "sportive": {
+  "file": "sportive.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-sportive.wav",
+  "speaker": "Poslovitch"
+ },
+ "bavard": {
+  "file": "bavard.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-bavard.wav",
+  "speaker": "LoquaxFR"
+ },
+ "bavarde": {
+  "file": "bavarde.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-bavarde.wav",
+  "speaker": "Lepticed7"
+ },
+ "méchant": {
+  "file": "mechant.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-méchant.wav",
+  "speaker": "LoquaxFR"
+ },
+ "méchante": {
+  "file": "mechante.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-DenisdeShawi-méchante.wav",
+  "speaker": "DenisdeShawi"
+ },
+ "ressembler à": null,
+ "avoir l’air": {
+  "file": "avoir-lair.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-avoir_l’air.wav",
+  "speaker": "LoquaxFR"
+ },
+ "caractère": {
+  "file": "caractere.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-caractère.wav",
+  "speaker": "Lepticed7"
+ },
+ "appartement": {
+  "file": "appartement.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-appartement.wav",
+  "speaker": "Lepticed7"
+ },
+ "immeuble": {
+  "file": "immeuble.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-immeuble.wav",
+  "speaker": "LoquaxFR"
+ },
+ "étage": {
+  "file": "etage.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-étage.wav",
+  "speaker": "LoquaxFR"
+ },
+ "rez-de-chaussée": {
+  "file": "rez-de-chaussee.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-rez-de-chaussée.wav",
+  "speaker": "WikiLucas00-rez-de"
+ },
+ "ascenseur": {
+  "file": "ascenseur.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-ascenseur.wav",
+  "speaker": "Lepticed7"
+ },
+ "escalier": {
+  "file": "escalier.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-escalier.wav",
+  "speaker": "LoquaxFR"
+ },
+ "pièce": {
+  "file": "piece.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-pièce.wav",
+  "speaker": "Lepticed7"
+ },
+ "cuisine": {
+  "file": "cuisine.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-cuisine.wav",
+  "speaker": "Lepticed7"
+ },
+ "salon": {
+  "file": "salon.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-salon.wav",
+  "speaker": "Poslovitch"
+ },
+ "salle à manger": {
+  "file": "salle-a-manger.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Jérémy-Günther-Heinz_Jähnick-salle_à_manger.wav",
+  "speaker": "Jérémy-Günther-Heinz Jähnick"
+ },
+ "salle de bains": {
+  "file": "salle-de-bains.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Fabricio_Cardenas_(Culex)-salle_de_bains.wav",
+  "speaker": "Fabricio Cardenas (Culex)"
+ },
+ "toilettes": {
+  "file": "toilettes.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Eihel-toilettes.wav",
+  "speaker": "Eihel"
+ },
+ "jardin": {
+  "file": "jardin.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-jardin.wav",
+  "speaker": "LoquaxFR"
+ },
+ "balcon": {
+  "file": "balcon.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-balcon.wav",
+  "speaker": "LoquaxFR"
+ },
+ "garage": {
+  "file": "garage.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-garage.wav",
+  "speaker": "Lepticed7"
+ },
+ "porte": {
+  "file": "porte.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-porte.wav",
+  "speaker": "LoquaxFR"
+ },
+ "fenêtre": {
+  "file": "fenetre.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-fenêtre.wav",
+  "speaker": "LoquaxFR"
+ },
+ "mur": {
+  "file": "mur.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-mur.wav",
+  "speaker": "Lepticed7"
+ },
+ "meuble": {
+  "file": "meuble.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-meuble.wav",
+  "speaker": "LoquaxFR"
+ },
+ "table": {
+  "file": "table.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-table.wav",
+  "speaker": "Lepticed7"
+ },
+ "chaise": {
+  "file": "chaise.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-chaise.wav",
+  "speaker": "Lepticed7"
+ },
+ "canapé": {
+  "file": "canape.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-canapé.wav",
+  "speaker": "Lepticed7"
+ },
+ "lit": {
+  "file": "lit.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-lit.wav",
+  "speaker": "Lepticed7"
+ },
+ "armoire": {
+  "file": "armoire.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-armoire.wav",
+  "speaker": "Lepticed7"
+ },
+ "frigo": {
+  "file": "frigo.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Damian_B._(BiblioCanet66)-frigo.wav",
+  "speaker": "Damian B. (BiblioCanet66)"
+ },
+ "clé": {
+  "file": "cle.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-clé.wav",
+  "speaker": "Lepticed7"
+ },
+ "loyer": {
+  "file": "loyer.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-loyer.wav",
+  "speaker": "Lepticed7"
+ },
+ "louer": {
+  "file": "louer.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-louer.wav",
+  "speaker": "Poslovitch"
+ },
+ "déménager": {
+  "file": "demenager.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-déménager.wav",
+  "speaker": "LoquaxFR"
+ },
+ "quartier": {
+  "file": "quartier.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-quartier.wav",
+  "speaker": "LoquaxFR"
+ },
+ "bruyant": {
+  "file": "bruyant.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:Fr-bruyant.ogg",
+  "speaker": "Wiktionary"
+ },
+ "bruyante": {
+  "file": "bruyante.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lyokoï-bruyante.wav",
+  "speaker": "Lyokoï"
+ },
+ "lumineux": {
+  "file": "lumineux.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-lumineux.wav",
+  "speaker": "Poslovitch"
+ },
+ "lumineuse": {
+  "file": "lumineuse.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-lumineuse.wav",
+  "speaker": "Poslovitch"
+ },
+ "meublé": {
+  "file": "meuble.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-meublé.wav",
+  "speaker": "LoquaxFR"
+ },
+ "meublée": null,
+ "se réveiller": {
+  "file": "se-reveiller.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-se_réveiller.wav",
+  "speaker": "Poslovitch"
+ },
+ "se lever": {
+  "file": "se-lever.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-se_lever.wav",
+  "speaker": "Lepticed7"
+ },
+ "se laver": {
+  "file": "se-laver.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Julien_Baley-se_laver.wav",
+  "speaker": "Julien Baley"
+ },
+ "se doucher": {
+  "file": "se-doucher.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Jérémy-Günther-Heinz_Jähnick-se_doucher.wav",
+  "speaker": "Jérémy-Günther-Heinz Jähnick"
+ },
+ "s’habiller": {
+  "file": "shabiller.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-s’habiller.wav",
+  "speaker": "Poslovitch"
+ },
+ "se brosser les dents": null,
+ "prendre le petit-déjeuner": null,
+ "rentrer": {
+  "file": "rentrer.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-rentrer.wav",
+  "speaker": "Lepticed7"
+ },
+ "déjeuner": {
+  "file": "dejeuner.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-déjeuner.wav",
+  "speaker": "Lepticed7"
+ },
+ "dîner": {
+  "file": "diner.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-dîner.wav",
+  "speaker": "LoquaxFR"
+ },
+ "faire la cuisine": {
+  "file": "faire-la-cuisine.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-faire_la_cuisine.wav",
+  "speaker": "WikiLucas00"
+ },
+ "faire le ménage": {
+  "file": "faire-le-menage.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-faire_le_ménage.wav",
+  "speaker": "WikiLucas00"
+ },
+ "faire la vaisselle": {
+  "file": "faire-la-vaisselle.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-faire_la_vaisselle.wav",
+  "speaker": "LoquaxFR"
+ },
+ "faire les courses": {
+  "file": "faire-les-courses.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-faire_les_courses.wav",
+  "speaker": "WikiLucas00"
+ },
+ "faire la lessive": {
+  "file": "faire-la-lessive.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-faire_la_lessive.wav",
+  "speaker": "LoquaxFR"
+ },
+ "se reposer": {
+  "file": "se-reposer.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lyokoï-se_reposer.wav",
+  "speaker": "Lyokoï"
+ },
+ "se coucher": {
+  "file": "se-coucher.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-se_coucher.wav",
+  "speaker": "Lepticed7"
+ },
+ "s’endormir": {
+  "file": "sendormir.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-s'endormir.wav",
+  "speaker": "Lepticed7"
+ },
+ "dormir": {
+  "file": "dormir.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-dormir.wav",
+  "speaker": "Lepticed7"
+ },
+ "se dépêcher": {
+  "file": "se-depecher.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lyokoï-se_dépêcher.wav",
+  "speaker": "Lyokoï"
+ },
+ "d’habitude": {
+  "file": "dhabitude.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-d’habitude.wav",
+  "speaker": "LoquaxFR"
+ },
+ "matin": {
+  "file": "matin.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-matin.wav",
+  "speaker": "Lepticed7"
+ },
+ "après-midi": {
+  "file": "apres-midi.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-après-midi.wav",
+  "speaker": "Lepticed7-après"
+ },
+ "soir": {
+  "file": "soir.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-soir.wav",
+  "speaker": "Lepticed7"
+ },
+ "nuit": {
+  "file": "nuit.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-nuit.wav",
+  "speaker": "Lepticed7"
+ },
+ "tôt": {
+  "file": "tot.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-tôt.wav",
+  "speaker": "LoquaxFR"
+ },
+ "tard": {
+  "file": "tard.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-tard.wav",
+  "speaker": "LoquaxFR"
+ },
+ "en retard": {
+  "file": "en-retard.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-en_retard_(loc.).wav",
+  "speaker": "Poslovitch"
+ },
+ "à l’heure": {
+  "file": "a-lheure.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-à_l’heure.wav",
+  "speaker": "LoquaxFR"
+ },
+ "week-end": {
+  "file": "week-end.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-week-end.wav",
+  "speaker": "Poslovitch-week"
+ },
+ "baguette": {
+  "file": "baguette.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-baguette.wav",
+  "speaker": "Lepticed7"
+ },
+ "croissant": {
+  "file": "croissant.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-croissant.wav",
+  "speaker": "Lepticed7"
+ },
+ "beurre": {
+  "file": "beurre.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-beurre.wav",
+  "speaker": "Lepticed7"
+ },
+ "confiture": {
+  "file": "confiture.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-confiture.wav",
+  "speaker": "Lepticed7"
+ },
+ "fromage": {
+  "file": "fromage.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-fromage.wav",
+  "speaker": "LoquaxFR"
+ },
+ "œuf": {
+  "file": "oeuf.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-œuf.wav",
+  "speaker": "Lepticed7"
+ },
+ "lait": {
+  "file": "lait.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-lait.wav",
+  "speaker": "Lepticed7"
+ },
+ "yaourt": {
+  "file": "yaourt.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-yaourt.wav",
+  "speaker": "LoquaxFR"
+ },
+ "viande": {
+  "file": "viande.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-viande.wav",
+  "speaker": "Lepticed7"
+ },
+ "poulet": {
+  "file": "poulet.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-poulet.wav",
+  "speaker": "Lepticed7"
+ },
+ "bœuf": {
+  "file": "boeuf.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-bœuf.wav",
+  "speaker": "Lepticed7"
+ },
+ "porc": {
+  "file": "porc.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-porc.wav",
+  "speaker": "Lepticed7"
+ },
+ "jambon": {
+  "file": "jambon.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-jambon.wav",
+  "speaker": "Lepticed7"
+ },
+ "poisson": {
+  "file": "poisson.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-poisson.wav",
+  "speaker": "Lepticed7"
+ },
+ "légumes": {
+  "file": "legumes.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Justforoc-légumes.wav",
+  "speaker": "Justforoc"
+ },
+ "pomme de terre": {
+  "file": "pomme-de-terre.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-pomme_de_terre.wav",
+  "speaker": "LoquaxFR"
+ },
+ "carotte": {
+  "file": "carotte.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-carotte.wav",
+  "speaker": "Lepticed7"
+ },
+ "tomate": {
+  "file": "tomate.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-tomate.wav",
+  "speaker": "WikiLucas00"
+ },
+ "salade": {
+  "file": "salade.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-salade.wav",
+  "speaker": "LoquaxFR"
+ },
+ "fruits": {
+  "file": "fruits.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Justforoc-fruits.wav",
+  "speaker": "Justforoc"
+ },
+ "pomme": {
+  "file": "pomme.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-pomme.wav",
+  "speaker": "Lepticed7"
+ },
+ "banane": {
+  "file": "banane.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-banane.wav",
+  "speaker": "LoquaxFR"
+ },
+ "orange": {
+  "file": "orange.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-orange.wav",
+  "speaker": "Lepticed7"
+ },
+ "fraise": {
+  "file": "fraise.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-fraise.wav",
+  "speaker": "LoquaxFR"
+ },
+ "riz": {
+  "file": "riz.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-riz.wav",
+  "speaker": "Lepticed7"
+ },
+ "pâtes": {
+  "file": "pates.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Roptat-pâtes.wav",
+  "speaker": "Roptat"
+ },
+ "sucre": {
+  "file": "sucre.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-sucre.wav",
+  "speaker": "LoquaxFR"
+ },
+ "sel": {
+  "file": "sel.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-sel.wav",
+  "speaker": "Lepticed7"
+ },
+ "gâteau": {
+  "file": "gateau.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-gâteau.wav",
+  "speaker": "LoquaxFR"
+ },
+ "chocolat": {
+  "file": "chocolat.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-chocolat.wav",
+  "speaker": "Lepticed7"
+ },
+ "café": {
+  "file": "cafe.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-café.wav",
+  "speaker": "Lepticed7"
+ },
+ "thé": {
+  "file": "the.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-thé.wav",
+  "speaker": "WikiLucas00"
+ },
+ "jus": {
+  "file": "jus.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-jus.wav",
+  "speaker": "LoquaxFR"
+ },
+ "vin": {
+  "file": "vin.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-vin.wav",
+  "speaker": "LoquaxFR"
+ },
+ "bière": {
+  "file": "biere.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-bière.wav",
+  "speaker": "Lepticed7"
+ },
+ "petit-déjeuner": {
+  "file": "petit-dejeuner.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-petit-déjeuner.wav",
+  "speaker": "WikiLucas00-petit"
+ },
+ "délicieux": {
+  "file": "delicieux.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-délicieux.wav",
+  "speaker": "LoquaxFR"
+ },
+ "délicieuse": {
+  "file": "delicieuse.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-délicieuse.wav",
+  "speaker": "WikiLucas00"
+ },
+ "avoir faim": {
+  "file": "avoir-faim.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-avoir_faim.wav",
+  "speaker": "LoquaxFR"
+ },
+ "avoir soif": {
+  "file": "avoir-soif.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-avoir_soif.wav",
+  "speaker": "LoquaxFR"
+ },
+ "végétarien": {
+  "file": "vegetarien.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-végétarien.wav",
+  "speaker": "Poslovitch"
+ },
+ "végétarienne": {
+  "file": "vegetarienne.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Kitel_WP-végétarienne.wav",
+  "speaker": "Kitel WP"
+ },
+ "restaurant": {
+  "file": "restaurant.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-restaurant.wav",
+  "speaker": "LoquaxFR"
+ },
+ "serveur": {
+  "file": "serveur.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-serveur.wav",
+  "speaker": "Lepticed7"
+ },
+ "serveuse": {
+  "file": "serveuse.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-serveuse.wav",
+  "speaker": "WikiLucas00"
+ },
+ "carte": {
+  "file": "carte.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-carte.wav",
+  "speaker": "Lepticed7"
+ },
+ "menu": {
+  "file": "menu.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-menu.wav",
+  "speaker": "Lepticed7"
+ },
+ "entrée": {
+  "file": "entree.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-entrée.wav",
+  "speaker": "LoquaxFR"
+ },
+ "plat principal": {
+  "file": "plat-principal.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-plat_principal.wav",
+  "speaker": "Poslovitch"
+ },
+ "plat du jour": {
+  "file": "plat-du-jour.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-plat_du_jour.wav",
+  "speaker": "Poslovitch"
+ },
+ "dessert": {
+  "file": "dessert.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-dessert.wav",
+  "speaker": "Lepticed7"
+ },
+ "boisson": {
+  "file": "boisson.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-boisson.wav",
+  "speaker": "LoquaxFR"
+ },
+ "commander": {
+  "file": "commander.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-commander.wav",
+  "speaker": "LoquaxFR"
+ },
+ "réserver": {
+  "file": "reserver.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-réserver.wav",
+  "speaker": "Lepticed7"
+ },
+ "addition": {
+  "file": "addition.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-addition.wav",
+  "speaker": "Lepticed7"
+ },
+ "pourboire": {
+  "file": "pourboire.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-pourboire.wav",
+  "speaker": "Lepticed7"
+ },
+ "assiette": {
+  "file": "assiette.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-assiette.wav",
+  "speaker": "Lepticed7"
+ },
+ "verre": {
+  "file": "verre.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-verre.wav",
+  "speaker": "LoquaxFR"
+ },
+ "bouteille": {
+  "file": "bouteille.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-bouteille.wav",
+  "speaker": "LoquaxFR"
+ },
+ "fourchette": {
+  "file": "fourchette.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-fourchette.wav",
+  "speaker": "Lepticed7"
+ },
+ "couteau": {
+  "file": "couteau.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-couteau.wav",
+  "speaker": "Lepticed7"
+ },
+ "cuillère": {
+  "file": "cuillere.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-cuillère.wav",
+  "speaker": "Lepticed7"
+ },
+ "serviette": {
+  "file": "serviette.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-serviette.wav",
+  "speaker": "LoquaxFR"
+ },
+ "saignant": {
+  "file": "saignant.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-saignant.wav",
+  "speaker": "LoquaxFR"
+ },
+ "à point": {
+  "file": "a-point.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-à_point.wav",
+  "speaker": "LoquaxFR"
+ },
+ "bien cuit": {
+  "file": "bien-cuit.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-bien_cuit.wav",
+  "speaker": "LoquaxFR"
+ },
+ "épicé": {
+  "file": "epice.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Pamputt-épicé.wav",
+  "speaker": "Pamputt"
+ },
+ "épicée": {
+  "file": "epicee.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:Fr-Paris--épicer.ogg",
+  "speaker": "Wiktionary"
+ },
+ "sucré": {
+  "file": "sucre.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-sucré.wav",
+  "speaker": "LoquaxFR"
+ },
+ "sucrée": null,
+ "salé": {
+  "file": "sale.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-salé.wav",
+  "speaker": "LoquaxFR"
+ },
+ "salée": {
+  "file": "salee.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-salée.wav",
+  "speaker": "WikiLucas00"
+ },
+ "chaud": {
+  "file": "chaud.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-chaud.wav",
+  "speaker": "Lepticed7"
+ },
+ "chaude": {
+  "file": "chaude.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Pamputt-chaude.wav",
+  "speaker": "Pamputt"
+ },
+ "froid": {
+  "file": "froid.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-froid.wav",
+  "speaker": "Lepticed7"
+ },
+ "froide": {
+  "file": "froide.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Roptat-froide.wav",
+  "speaker": "Roptat"
+ },
+ "terrasse": {
+  "file": "terrasse.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-terrasse.wav",
+  "speaker": "LoquaxFR"
+ },
+ "à emporter": null,
+ "sur place": null,
+ "supermarché": {
+  "file": "supermarche.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-supermarché.wav",
+  "speaker": "Lepticed7"
+ },
+ "boulangerie": {
+  "file": "boulangerie.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-boulangerie.wav",
+  "speaker": "Lepticed7"
+ },
+ "boucherie": {
+  "file": "boucherie.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-boucherie.wav",
+  "speaker": "Lepticed7"
+ },
+ "pharmacie": {
+  "file": "pharmacie.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-pharmacie.wav",
+  "speaker": "Lepticed7"
+ },
+ "marché": {
+  "file": "marche.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-marché.wav",
+  "speaker": "LoquaxFR"
+ },
+ "centre commercial": {
+  "file": "centre-commercial.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lyokoï-centre_commercial.wav",
+  "speaker": "Lyokoï"
+ },
+ "librairie": {
+  "file": "librairie.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-librairie.wav",
+  "speaker": "Lepticed7"
+ },
+ "client": {
+  "file": "client.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-client.wav",
+  "speaker": "Lepticed7"
+ },
+ "cliente": {
+  "file": "cliente.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Pamputt-cliente.wav",
+  "speaker": "Pamputt"
+ },
+ "vendeur": {
+  "file": "vendeur.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Eihel-vendeur.wav",
+  "speaker": "Eihel"
+ },
+ "vendeuse": {
+  "file": "vendeuse.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-vendeuse.wav",
+  "speaker": "WikiLucas00"
+ },
+ "prix": {
+  "file": "prix.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-prix.wav",
+  "speaker": "LoquaxFR"
+ },
+ "coûter": {
+  "file": "couter.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-coûter.wav",
+  "speaker": "LoquaxFR"
+ },
+ "bon marché": {
+  "file": "bon-marche.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-bon_marché.wav",
+  "speaker": "LoquaxFR"
+ },
+ "soldes": null,
+ "réduction": {
+  "file": "reduction.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-réduction.wav",
+  "speaker": "Lepticed7"
+ },
+ "payer": {
+  "file": "payer.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-payer.wav",
+  "speaker": "LoquaxFR"
+ },
+ "carte bancaire": {
+  "file": "carte-bancaire.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lyokoï-carte_bancaire.wav",
+  "speaker": "Lyokoï"
+ },
+ "en espèces": null,
+ "monnaie": {
+  "file": "monnaie.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-monnaie.wav",
+  "speaker": "LoquaxFR"
+ },
+ "ticket de caisse": {
+  "file": "ticket-de-caisse.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-ticket_de_caisse.wav",
+  "speaker": "Lepticed7"
+ },
+ "caisse": {
+  "file": "caisse.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-caisse.wav",
+  "speaker": "Lepticed7"
+ },
+ "sac": {
+  "file": "sac.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-sac.wav",
+  "speaker": "LoquaxFR"
+ },
+ "panier": {
+  "file": "panier.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-panier.wav",
+  "speaker": "LoquaxFR"
+ },
+ "kilo de": null,
+ "bouteille de": null,
+ "paquet de": null,
+ "boîte de": null,
+ "morceau de": null,
+ "tranche de": null,
+ "essayer": {
+  "file": "essayer.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-essayer.wav",
+  "speaker": "LoquaxFR"
+ },
+ "cabine d’essayage": {
+  "file": "cabine-dessayage.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-cabine_d'essayage.wav",
+  "speaker": "Poslovitch"
+ },
+ "taille": {
+  "file": "taille.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-taille.wav",
+  "speaker": "LoquaxFR"
+ },
+ "pointure": {
+  "file": "pointure.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:Fr-pointure.ogg",
+  "speaker": "Wiktionary"
+ },
+ "échanger": {
+  "file": "echanger.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-échanger.wav",
+  "speaker": "LoquaxFR"
+ },
+ "rembourser": {
+  "file": "rembourser.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-rembourser.wav",
+  "speaker": "Poslovitch"
+ },
+ "ouvert": {
+  "file": "ouvert.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-ouvert.wav",
+  "speaker": "Lepticed7"
+ },
+ "ouverte": {
+  "file": "ouverte.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-ouverte.wav",
+  "speaker": "Poslovitch"
+ },
+ "fermé": {
+  "file": "ferme.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-fermé.wav",
+  "speaker": "Lepticed7"
+ },
+ "fermée": {
+  "file": "fermee.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-fermée.wav",
+  "speaker": "Poslovitch"
+ },
+ "vêtements": {
+  "file": "vetements.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-0x010C-vêtements.wav",
+  "speaker": "0x010C"
+ },
+ "pantalon": {
+  "file": "pantalon.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-pantalon.wav",
+  "speaker": "Lepticed7"
+ },
+ "jean": {
+  "file": "jean.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-jean.wav",
+  "speaker": "LoquaxFR"
+ },
+ "jupe": {
+  "file": "jupe.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-jupe.wav",
+  "speaker": "LoquaxFR"
+ },
+ "robe": {
+  "file": "robe.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-robe.wav",
+  "speaker": "LoquaxFR"
+ },
+ "chemise": {
+  "file": "chemise.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-chemise.wav",
+  "speaker": "Lepticed7"
+ },
+ "tee-shirt": {
+  "file": "tee-shirt.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-VictorDtmtc-tee-shirt.wav",
+  "speaker": "VictorDtmtc-tee"
+ },
+ "pull": {
+  "file": "pull.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-pull.wav",
+  "speaker": "LoquaxFR"
+ },
+ "veste": {
+  "file": "veste.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-veste.wav",
+  "speaker": "Lepticed7"
+ },
+ "manteau": {
+  "file": "manteau.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Aemines1-manteau.wav",
+  "speaker": "Aemines1"
+ },
+ "costume": {
+  "file": "costume.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Eihel-costume.wav",
+  "speaker": "Eihel"
+ },
+ "chaussures": {
+  "file": "chaussures.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Le_Commissaire-chaussures.wav",
+  "speaker": "Le Commissaire"
+ },
+ "baskets": {
+  "file": "baskets.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-baskets.wav",
+  "speaker": "WikiLucas00"
+ },
+ "chaussettes": {
+  "file": "chaussettes.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lyokoï-chaussettes.wav",
+  "speaker": "Lyokoï"
+ },
+ "chapeau": {
+  "file": "chapeau.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-chapeau.wav",
+  "speaker": "Lepticed7"
+ },
+ "écharpe": {
+  "file": "echarpe.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-écharpe.wav",
+  "speaker": "LoquaxFR"
+ },
+ "gants": {
+  "file": "gants.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LightD31-gants.wav",
+  "speaker": "LightD31"
+ },
+ "sac à main": {
+  "file": "sac-a-main.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lyokoï-sac_à_main.wav",
+  "speaker": "Lyokoï"
+ },
+ "maillot de bain": {
+  "file": "maillot-de-bain.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-maillot_de_bain.wav",
+  "speaker": "Lepticed7"
+ },
+ "porter": {
+  "file": "porter.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-porter.wav",
+  "speaker": "LoquaxFR"
+ },
+ "confortable": {
+  "file": "confortable.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-confortable.wav",
+  "speaker": "LoquaxFR"
+ },
+ "large": {
+  "file": "large.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-large.wav",
+  "speaker": "Lepticed7"
+ },
+ "serré": {
+  "file": "serre.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-serré.wav",
+  "speaker": "LoquaxFR"
+ },
+ "serrée": {
+  "file": "serree.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-serrée.wav",
+  "speaker": "WikiLucas00"
+ },
+ "couleur": {
+  "file": "couleur.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-couleur.wav",
+  "speaker": "Lepticed7"
+ },
+ "blanc": {
+  "file": "blanc.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-blanc.wav",
+  "speaker": "Lepticed7"
+ },
+ "blanche": {
+  "file": "blanche.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-blanche.wav",
+  "speaker": "Lepticed7"
+ },
+ "noir": {
+  "file": "noir.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-noir.wav",
+  "speaker": "Lepticed7"
+ },
+ "noire": {
+  "file": "noire.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-noire.wav",
+  "speaker": "WikiLucas00"
+ },
+ "rouge": {
+  "file": "rouge.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-rouge.wav",
+  "speaker": "Lepticed7"
+ },
+ "bleu": {
+  "file": "bleu.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-bleu.wav",
+  "speaker": "Lepticed7"
+ },
+ "bleue": {
+  "file": "bleue.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-bleue.wav",
+  "speaker": "LoquaxFR"
+ },
+ "vert": {
+  "file": "vert.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-vert.wav",
+  "speaker": "Lepticed7"
+ },
+ "verte": {
+  "file": "verte.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-verte.wav",
+  "speaker": "WikiLucas00"
+ },
+ "jaune": {
+  "file": "jaune.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-jaune.wav",
+  "speaker": "Lepticed7"
+ },
+ "gris": {
+  "file": "gris.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-gris.wav",
+  "speaker": "LoquaxFR"
+ },
+ "grise": {
+  "file": "grise.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-grise.wav",
+  "speaker": "Poslovitch"
+ },
+ "marron": {
+  "file": "marron.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-marron.wav",
+  "speaker": "Lepticed7"
+ },
+ "rose": {
+  "file": "rose.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-rose.wav",
+  "speaker": "Lepticed7"
+ },
+ "violet": {
+  "file": "violet.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-violet.wav",
+  "speaker": "Poslovitch"
+ },
+ "violette": {
+  "file": "violette.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-violette.wav",
+  "speaker": "WikiLucas00"
+ },
+ "clair": {
+  "file": "clair.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-clair.wav",
+  "speaker": "Lepticed7"
+ },
+ "foncé": {
+  "file": "fonce.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-foncé.wav",
+  "speaker": "LoquaxFR"
+ },
+ "village": {
+  "file": "village.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-village.wav",
+  "speaker": "LoquaxFR"
+ },
+ "centre-ville": {
+  "file": "centre-ville.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-centre-ville.wav",
+  "speaker": "Poslovitch-centre"
+ },
+ "avenue": {
+  "file": "avenue.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-avenue.wav",
+  "speaker": "Lepticed7"
+ },
+ "place": {
+  "file": "place.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-place.wav",
+  "speaker": "Lepticed7"
+ },
+ "carrefour": {
+  "file": "carrefour.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-carrefour.wav",
+  "speaker": "LoquaxFR"
+ },
+ "feu": {
+  "file": "feu.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-feu.wav",
+  "speaker": "Lepticed7"
+ },
+ "pont": {
+  "file": "pont.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-pont.wav",
+  "speaker": "Lepticed7"
+ },
+ "trottoir": {
+  "file": "trottoir.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-trottoir.wav",
+  "speaker": "LoquaxFR"
+ },
+ "mairie": {
+  "file": "mairie.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-mairie.wav",
+  "speaker": "WikiLucas00"
+ },
+ "poste": {
+  "file": "poste.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-poste.wav",
+  "speaker": "LoquaxFR"
+ },
+ "banque": {
+  "file": "banque.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-banque.wav",
+  "speaker": "Poslovitch"
+ },
+ "hôpital": {
+  "file": "hopital.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-hôpital.wav",
+  "speaker": "Lepticed7"
+ },
+ "gare": {
+  "file": "gare.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-gare.wav",
+  "speaker": "LoquaxFR"
+ },
+ "musée": {
+  "file": "musee.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-musée.wav",
+  "speaker": "WikiLucas00"
+ },
+ "église": {
+  "file": "eglise.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-église.wav",
+  "speaker": "LoquaxFR"
+ },
+ "parc": {
+  "file": "parc.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-parc.wav",
+  "speaker": "LoquaxFR"
+ },
+ "cinéma": {
+  "file": "cinema.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-cinéma.wav",
+  "speaker": "Lepticed7"
+ },
+ "bibliothèque": {
+  "file": "bibliotheque.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-bibliothèque.wav",
+  "speaker": "Lepticed7"
+ },
+ "office de tourisme": {
+  "file": "office-de-tourisme.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lyokoï-office_de_tourisme.wav",
+  "speaker": "Lyokoï"
+ },
+ "plan": {
+  "file": "plan.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-plan.wav",
+  "speaker": "Lepticed7"
+ },
+ "tout droit": {
+  "file": "tout-droit.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-tout_droit.wav",
+  "speaker": "Poslovitch"
+ },
+ "à droite": {
+  "file": "a-droite.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-à_droite.wav",
+  "speaker": "LoquaxFR"
+ },
+ "à gauche": {
+  "file": "a-gauche.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-à_gauche.wav",
+  "speaker": "LoquaxFR"
+ },
+ "tourner": {
+  "file": "tourner.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-tourner.wav",
+  "speaker": "Lepticed7"
+ },
+ "traverser": {
+  "file": "traverser.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-traverser.wav",
+  "speaker": "LoquaxFR"
+ },
+ "continuer": {
+  "file": "continuer.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-continuer.wav",
+  "speaker": "LoquaxFR"
+ },
+ "près de": {
+  "file": "pres-de.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-près_de.wav",
+  "speaker": "Lepticed7"
+ },
+ "loin de": {
+  "file": "loin-de.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Sartus85-loin_de.wav",
+  "speaker": "Sartus85"
+ },
+ "à côté de": {
+  "file": "a-cote-de.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-à_côté_de.wav",
+  "speaker": "LoquaxFR"
+ },
+ "en face de": {
+  "file": "en-face-de.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-en_face_de.wav",
+  "speaker": "WikiLucas00"
+ },
+ "entre": {
+  "file": "entre.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Pamputt-entre.wav",
+  "speaker": "Pamputt"
+ },
+ "au bout de": {
+  "file": "au-bout-de.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lyokoï-au_bout_de.wav",
+  "speaker": "Lyokoï"
+ },
+ "au coin de": null,
+ "à pied": {
+  "file": "a-pied.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-à_pied.wav",
+  "speaker": "LoquaxFR"
+ },
+ "se perdre": {
+  "file": "se-perdre.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-se_perdre.wav",
+  "speaker": "Poslovitch"
+ },
+ "train": {
+  "file": "train.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-train.wav",
+  "speaker": "LoquaxFR"
+ },
+ "TGV": {
+  "file": "tgv.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-TGV.wav",
+  "speaker": "WikiLucas00"
+ },
+ "métro": {
+  "file": "metro.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-métro.wav",
+  "speaker": "WikiLucas00"
+ },
+ "bus": {
+  "file": "bus.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-bus.wav",
+  "speaker": "Lepticed7"
+ },
+ "tram": {
+  "file": "tram.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-tram.wav",
+  "speaker": "Poslovitch"
+ },
+ "arrêt de bus": {
+  "file": "arret-de-bus.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lyokoï-arrêt_de_bus.wav",
+  "speaker": "Lyokoï"
+ },
+ "station": {
+  "file": "station.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-station.wav",
+  "speaker": "LoquaxFR"
+ },
+ "quai": {
+  "file": "quai.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-quai.wav",
+  "speaker": "Lepticed7"
+ },
+ "voie": {
+  "file": "voie.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-voie.wav",
+  "speaker": "Lepticed7"
+ },
+ "vélo": {
+  "file": "velo.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-vélo.wav",
+  "speaker": "LoquaxFR"
+ },
+ "moto": {
+  "file": "moto.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-moto.wav",
+  "speaker": "LoquaxFR"
+ },
+ "taxi": {
+  "file": "taxi.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-taxi.wav",
+  "speaker": "WikiLucas00"
+ },
+ "avion": {
+  "file": "avion.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-avion.wav",
+  "speaker": "LoquaxFR"
+ },
+ "aéroport": {
+  "file": "aeroport.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-aéroport.wav",
+  "speaker": "LoquaxFR"
+ },
+ "bateau": {
+  "file": "bateau.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-bateau.wav",
+  "speaker": "Lepticed7"
+ },
+ "billet": {
+  "file": "billet.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-billet.wav",
+  "speaker": "LoquaxFR"
+ },
+ "ticket": {
+  "file": "ticket.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-ticket.wav",
+  "speaker": "Lepticed7"
+ },
+ "aller simple": {
+  "file": "aller-simple.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-aller_simple.wav",
+  "speaker": "LoquaxFR"
+ },
+ "aller-retour": {
+  "file": "aller-retour.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-aller-retour.wav",
+  "speaker": "Lepticed7-aller"
+ },
+ "horaire": {
+  "file": "horaire.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-horaire.wav",
+  "speaker": "Lepticed7"
+ },
+ "départ": {
+  "file": "depart.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-départ.wav",
+  "speaker": "LoquaxFR"
+ },
+ "arrivée": {
+  "file": "arrivee.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-arrivée.wav",
+  "speaker": "Poslovitch"
+ },
+ "correspondance": {
+  "file": "correspondance.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-correspondance.wav",
+  "speaker": "Poslovitch"
+ },
+ "retard": {
+  "file": "retard.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-retard.wav",
+  "speaker": "LoquaxFR"
+ },
+ "annulé": {
+  "file": "annule.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-VictorDtmtc-annulé.wav",
+  "speaker": "VictorDtmtc"
+ },
+ "annulée": null,
+ "composter": {
+  "file": "composter.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-composter.wav",
+  "speaker": "WikiLucas00"
+ },
+ "monter": {
+  "file": "monter.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-monter.wav",
+  "speaker": "Lepticed7"
+ },
+ "descendre": {
+  "file": "descendre.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-descendre.wav",
+  "speaker": "Lepticed7"
+ },
+ "conduire": {
+  "file": "conduire.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-conduire.wav",
+  "speaker": "Lepticed7"
+ },
+ "permis de conduire": {
+  "file": "permis-de-conduire.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-permis_de_conduire.wav",
+  "speaker": "Lepticed7"
+ },
+ "embouteillage": {
+  "file": "embouteillage.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-embouteillage.wav",
+  "speaker": "LoquaxFR"
+ },
+ "garer": {
+  "file": "garer.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-garer.wav",
+  "speaker": "LoquaxFR"
+ },
+ "essence": {
+  "file": "essence.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-essence.wav",
+  "speaker": "LoquaxFR"
+ },
+ "transports en commun": null,
+ "voyage": {
+  "file": "voyage.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-voyage.wav",
+  "speaker": "LoquaxFR"
+ },
+ "voyager": {
+  "file": "voyager.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-voyager.wav",
+  "speaker": "LoquaxFR"
+ },
+ "partir en vacances": null,
+ "valise": {
+  "file": "valise.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-valise.wav",
+  "speaker": "LoquaxFR"
+ },
+ "bagages": {
+  "file": "bagages.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Eihel-bagages.wav",
+  "speaker": "Eihel"
+ },
+ "hôtel": {
+  "file": "hotel.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-hôtel.wav",
+  "speaker": "LoquaxFR"
+ },
+ "chambre double": {
+  "file": "chambre-double.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Jérémy-Günther-Heinz_Jähnick-chambre_double.wav",
+  "speaker": "Jérémy-Günther-Heinz Jähnick"
+ },
+ "chambre simple": {
+  "file": "chambre-simple.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Jérémy-Günther-Heinz_Jähnick-chambre_simple.wav",
+  "speaker": "Jérémy-Günther-Heinz Jähnick"
+ },
+ "réception": {
+  "file": "reception.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-réception.wav",
+  "speaker": "LoquaxFR"
+ },
+ "réservation": {
+  "file": "reservation.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-réservation.wav",
+  "speaker": "WikiLucas00"
+ },
+ "camping": {
+  "file": "camping.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-camping.wav",
+  "speaker": "WikiLucas00"
+ },
+ "location": {
+  "file": "location.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-location.wav",
+  "speaker": "WikiLucas00"
+ },
+ "plage": {
+  "file": "plage.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-plage.wav",
+  "speaker": "Lepticed7"
+ },
+ "mer": {
+  "file": "mer.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-mer.wav",
+  "speaker": "Lepticed7"
+ },
+ "montagne": {
+  "file": "montagne.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-montagne.wav",
+  "speaker": "Lepticed7"
+ },
+ "campagne": {
+  "file": "campagne.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-campagne.wav",
+  "speaker": "LoquaxFR"
+ },
+ "lac": {
+  "file": "lac.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-lac.wav",
+  "speaker": "Lepticed7"
+ },
+ "étranger": {
+  "file": "etranger.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-étranger.wav",
+  "speaker": "Lepticed7"
+ },
+ "visiter": {
+  "file": "visiter.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-visiter.wav",
+  "speaker": "Lepticed7"
+ },
+ "rendre visite à": null,
+ "touriste": {
+  "file": "touriste.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lyokoï-touriste.wav",
+  "speaker": "Lyokoï"
+ },
+ "souvenir": {
+  "file": "souvenir.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-souvenir.wav",
+  "speaker": "LoquaxFR"
+ },
+ "carte postale": {
+  "file": "carte-postale.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-carte_postale.wav",
+  "speaker": "Lepticed7"
+ },
+ "appareil photo": {
+  "file": "appareil-photo.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-DSwissK-appareil_photo.wav",
+  "speaker": "DSwissK"
+ },
+ "prendre des photos": null,
+ "se baigner": {
+  "file": "se-baigner.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-se_baigner.wav",
+  "speaker": "Poslovitch"
+ },
+ "bronzer": {
+  "file": "bronzer.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-bronzer.wav",
+  "speaker": "WikiLucas00"
+ },
+ "visite guidée": null,
+ "guide": {
+  "file": "guide.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-guide.wav",
+  "speaker": "Lepticed7"
+ },
+ "douane": {
+  "file": "douane.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-douane.wav",
+  "speaker": "Poslovitch"
+ },
+ "vol": {
+  "file": "vol.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-vol.wav",
+  "speaker": "Poslovitch"
+ },
+ "météo": {
+  "file": "meteo.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-météo.wav",
+  "speaker": "Poslovitch"
+ },
+ "il fait beau": null,
+ "il fait mauvais": null,
+ "il fait chaud": null,
+ "il fait froid": null,
+ "il fait doux": null,
+ "il pleut": {
+  "file": "il-pleut.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Jérémy-Günther-Heinz_Jähnick-il_pleut.wav",
+  "speaker": "Jérémy-Günther-Heinz Jähnick"
+ },
+ "il neige": null,
+ "il y a du vent": null,
+ "il y a du soleil": null,
+ "il y a des nuages": null,
+ "soleil": {
+  "file": "soleil.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-soleil.wav",
+  "speaker": "Lepticed7"
+ },
+ "pluie": {
+  "file": "pluie.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-pluie.wav",
+  "speaker": "Lepticed7"
+ },
+ "neige": {
+  "file": "neige.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-neige.wav",
+  "speaker": "Lepticed7"
+ },
+ "vent": {
+  "file": "vent.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-vent.wav",
+  "speaker": "Lepticed7"
+ },
+ "ciel": {
+  "file": "ciel.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-ciel.wav",
+  "speaker": "Lepticed7"
+ },
+ "brouillard": {
+  "file": "brouillard.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-brouillard.wav",
+  "speaker": "Lepticed7"
+ },
+ "température": {
+  "file": "temperature.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lyokoï-température.wav",
+  "speaker": "Lyokoï"
+ },
+ "degré": {
+  "file": "degre.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-degré.wav",
+  "speaker": "Lepticed7"
+ },
+ "parapluie": {
+  "file": "parapluie.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-parapluie.wav",
+  "speaker": "LoquaxFR"
+ },
+ "saison": {
+  "file": "saison.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-saison.wav",
+  "speaker": "LoquaxFR"
+ },
+ "printemps": {
+  "file": "printemps.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-printemps.wav",
+  "speaker": "LoquaxFR"
+ },
+ "été": {
+  "file": "ete.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-été.wav",
+  "speaker": "LoquaxFR"
+ },
+ "automne": {
+  "file": "automne.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-automne.wav",
+  "speaker": "LoquaxFR"
+ },
+ "ensoleillé": {
+  "file": "ensoleille.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:Fr-ensoleillé.ogg",
+  "speaker": "Wiktionary"
+ },
+ "ensoleillée": null,
+ "nuageux": {
+  "file": "nuageux.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-nuageux.wav",
+  "speaker": "LoquaxFR"
+ },
+ "nuageuse": null,
+ "lundi": {
+  "file": "lundi.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-lundi.wav",
+  "speaker": "Lepticed7"
+ },
+ "mardi": {
+  "file": "mardi.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-mardi.wav",
+  "speaker": "Lepticed7"
+ },
+ "mercredi": {
+  "file": "mercredi.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-mercredi.wav",
+  "speaker": "Lepticed7"
+ },
+ "jeudi": {
+  "file": "jeudi.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-jeudi.wav",
+  "speaker": "Lepticed7"
+ },
+ "vendredi": {
+  "file": "vendredi.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-vendredi.wav",
+  "speaker": "Lepticed7"
+ },
+ "samedi": {
+  "file": "samedi.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-samedi.wav",
+  "speaker": "Lepticed7"
+ },
+ "dimanche": {
+  "file": "dimanche.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-dimanche.wav",
+  "speaker": "Lepticed7"
+ },
+ "janvier": {
+  "file": "janvier.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-janvier.wav",
+  "speaker": "Poslovitch"
+ },
+ "février": {
+  "file": "fevrier.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-février.wav",
+  "speaker": "Poslovitch"
+ },
+ "mars": {
+  "file": "mars.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-mars.wav",
+  "speaker": "Poslovitch"
+ },
+ "avril": {
+  "file": "avril.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-avril.wav",
+  "speaker": "LoquaxFR"
+ },
+ "mai": {
+  "file": "mai.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-mai.wav",
+  "speaker": "Poslovitch"
+ },
+ "juin": {
+  "file": "juin.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-juin.wav",
+  "speaker": "Poslovitch"
+ },
+ "juillet": {
+  "file": "juillet.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-juillet.wav",
+  "speaker": "Poslovitch"
+ },
+ "août": {
+  "file": "aout.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-août.wav",
+  "speaker": "LoquaxFR"
+ },
+ "septembre": {
+  "file": "septembre.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-septembre.wav",
+  "speaker": "Poslovitch"
+ },
+ "octobre": {
+  "file": "octobre.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-octobre.wav",
+  "speaker": "Poslovitch"
+ },
+ "novembre": {
+  "file": "novembre.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-novembre.wav",
+  "speaker": "Poslovitch"
+ },
+ "décembre": {
+  "file": "decembre.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-décembre.wav",
+  "speaker": "Poslovitch"
+ },
+ "date": {
+  "file": "date.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-date.wav",
+  "speaker": "LoquaxFR"
+ },
+ "mois": {
+  "file": "mois.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-mois.wav",
+  "speaker": "LoquaxFR"
+ },
+ "journée": {
+  "file": "journee.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-journée.wav",
+  "speaker": "LoquaxFR"
+ },
+ "soirée": {
+  "file": "soiree.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-soirée.wav",
+  "speaker": "Lepticed7"
+ },
+ "minute": {
+  "file": "minute.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-minute.wav",
+  "speaker": "Lepticed7"
+ },
+ "et quart": null,
+ "et demie": null,
+ "moins le quart": null,
+ "midi": {
+  "file": "midi.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-midi.wav",
+  "speaker": "Lepticed7"
+ },
+ "minuit": {
+  "file": "minuit.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-minuit.wav",
+  "speaker": "Lepticed7"
+ },
+ "avant-hier": {
+  "file": "avant-hier.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-avant-hier.wav",
+  "speaker": "Lepticed7-avant"
+ },
+ "après-demain": {
+  "file": "apres-demain.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-après-demain.wav",
+  "speaker": "Lepticed7-après"
+ },
+ "semaine dernière": null,
+ "semaine prochaine": null,
+ "depuis": {
+  "file": "depuis.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-depuis.wav",
+  "speaker": "Lepticed7"
+ },
+ "pendant": {
+  "file": "pendant.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-pendant.wav",
+  "speaker": "LoquaxFR"
+ },
+ "dans": {
+  "file": "dans.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-dans.wav",
+  "speaker": "Lepticed7"
+ },
+ "bientôt": {
+  "file": "bientot.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-bientôt.wav",
+  "speaker": "Lepticed7"
+ },
+ "tout de suite": {
+  "file": "tout-de-suite.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-tout_de_suite.wav",
+  "speaker": "Lepticed7"
+ },
+ "de temps en temps": {
+  "file": "de-temps-en-temps.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-de_temps_en_temps.wav",
+  "speaker": "WikiLucas00"
+ },
+ "parfois": {
+  "file": "parfois.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-parfois.wav",
+  "speaker": "WikiLucas00"
+ },
+ "rarement": {
+  "file": "rarement.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-rarement.wav",
+  "speaker": "WikiLucas00"
+ },
+ "tous les jours": null,
+ "fois par semaine": null,
+ "zéro": {
+  "file": "zero.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-zéro.wav",
+  "speaker": "Lepticed7"
+ },
+ "un": {
+  "file": "un.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-un.wav",
+  "speaker": "Lepticed7"
+ },
+ "une": {
+  "file": "une.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-une.wav",
+  "speaker": "Poslovitch"
+ },
+ "deux": {
+  "file": "deux.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-deux.wav",
+  "speaker": "Lepticed7"
+ },
+ "trois": {
+  "file": "trois.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-trois.wav",
+  "speaker": "Lepticed7"
+ },
+ "quatre": {
+  "file": "quatre.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-quatre.wav",
+  "speaker": "Lepticed7"
+ },
+ "cinq": {
+  "file": "cinq.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-cinq.wav",
+  "speaker": "Lepticed7"
+ },
+ "six": {
+  "file": "six.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-six.wav",
+  "speaker": "Lepticed7"
+ },
+ "sept": {
+  "file": "sept.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-sept.wav",
+  "speaker": "Lepticed7"
+ },
+ "huit": {
+  "file": "huit.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-huit.wav",
+  "speaker": "Lepticed7"
+ },
+ "neuf": {
+  "file": "neuf.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-neuf.wav",
+  "speaker": "Lepticed7"
+ },
+ "dix": {
+  "file": "dix.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-dix.wav",
+  "speaker": "Lepticed7"
+ },
+ "onze": {
+  "file": "onze.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-onze.wav",
+  "speaker": "Lepticed7"
+ },
+ "douze": {
+  "file": "douze.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-douze.wav",
+  "speaker": "Lepticed7"
+ },
+ "quinze": {
+  "file": "quinze.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-quinze.wav",
+  "speaker": "Lepticed7"
+ },
+ "vingt": {
+  "file": "vingt.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-vingt.wav",
+  "speaker": "Lepticed7"
+ },
+ "trente": {
+  "file": "trente.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-trente.wav",
+  "speaker": "Lepticed7"
+ },
+ "quarante": {
+  "file": "quarante.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-GrandCelinien-quarante.wav",
+  "speaker": "GrandCelinien"
+ },
+ "cinquante": {
+  "file": "cinquante.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-cinquante.wav",
+  "speaker": "Lepticed7"
+ },
+ "soixante": {
+  "file": "soixante.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-soixante.wav",
+  "speaker": "Lepticed7"
+ },
+ "soixante-dix": {
+  "file": "soixante-dix.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-soixante-dix.wav",
+  "speaker": "Lepticed7-soixante"
+ },
+ "quatre-vingts": {
+  "file": "quatre-vingts.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-quatre-vingts.wav",
+  "speaker": "Lepticed7-quatre"
+ },
+ "quatre-vingt-dix": {
+  "file": "quatre-vingt-dix.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-quatre-vingt-dix.wav",
+  "speaker": "Lepticed7-quatre-vingt"
+ },
+ "cent": {
+  "file": "cent.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-cent.wav",
+  "speaker": "Lepticed7"
+ },
+ "mille": {
+  "file": "mille.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-mille.wav",
+  "speaker": "Lepticed7"
+ },
+ "premier": {
+  "file": "premier.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-premier.wav",
+  "speaker": "Lepticed7"
+ },
+ "première": {
+  "file": "premiere.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-première.wav",
+  "speaker": "WikiLucas00"
+ },
+ "deuxième": {
+  "file": "deuxieme.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-deuxième.wav",
+  "speaker": "Lepticed7"
+ },
+ "moitié": {
+  "file": "moitie.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-moitié.wav",
+  "speaker": "LoquaxFR"
+ },
+ "douzaine de": null,
+ "beaucoup de": {
+  "file": "beaucoup-de.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-DenisdeShawi-beaucoup_de.wav",
+  "speaker": "DenisdeShawi"
+ },
+ "peu de": null,
+ "assez de": null,
+ "trop de": null,
+ "plusieurs": {
+  "file": "plusieurs.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-DenisdeShawi-plusieurs.wav",
+  "speaker": "DenisdeShawi"
+ },
+ "quelques": {
+  "file": "quelques.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-quelques.wav",
+  "speaker": "Lepticed7"
+ },
+ "environ": {
+  "file": "environ.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-environ.wav",
+  "speaker": "Lepticed7"
+ },
+ "numéro": {
+  "file": "numero.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-numéro.wav",
+  "speaker": "LoquaxFR"
+ },
+ "euro": {
+  "file": "euro.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Eihel-euro.wav",
+  "speaker": "Eihel"
+ },
+ "centime": {
+  "file": "centime.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Jérémy-Günther-Heinz_Jähnick-centime.wav",
+  "speaker": "Jérémy-Günther-Heinz Jähnick"
+ },
+ "loisirs": {
+  "file": "loisirs.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:Fr-loisirs.ogg",
+  "speaker": "Wiktionary"
+ },
+ "temps libre": null,
+ "sport": {
+  "file": "sport.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-sport.wav",
+  "speaker": "LoquaxFR"
+ },
+ "faire du sport": null,
+ "jouer au football": null,
+ "jouer au tennis": null,
+ "jouer du piano": null,
+ "jouer de la guitare": null,
+ "natation": {
+  "file": "natation.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-natation.wav",
+  "speaker": "WikiLucas00"
+ },
+ "nager": {
+  "file": "nager.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-nager.wav",
+  "speaker": "Lepticed7"
+ },
+ "piscine": {
+  "file": "piscine.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-piscine.wav",
+  "speaker": "Lepticed7"
+ },
+ "courir": {
+  "file": "courir.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-courir.wav",
+  "speaker": "Lepticed7"
+ },
+ "randonnée": {
+  "file": "randonnee.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-randonnée.wav",
+  "speaker": "WikiLucas00"
+ },
+ "se promener": {
+  "file": "se-promener.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-se_promener.wav",
+  "speaker": "WikiLucas00"
+ },
+ "match": {
+  "file": "match.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-match.wav",
+  "speaker": "WikiLucas00"
+ },
+ "équipe": {
+  "file": "equipe.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-équipe.wav",
+  "speaker": "LoquaxFR"
+ },
+ "gagner": {
+  "file": "gagner.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-gagner.wav",
+  "speaker": "Lepticed7"
+ },
+ "perdre": {
+  "file": "perdre.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-perdre.wav",
+  "speaker": "LoquaxFR"
+ },
+ "musique": {
+  "file": "musique.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-musique.wav",
+  "speaker": "Lepticed7"
+ },
+ "concert": {
+  "file": "concert.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-concert.wav",
+  "speaker": "LoquaxFR"
+ },
+ "chanson": {
+  "file": "chanson.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-chanson.wav",
+  "speaker": "Lepticed7"
+ },
+ "chanter": {
+  "file": "chanter.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-chanter.wav",
+  "speaker": "Lepticed7"
+ },
+ "danser": {
+  "file": "danser.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-danser.wav",
+  "speaker": "LoquaxFR"
+ },
+ "film": {
+  "file": "film.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-film.wav",
+  "speaker": "LoquaxFR"
+ },
+ "série": {
+  "file": "serie.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-série.wav",
+  "speaker": "Poslovitch"
+ },
+ "théâtre": {
+  "file": "theatre.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-théâtre.wav",
+  "speaker": "Lepticed7"
+ },
+ "exposition": {
+  "file": "exposition.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-exposition.wav",
+  "speaker": "WikiLucas00"
+ },
+ "livre": {
+  "file": "livre.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-livre.wav",
+  "speaker": "Lepticed7"
+ },
+ "lire": {
+  "file": "lire.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-lire.wav",
+  "speaker": "Lepticed7"
+ },
+ "roman": {
+  "file": "roman.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-roman.wav",
+  "speaker": "Lepticed7"
+ },
+ "journal": {
+  "file": "journal.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-journal.wav",
+  "speaker": "Lepticed7"
+ },
+ "peinture": {
+  "file": "peinture.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-peinture.wav",
+  "speaker": "LoquaxFR"
+ },
+ "dessin": {
+  "file": "dessin.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-dessin.wav",
+  "speaker": "Lepticed7"
+ },
+ "photo": {
+  "file": "photo.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-photo.wav",
+  "speaker": "LoquaxFR"
+ },
+ "jeu vidéo": {
+  "file": "jeu-video.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-jeu_vidéo.wav",
+  "speaker": "Lepticed7"
+ },
+ "jeux de société": null,
+ "jardinage": {
+  "file": "jardinage.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-jardinage.wav",
+  "speaker": "LoquaxFR"
+ },
+ "s’amuser": {
+  "file": "samuser.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lyokoï-s’amuser.wav",
+  "speaker": "Lyokoï"
+ },
+ "s’intéresser à": null,
+ "club": {
+  "file": "club.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-club.wav",
+  "speaker": "WikiLucas00"
+ },
+ "s’inscrire": {
+  "file": "sinscrire.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Sartus85-s’inscrire.wav",
+  "speaker": "Sartus85"
+ },
+ "salle de sport": {
+  "file": "salle-de-sport.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-salle_de_sport.wav",
+  "speaker": "WikiLucas00"
+ },
+ "santé": {
+  "file": "sante.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-santé.wav",
+  "speaker": "LoquaxFR"
+ },
+ "corps": {
+  "file": "corps.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-corps.wav",
+  "speaker": "Lepticed7"
+ },
+ "tête": {
+  "file": "tete.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Bananax47-tête.wav",
+  "speaker": "Bananax47"
+ },
+ "oreille": {
+  "file": "oreille.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-oreille.wav",
+  "speaker": "Lepticed7"
+ },
+ "nez": {
+  "file": "nez.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-nez.wav",
+  "speaker": "Lepticed7"
+ },
+ "bouche": {
+  "file": "bouche.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-bouche.wav",
+  "speaker": "Lepticed7"
+ },
+ "dent": {
+  "file": "dent.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-dent.wav",
+  "speaker": "Lepticed7"
+ },
+ "gorge": {
+  "file": "gorge.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-gorge.wav",
+  "speaker": "LoquaxFR"
+ },
+ "cou": {
+  "file": "cou.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-cou.wav",
+  "speaker": "Lepticed7"
+ },
+ "dos": {
+  "file": "dos.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-dos.wav",
+  "speaker": "Lepticed7"
+ },
+ "ventre": {
+  "file": "ventre.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-ventre.wav",
+  "speaker": "Lepticed7"
+ },
+ "bras": {
+  "file": "bras.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-bras.wav",
+  "speaker": "LoquaxFR"
+ },
+ "main": {
+  "file": "main.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-main.wav",
+  "speaker": "Lepticed7"
+ },
+ "doigt": {
+  "file": "doigt.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-doigt.wav",
+  "speaker": "Lepticed7"
+ },
+ "jambe": {
+  "file": "jambe.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-jambe.wav",
+  "speaker": "Lepticed7"
+ },
+ "genou": {
+  "file": "genou.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-genou.wav",
+  "speaker": "Lepticed7"
+ },
+ "pied": {
+  "file": "pied.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-pied.wav",
+  "speaker": "Lepticed7"
+ },
+ "cœur": {
+  "file": "coeur.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-cœur.wav",
+  "speaker": "Lepticed7"
+ },
+ "avoir mal à": null,
+ "malade": {
+  "file": "malade.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-malade.wav",
+  "speaker": "LoquaxFR"
+ },
+ "maladie": {
+  "file": "maladie.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-maladie.wav",
+  "speaker": "Poslovitch"
+ },
+ "fièvre": {
+  "file": "fievre.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-fièvre.wav",
+  "speaker": "Lepticed7"
+ },
+ "rhume": {
+  "file": "rhume.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Eihel-rhume.wav",
+  "speaker": "Eihel"
+ },
+ "grippe": {
+  "file": "grippe.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:Fr-grippe.ogg",
+  "speaker": "Wiktionary"
+ },
+ "tousser": {
+  "file": "tousser.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-tousser.wav",
+  "speaker": "LoquaxFR"
+ },
+ "en forme": null,
+ "se sentir": {
+  "file": "se-sentir.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lyokoï-se_sentir.wav",
+  "speaker": "Lyokoï"
+ },
+ "médecin": {
+  "file": "medecin.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-médecin.wav",
+  "speaker": "Lepticed7"
+ },
+ "dentiste": {
+  "file": "dentiste.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-dentiste.wav",
+  "speaker": "Lepticed7"
+ },
+ "pharmacien": {
+  "file": "pharmacien.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-pharmacien.wav",
+  "speaker": "LoquaxFR"
+ },
+ "pharmacienne": {
+  "file": "pharmacienne.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Roptat-pharmacienne.wav",
+  "speaker": "Roptat"
+ },
+ "rendez-vous": {
+  "file": "rendez-vous.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-rendez-vous.wav",
+  "speaker": "LoquaxFR-rendez"
+ },
+ "ordonnance": {
+  "file": "ordonnance.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-ordonnance.wav",
+  "speaker": "Lepticed7"
+ },
+ "médicament": {
+  "file": "medicament.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-médicament.wav",
+  "speaker": "Lepticed7"
+ },
+ "comprimé": {
+  "file": "comprime.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-VictorDtmtc-comprimé.wav",
+  "speaker": "VictorDtmtc"
+ },
+ "urgences": {
+  "file": "urgences.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Guilhelma-urgences.wav",
+  "speaker": "Guilhelma"
+ },
+ "accident": {
+  "file": "accident.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-accident.wav",
+  "speaker": "Lepticed7"
+ },
+ "se casser": {
+  "file": "se-casser.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lyokoï-se_casser.wav",
+  "speaker": "Lyokoï"
+ },
+ "se blesser": {
+  "file": "se-blesser.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lyokoï-se_blesser.wav",
+  "speaker": "Lyokoï"
+ },
+ "guérir": {
+  "file": "guerir.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-guérir.wav",
+  "speaker": "Lepticed7"
+ },
+ "se soigner": null,
+ "Bon rétablissement": null,
+ "emploi": {
+  "file": "emploi.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-emploi.wav",
+  "speaker": "Lepticed7"
+ },
+ "bureau": {
+  "file": "bureau.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-bureau.wav",
+  "speaker": "Lepticed7"
+ },
+ "entreprise": {
+  "file": "entreprise.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Eihel-entreprise.wav",
+  "speaker": "Eihel"
+ },
+ "patron": {
+  "file": "patron.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-patron.wav",
+  "speaker": "Lepticed7"
+ },
+ "patronne": {
+  "file": "patronne.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-patronne.wav",
+  "speaker": "Lepticed7"
+ },
+ "le": {
+  "file": "le.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-le.wav",
+  "speaker": "Poslovitch"
+ },
+ "collègue": {
+  "file": "collegue.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-collègue.wav",
+  "speaker": "LoquaxFR"
+ },
+ "salaire": {
+  "file": "salaire.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Eihel-salaire.wav",
+  "speaker": "Eihel"
+ },
+ "réunion": {
+  "file": "reunion.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-réunion.wav",
+  "speaker": "Lepticed7"
+ },
+ "stage": {
+  "file": "stage.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-stage.wav",
+  "speaker": "Lepticed7"
+ },
+ "CV": {
+  "file": "cv.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-CV.wav",
+  "speaker": "Lepticed7"
+ },
+ "entretien": {
+  "file": "entretien.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-entretien.wav",
+  "speaker": "LoquaxFR"
+ },
+ "annonce": {
+  "file": "annonce.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-DenisdeShawi-annonce.wav",
+  "speaker": "DenisdeShawi"
+ },
+ "chercher un emploi": null,
+ "chômage": {
+  "file": "chomage.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-chômage.wav",
+  "speaker": "LoquaxFR"
+ },
+ "à temps plein": {
+  "file": "a-temps-plein.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-à_temps_plein.wav",
+  "speaker": "LoquaxFR"
+ },
+ "à temps partiel": {
+  "file": "a-temps-partiel.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-à_temps_partiel.wav",
+  "speaker": "LoquaxFR"
+ },
+ "retraite": {
+  "file": "retraite.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-retraite.wav",
+  "speaker": "Lepticed7"
+ },
+ "infirmier": {
+  "file": "infirmier.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-infirmier.wav",
+  "speaker": "LoquaxFR"
+ },
+ "infirmière": {
+  "file": "infirmiere.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-infirmière.wav",
+  "speaker": "LoquaxFR"
+ },
+ "professeur": {
+  "file": "professeur.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-professeur.wav",
+  "speaker": "Lepticed7"
+ },
+ "professeure": {
+  "file": "professeure.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-professeure.wav",
+  "speaker": "Lepticed7"
+ },
+ "ingénieur": {
+  "file": "ingenieur.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-ingénieur.wav",
+  "speaker": "Lepticed7"
+ },
+ "ingénieure": {
+  "file": "ingenieure.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-ingénieure.wav",
+  "speaker": "Lepticed7"
+ },
+ "avocat": {
+  "file": "avocat.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-avocat.wav",
+  "speaker": "WikiLucas00"
+ },
+ "avocate": {
+  "file": "avocate.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-avocate.wav",
+  "speaker": "Poslovitch"
+ },
+ "cuisinier": {
+  "file": "cuisinier.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-cuisinier.wav",
+  "speaker": "Lepticed7"
+ },
+ "cuisinière": {
+  "file": "cuisiniere.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-cuisinière.wav",
+  "speaker": "Lepticed7"
+ },
+ "employé": {
+  "file": "employe.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Sartus85-employé.wav",
+  "speaker": "Sartus85"
+ },
+ "employée": {
+  "file": "employee.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-employée.wav",
+  "speaker": "WikiLucas00"
+ },
+ "secrétaire": {
+  "file": "secretaire.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-secrétaire.wav",
+  "speaker": "Lepticed7"
+ },
+ "journaliste": {
+  "file": "journaliste.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-journaliste.wav",
+  "speaker": "Lepticed7"
+ },
+ "chauffeur": {
+  "file": "chauffeur.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-chauffeur.wav",
+  "speaker": "LoquaxFR"
+ },
+ "agriculteur": {
+  "file": "agriculteur.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-agriculteur.wav",
+  "speaker": "Lepticed7"
+ },
+ "agricultrice": {
+  "file": "agricultrice.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-agricultrice.wav",
+  "speaker": "Lepticed7"
+ },
+ "informaticien": {
+  "file": "informaticien.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-informaticien.wav",
+  "speaker": "Lepticed7"
+ },
+ "informaticienne": {
+  "file": "informaticienne.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-informaticienne.wav",
+  "speaker": "Lepticed7"
+ },
+ "congés": {
+  "file": "conges.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Eihel-congés.wav",
+  "speaker": "Eihel"
+ },
+ "jour férié": {
+  "file": "jour-ferie.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lyokoï-jour_férié.wav",
+  "speaker": "Lyokoï"
+ },
+ "collège": {
+  "file": "college.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-collège.wav",
+  "speaker": "LoquaxFR"
+ },
+ "lycée": {
+  "file": "lycee.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-lycée.wav",
+  "speaker": "WikiLucas00"
+ },
+ "université": {
+  "file": "universite.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-université.wav",
+  "speaker": "WikiLucas00"
+ },
+ "étudiant": {
+  "file": "etudiant.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-étudiant.wav",
+  "speaker": "Lepticed7"
+ },
+ "étudiante": {
+  "file": "etudiante.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-étudiante.wav",
+  "speaker": "Lepticed7"
+ },
+ "élève (m": null,
+ "f)": null,
+ "classe": {
+  "file": "classe.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-classe.wav",
+  "speaker": "Lepticed7"
+ },
+ "cours": {
+  "file": "cours.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-cours.wav",
+  "speaker": "Lepticed7"
+ },
+ "matière": {
+  "file": "matiere.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-matière.wav",
+  "speaker": "LoquaxFR"
+ },
+ "maths": {
+  "file": "maths.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-maths.wav",
+  "speaker": "Lepticed7"
+ },
+ "histoire": {
+  "file": "histoire.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-histoire.wav",
+  "speaker": "Lepticed7"
+ },
+ "géographie": {
+  "file": "geographie.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-géographie.wav",
+  "speaker": "Lepticed7"
+ },
+ "devoirs": {
+  "file": "devoirs.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-0x010C-devoirs.wav",
+  "speaker": "0x010C"
+ },
+ "examen": {
+  "file": "examen.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-examen.wav",
+  "speaker": "WikiLucas00"
+ },
+ "réussir": {
+  "file": "reussir.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-réussir.wav",
+  "speaker": "LoquaxFR"
+ },
+ "échouer": {
+  "file": "echouer.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-échouer.wav",
+  "speaker": "WikiLucas00"
+ },
+ "note": {
+  "file": "note.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-note.wav",
+  "speaker": "Lepticed7"
+ },
+ "diplôme": {
+  "file": "diplome.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-diplôme.wav",
+  "speaker": "Lepticed7"
+ },
+ "apprendre": {
+  "file": "apprendre.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-apprendre.wav",
+  "speaker": "Lepticed7"
+ },
+ "étudier": {
+  "file": "etudier.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-étudier.wav",
+  "speaker": "Lepticed7"
+ },
+ "réviser": {
+  "file": "reviser.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Jérémy-Günther-Heinz_Jähnick-réviser.wav",
+  "speaker": "Jérémy-Günther-Heinz Jähnick"
+ },
+ "expliquer": {
+  "file": "expliquer.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-expliquer.wav",
+  "speaker": "Lepticed7"
+ },
+ "répéter": {
+  "file": "repeter.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-répéter.wav",
+  "speaker": "LoquaxFR"
+ },
+ "mot": {
+  "file": "mot.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-mot.wav",
+  "speaker": "Lepticed7"
+ },
+ "phrase": {
+  "file": "phrase.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-phrase.wav",
+  "speaker": "Poslovitch"
+ },
+ "dictionnaire": {
+  "file": "dictionnaire.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-dictionnaire.wav",
+  "speaker": "LoquaxFR"
+ },
+ "cahier": {
+  "file": "cahier.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-cahier.wav",
+  "speaker": "Lepticed7"
+ },
+ "stylo": {
+  "file": "stylo.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-stylo.wav",
+  "speaker": "LoquaxFR"
+ },
+ "faute": {
+  "file": "faute.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-faute.wav",
+  "speaker": "LoquaxFR"
+ },
+ "rentrée": {
+  "file": "rentree.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-rentrée.wav",
+  "speaker": "LoquaxFR"
+ },
+ "cantine": {
+  "file": "cantine.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-cantine.wav",
+  "speaker": "LoquaxFR"
+ },
+ "téléphone": {
+  "file": "telephone.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-téléphone.wav",
+  "speaker": "LoquaxFR"
+ },
+ "portable": {
+  "file": "portable.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-portable.wav",
+  "speaker": "LoquaxFR"
+ },
+ "appeler": {
+  "file": "appeler.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-appeler.wav",
+  "speaker": "Lepticed7"
+ },
+ "téléphoner": {
+  "file": "telephoner.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Sartus85-téléphoner.wav",
+  "speaker": "Sartus85"
+ },
+ "rappeler": {
+  "file": "rappeler.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-rappeler.wav",
+  "speaker": "Lepticed7"
+ },
+ "message": {
+  "file": "message.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-message.wav",
+  "speaker": "Poslovitch"
+ },
+ "texto": {
+  "file": "texto.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-texto.wav",
+  "speaker": "LoquaxFR"
+ },
+ "SMS": {
+  "file": "sms.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-SMS.wav",
+  "speaker": "LoquaxFR"
+ },
+ "répondeur": {
+  "file": "repondeur.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-répondeur.wav",
+  "speaker": "LoquaxFR"
+ },
+ "appel": {
+  "file": "appel.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-appel.wav",
+  "speaker": "Lepticed7"
+ },
+ "occupé": {
+  "file": "occupe.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-VictorDtmtc-occupé.wav",
+  "speaker": "VictorDtmtc"
+ },
+ "occupée": {
+  "file": "occupee.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lyokoï-occupée.wav",
+  "speaker": "Lyokoï"
+ },
+ "ordinateur": {
+  "file": "ordinateur.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-ordinateur.wav",
+  "speaker": "LoquaxFR"
+ },
+ "internet": {
+  "file": "internet.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-internet.wav",
+  "speaker": "LoquaxFR"
+ },
+ "site": {
+  "file": "site.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-site.wav",
+  "speaker": "WikiLucas00"
+ },
+ "mail": {
+  "file": "mail.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-mail.wav",
+  "speaker": "Lepticed7"
+ },
+ "courriel": {
+  "file": "courriel.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-courriel.wav",
+  "speaker": "Lepticed7"
+ },
+ "envoyer": {
+  "file": "envoyer.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-envoyer.wav",
+  "speaker": "LoquaxFR"
+ },
+ "répondre": {
+  "file": "repondre.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-répondre.wav",
+  "speaker": "LoquaxFR"
+ },
+ "lettre": {
+  "file": "lettre.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-lettre.wav",
+  "speaker": "Lepticed7"
+ },
+ "colis": {
+  "file": "colis.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-colis.wav",
+  "speaker": "Lepticed7"
+ },
+ "timbre": {
+  "file": "timbre.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-timbre.wav",
+  "speaker": "LoquaxFR"
+ },
+ "enveloppe": {
+  "file": "enveloppe.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-enveloppe.wav",
+  "speaker": "Lepticed7"
+ },
+ "réseaux sociaux": null,
+ "télécharger": {
+  "file": "telecharger.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-télécharger.wav",
+  "speaker": "Lepticed7"
+ },
+ "application": {
+  "file": "application.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-application.wav",
+  "speaker": "Lepticed7"
+ },
+ "mot de passe": {
+  "file": "mot-de-passe.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-mot_de_passe.wav",
+  "speaker": "LoquaxFR"
+ },
+ "en ligne": {
+  "file": "en-ligne.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-en_ligne.wav",
+  "speaker": "Lepticed7"
+ },
+ "télé": {
+  "file": "tele.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-0x010C-télé.wav",
+  "speaker": "0x010C"
+ },
+ "radio": {
+  "file": "radio.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-radio.wav",
+  "speaker": "LoquaxFR"
+ },
+ "informations": {
+  "file": "informations.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-informations.wav",
+  "speaker": "Poslovitch"
+ },
+ "émission": {
+  "file": "emission.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-DenisdeShawi-émission.wav",
+  "speaker": "DenisdeShawi"
+ },
+ "publicité": {
+  "file": "publicite.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-publicité.wav",
+  "speaker": "LoquaxFR"
+ },
+ "article": {
+  "file": "article.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-article.wav",
+  "speaker": "Lepticed7"
+ },
+ "fête": {
+  "file": "fete.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-fête.wav",
+  "speaker": "Lepticed7"
+ },
+ "anniversaire": {
+  "file": "anniversaire.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-anniversaire.wav",
+  "speaker": "Lepticed7"
+ },
+ "cadeau": {
+  "file": "cadeau.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-cadeau.wav",
+  "speaker": "LoquaxFR"
+ },
+ "offrir": {
+  "file": "offrir.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-offrir.wav",
+  "speaker": "Lepticed7"
+ },
+ "inviter": {
+  "file": "inviter.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-inviter.wav",
+  "speaker": "LoquaxFR"
+ },
+ "invitation": {
+  "file": "invitation.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-invitation.wav",
+  "speaker": "LoquaxFR"
+ },
+ "invité": {
+  "file": "invite.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Sartus85-invité.wav",
+  "speaker": "Sartus85"
+ },
+ "invitée": {
+  "file": "invitee.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Roptat-invitée.wav",
+  "speaker": "Roptat"
+ },
+ "fêter": {
+  "file": "feter.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-fêter.wav",
+  "speaker": "Lepticed7"
+ },
+ "célébrer": {
+  "file": "celebrer.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-célébrer.wav",
+  "speaker": "WikiLucas00"
+ },
+ "mariage": {
+  "file": "mariage.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-mariage.wav",
+  "speaker": "Lepticed7"
+ },
+ "naissance": {
+  "file": "naissance.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-naissance.wav",
+  "speaker": "Lepticed7"
+ },
+ "Noël": {
+  "file": "noel.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-Noël.wav",
+  "speaker": "LoquaxFR"
+ },
+ "jour de l’An": null,
+ "réveillon": {
+  "file": "reveillon.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Pamputt-réveillon.wav",
+  "speaker": "Pamputt"
+ },
+ "Pâques": {
+  "file": "paques.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-Pâques.wav",
+  "speaker": "WikiLucas00"
+ },
+ "14 juillet": {
+  "file": "14-juillet.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-14_juillet.wav",
+  "speaker": "LoquaxFR"
+ },
+ "feu d’artifice": {
+  "file": "feu-dartifice.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Le_Commissaire-feu_d'artifice.wav",
+  "speaker": "Le Commissaire"
+ },
+ "fête de la musique": {
+  "file": "fete-de-la-musique.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-fête_de_la_musique.wav",
+  "speaker": "WikiLucas00"
+ },
+ "festival": {
+  "file": "festival.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-festival.wav",
+  "speaker": "Poslovitch"
+ },
+ "gâteau d’anniversaire": null,
+ "bougie": {
+  "file": "bougie.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-bougie.wav",
+  "speaker": "LoquaxFR"
+ },
+ "Félicitations": {
+  "file": "felicitations.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-félicitations.wav",
+  "speaker": "LoquaxFR"
+ },
+ "Bonne fête": {
+  "file": "bonne-fete.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-bonne_fête.wav",
+  "speaker": "LoquaxFR"
+ },
+ "fête des Mères": null,
+ "Santé": {
+  "file": "sante.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-Santé.wav",
+  "speaker": "WikiLucas00"
+ },
+ "trinquer": {
+  "file": "trinquer.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-trinquer.wav",
+  "speaker": "WikiLucas00"
+ },
+ "organiser": {
+  "file": "organiser.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-organiser.wav",
+  "speaker": "Lepticed7"
+ },
+ "surprise": {
+  "file": "surprise.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-surprise.wav",
+  "speaker": "LoquaxFR"
+ },
+ "heureux": {
+  "file": "heureux.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-heureux.wav",
+  "speaker": "LoquaxFR"
+ },
+ "heureuse": {
+  "file": "heureuse.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Pamputt-heureuse.wav",
+  "speaker": "Pamputt"
+ },
+ "triste": {
+  "file": "triste.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-triste.wav",
+  "speaker": "LoquaxFR"
+ },
+ "fâché": {
+  "file": "fache.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-fâché.wav",
+  "speaker": "Poslovitch"
+ },
+ "fâchée": null,
+ "en colère": {
+  "file": "en-colere.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-colère.wav",
+  "speaker": "LoquaxFR"
+ },
+ "inquiet": {
+  "file": "inquiet.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:Fr-inquiet.ogg",
+  "speaker": "Wiktionary"
+ },
+ "inquiète": {
+  "file": "inquiete.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-inquiète.wav",
+  "speaker": "Lepticed7"
+ },
+ "stressé": {
+  "file": "stresse.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Le_Commissaire-stressé.wav",
+  "speaker": "Le Commissaire"
+ },
+ "stressée": null,
+ "déçu": {
+  "file": "decu.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-déçu.wav",
+  "speaker": "Poslovitch"
+ },
+ "déçue": {
+  "file": "decue.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-DenisdeShawi-déçue.wav",
+  "speaker": "DenisdeShawi"
+ },
+ "surpris": {
+  "file": "surpris.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Sartus85-surpris.wav",
+  "speaker": "Sartus85"
+ },
+ "fier": {
+  "file": "fier.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-fier.wav",
+  "speaker": "Lepticed7"
+ },
+ "fière": {
+  "file": "fiere.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Julien_Baley-fière.wav",
+  "speaker": "Julien Baley"
+ },
+ "amoureux": {
+  "file": "amoureux.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-amoureux.wav",
+  "speaker": "Lepticed7"
+ },
+ "amoureuse": {
+  "file": "amoureuse.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-amoureuse.wav",
+  "speaker": "WikiLucas00"
+ },
+ "avoir peur": {
+  "file": "avoir-peur.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-avoir_peur.wav",
+  "speaker": "LoquaxFR"
+ },
+ "s’ennuyer": {
+  "file": "sennuyer.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-DSwissK-s’ennuyer.wav",
+  "speaker": "DSwissK"
+ },
+ "adorer": {
+  "file": "adorer.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-adorer.wav",
+  "speaker": "Lepticed7"
+ },
+ "détester": {
+  "file": "detester.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-détester.wav",
+  "speaker": "LoquaxFR"
+ },
+ "préférer": {
+  "file": "preferer.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-préférer.wav",
+  "speaker": "LoquaxFR"
+ },
+ "croire": {
+  "file": "croire.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-croire.wav",
+  "speaker": "Lepticed7"
+ },
+ "avis": {
+  "file": "avis.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-avis.wav",
+  "speaker": "Lepticed7"
+ },
+ "avoir raison": {
+  "file": "avoir-raison.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-avoir_raison.wav",
+  "speaker": "LoquaxFR"
+ },
+ "avoir tort": {
+  "file": "avoir-tort.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-avoir_tort.wav",
+  "speaker": "LoquaxFR"
+ },
+ "génial": {
+  "file": "genial.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-génial.wav",
+  "speaker": "Poslovitch"
+ },
+ "géniale": {
+  "file": "geniale.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-géniale.wav",
+  "speaker": "Poslovitch"
+ },
+ "intéressant": {
+  "file": "interessant.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-intéressant.wav",
+  "speaker": "LoquaxFR"
+ },
+ "intéressante": {
+  "file": "interessante.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lyokoï-intéressante.wav",
+  "speaker": "Lyokoï"
+ },
+ "ennuyeux": {
+  "file": "ennuyeux.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-ennuyeux.wav",
+  "speaker": "Poslovitch"
+ },
+ "ennuyeuse": {
+  "file": "ennuyeuse.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-ennuyeuse.wav",
+  "speaker": "WikiLucas00"
+ },
+ "agréable": {
+  "file": "agreable.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-agréable.wav",
+  "speaker": "LoquaxFR"
+ },
+ "nul": {
+  "file": "nul-w.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-nul.wav",
+  "speaker": "Lepticed7"
+ },
+ "nulle": {
+  "file": "nulle.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-nulle.wav",
+  "speaker": "Lepticed7"
+ },
+ "incroyable": {
+  "file": "incroyable.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-incroyable.wav",
+  "speaker": "Lepticed7"
+ },
+ "formidable": {
+  "file": "formidable.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Sartus85-formidable.wav",
+  "speaker": "Sartus85"
+ },
+ "horrible": {
+  "file": "horrible.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-horrible.wav",
+  "speaker": "Lepticed7"
+ },
+ "important": {
+  "file": "important.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-important.wav",
+  "speaker": "Lepticed7"
+ },
+ "importante": {
+  "file": "importante.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Pamputt-importante.wav",
+  "speaker": "Pamputt"
+ },
+ "utile": {
+  "file": "utile.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-utile.wav",
+  "speaker": "LoquaxFR"
+ },
+ "problème": {
+  "file": "probleme.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Helenou66-problème.wav",
+  "speaker": "Helenou66"
+ },
+ "nature": {
+  "file": "nature.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-nature.wav",
+  "speaker": "LoquaxFR"
+ },
+ "environnement": {
+  "file": "environnement.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-environnement.wav",
+  "speaker": "WikiLucas00"
+ },
+ "arbre": {
+  "file": "arbre.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-arbre.wav",
+  "speaker": "Lepticed7"
+ },
+ "fleur": {
+  "file": "fleur.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-fleur.wav",
+  "speaker": "Lepticed7"
+ },
+ "forêt": {
+  "file": "foret.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-forêt.wav",
+  "speaker": "Lepticed7"
+ },
+ "rivière": {
+  "file": "riviere.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-rivière.wav",
+  "speaker": "Lepticed7"
+ },
+ "fleuve": {
+  "file": "fleuve.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-fleuve.wav",
+  "speaker": "Lepticed7"
+ },
+ "île": {
+  "file": "ile.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-île.wav",
+  "speaker": "LoquaxFR"
+ },
+ "plante": {
+  "file": "plante.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-plante.wav",
+  "speaker": "Lepticed7"
+ },
+ "animal": {
+  "file": "animal.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-animal.wav",
+  "speaker": "Lepticed7"
+ },
+ "chien": {
+  "file": "chien.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-chien.wav",
+  "speaker": "Lepticed7"
+ },
+ "chat": {
+  "file": "chat.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-chat.wav",
+  "speaker": "Lepticed7"
+ },
+ "oiseau": {
+  "file": "oiseau.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-oiseau.wav",
+  "speaker": "Lepticed7"
+ },
+ "cheval": {
+  "file": "cheval.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-cheval.wav",
+  "speaker": "Lepticed7"
+ },
+ "vache": {
+  "file": "vache.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-vache.wav",
+  "speaker": "LoquaxFR"
+ },
+ "recycler": {
+  "file": "recycler.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-recycler.wav",
+  "speaker": "LoquaxFR"
+ },
+ "trier": {
+  "file": "trier.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-trier.wav",
+  "speaker": "Lepticed7"
+ },
+ "déchets": {
+  "file": "dechets.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Eihel-déchets.wav",
+  "speaker": "Eihel"
+ },
+ "pollution": {
+  "file": "pollution.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-pollution.wav",
+  "speaker": "WikiLucas00"
+ },
+ "polluer": {
+  "file": "polluer.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lyokoï-polluer.wav",
+  "speaker": "Lyokoï"
+ },
+ "énergie": {
+  "file": "energie.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-énergie.wav",
+  "speaker": "WikiLucas00"
+ },
+ "économiser": {
+  "file": "economiser.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:Fr-économiser.ogg",
+  "speaker": "Wiktionary"
+ },
+ "planète": {
+  "file": "planete.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-planète.wav",
+  "speaker": "Lepticed7"
+ },
+ "écologique": {
+  "file": "ecologique.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-écologique.wav",
+  "speaker": "WikiLucas00"
+ },
+ "à la mode": {
+  "file": "a-la-mode.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-à_la_mode.wav",
+  "speaker": "WikiLucas00"
+ },
+ "orage": {
+  "file": "orage.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-orage.wav",
+  "speaker": "WikiLucas00"
+ },
+ "hiver": {
+  "file": "hiver.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-hiver.wav",
+  "speaker": "WikiLucas00"
+ },
+ "recevoir": {
+  "file": "recevoir.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Pamputt-recevoir.wav",
+  "speaker": "Pamputt"
+ }
+}
