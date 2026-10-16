@@ -63,7 +63,7 @@ const clean = s => s.replace(/\(.*?\)/g, "").replace(/\+ ?infinitif/g, "").repla
 function patterns(it) {
   if (it.kind === "expr") { const t = tokens(exprText(it.fr)).join(" "); return t ? [" " + t + " "] : []; }
   const out = [];
-  for (const part of it.fr.split(/\s*\/\s*/)) {
+  for (const part of it.fr.split(/\s+\/\s+/)) {
     const w = clean(part).replace(ARTICLE, "").toLowerCase(), tk = tokens(w);
     if (!tk.length) continue;
     const first = tk[0].replace(/^(se|s)$/, "");

@@ -100,7 +100,7 @@ THEMES.push({id:"transports", kind:"vocab", icon:"🚆", name:"Transport", fr:"L
 ["l'aéroport (m)","airport","Je vais à l'aéroport.","I'm going to the airport."],
 ["le bateau","boat","On traverse en bateau.","We cross by boat."],
 ["le billet","ticket","Un billet aller-retour, s'il vous plaît.","A return ticket, please."],
-["le ticket","ticket (bus / metro)","Un carnet de tickets de métro.","A book of metro tickets."],
+["le ticket","ticket (bus / metro)","Un ticket de métro, s'il vous plaît.","A metro ticket, please."],
 ["l'aller simple (m)","single ticket","Un aller simple pour Lyon.","A single to Lyon."],
 ["l'aller-retour (m)","return ticket","Combien coûte l'aller-retour ?","How much is a return?"],
 ["l'horaire (m)","timetable","Je regarde les horaires des trains.","I'm checking the train times."],
@@ -191,7 +191,7 @@ THEMES.push({id:"meteo", kind:"vocab", icon:"🌦️", name:"Weather & seasons",
 
 THEMES.push({id:"temps", kind:"vocab", icon:"📅", name:"Time, days & dates", fr:"Le temps & les dates", items:[
 ["lundi","Monday","Je travaille le lundi.","I work on Mondays."],
-["mardi","Tuesday","On se voit mardi ?","See you Tuesday?"],
+["mardi","Tuesday","On se voit mardi ?","Shall we meet on Tuesday?"],
 ["mercredi","Wednesday","Le mercredi, les enfants n'ont pas école.","On Wednesdays the children don't have school."],
 ["jeudi","Thursday","Jeudi, j'ai un rendez-vous.","On Thursday I have an appointment."],
 ["vendredi","Friday","Vendredi soir, on sort.","On Friday evening we're going out."],

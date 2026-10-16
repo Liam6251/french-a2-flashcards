@@ -50,7 +50,8 @@ fetch("audio/index.json").then(r => r.json()).then(j => { AUDIO = j; if (!$("vie
 const player = new Audio();
 let playingBtn = null;
 function setPlaying(btn){ if (playingBtn) playingBtn.classList.remove("playing"); playingBtn = btn; if (btn) btn.classList.add("playing"); }
-function stopAll(){ player.pause(); player.onended = player.onerror = null; if ("speechSynthesis" in window) speechSynthesis.cancel(); setPlaying(null); }
+let playId = 0;   // bumped on every stop, so callbacks from cancelled audio/speech don't continue
+function stopAll(){ playId++; player.pause(); player.onended = player.onerror = null; if ("speechSynthesis" in window) speechSynthesis.cancel(); setPlaying(null); }
 const frVoices = () => ("speechSynthesis" in window) ? speechSynthesis.getVoices().filter(v => /^fr/i.test(v.lang)) : [];
 function bestVoice(){
   const vs = frVoices(); if (S.voice) { const v = vs.find(v => v.name === S.voice); if (v) return v; }
@@ -58,25 +59,40 @@ function bestVoice(){
   return vs.sort((a, b) => rank(b) - rank(a))[0];
 }
 const speakable = s => s.replace(/\(e\)s?/g, "").replace(/\(.*?\)/g, "").replace(/\+ ?infinitif/g, "").replace(/…/g, " ").replace(/\s\/\s/g, ", ");
+// Long texts are read sentence by sentence: Chrome stops a single utterance after ~15 seconds.
 function tts(text, btn){
   stopAll(); if (!("speechSynthesis" in window)) return toast("No voice available on this device");
+  const chunks = text.split(/(?<=[.!?…])\s+|\n+/).map(s => s.trim()).filter(Boolean);
+  setPlaying(btn); let k = 0; const id = playId;
+  const next = () => { if (id !== playId) return; if (k >= chunks.length) return setPlaying(null); speechSynthesis.speak(utterance(chunks[k++], next)); };
+  next();
+}
+function utterance(text, onend){
   const u = new SpeechSynthesisUtterance(speakable(text));
   u.lang = "fr-FR"; u.rate = S.rate < 1 ? .7 : .92; const v = bestVoice(); if (v) u.voice = v;
-  setPlaying(btn); u.onend = u.onerror = () => setPlaying(null);
-  speechSynthesis.speak(u);
+  u.onend = u.onerror = onend; return u;
 }
-function playFiles(files, btn, fallbackText){
-  stopAll(); let k = 0; setPlaying(btn);
+// Plays parts in order: a file name (native recording) or {t: "text"} (device voice, for a form nobody has recorded).
+function playFiles(parts, btn, fallbackText){
+  stopAll(); let k = 0; setPlaying(btn); const id = playId;
   const next = () => {
-    if (k >= files.length) { setPlaying(null); return; }
-    player.src = "audio/" + files[k++]; player.playbackRate = S.rate; player.play().catch(fail);
+    if (id !== playId) return;
+    if (k >= parts.length) { setPlaying(null); return; }
+    const p = parts[k++];
+    if (typeof p === "object") {
+      if (!("speechSynthesis" in window)) return next();
+      speechSynthesis.speak(utterance(p.t, () => setTimeout(next, 150)));
+      return;
+    }
+    player.onended = () => setTimeout(next, 250); player.onerror = fail;
+    player.src = "audio/" + p; player.playbackRate = S.rate; player.play().catch(fail);
   };
-  const fail = () => { player.onended = player.onerror = null; fallbackText ? tts(fallbackText, btn) : setPlaying(null); };
-  player.onended = () => setTimeout(next, 250); player.onerror = fail; next();
+  const fail = () => { if (id !== playId) return; player.onended = player.onerror = null; fallbackText ? tts(fallbackText, btn) : setPlaying(null); };
+  next();
 }
 function playCard(c, btn){ const a = AUDIO[c.key]; a?.w?.length ? playFiles(a.w, btn, c.fr) : tts(c.fr, btn); }
 function playNative(c, btn){ const s = AUDIO[c.key]?.s; if (s) playFiles([s.f], btn, s.t); }
-function preload(c){ const a = c && AUDIO[c.key]; if (!a) return; [...(a.w || []), ...(a.s ? [a.s.f] : [])].forEach(f => { const x = new Audio(); x.preload = "auto"; x.src = "audio/" + f; }); }
+function preload(c){ const a = c && AUDIO[c.key]; if (!a) return; [...(a.w || []), ...(a.s ? [a.s.f] : [])].filter(f => typeof f === "string").forEach(f => { const x = new Audio(); x.preload = "auto"; x.src = "audio/" + f; }); }
 function populateVoices(){
   const vs = frVoices(), best = bestVoice();
   $("voice").innerHTML = vs.length ? vs.map(v => `<option ${v.name === (S.voice || best?.name) ? "selected" : ""}>${esc(v.name)}</option>`).join("") : `<option>No French voice on this device</option>`;
@@ -138,8 +154,10 @@ function openDeck(id, mode){
   build(false, mode === "due");
   showView("study");
 }
-function build(shuffle, dueOnly){
-  const cs = scopeCards(deckId), m = S.mode, d = today();
+let dueOnly = false;   // "Review due" session: no new cards, even after shuffling
+function build(shuffle, dueOnlyArg){
+  if (dueOnlyArg !== undefined) dueOnly = dueOnlyArg;
+  const cs = scopeCards(deckId), m = S.mode;
   if (deckId.startsWith("card:")) deck = cs;
   else if (m === "smart") {
     const dueC = cs.filter(due).sort((a, b) => prog[a.id].d - prog[b.id].d || prog[a.id].b - prog[b.id].b);
@@ -154,8 +172,12 @@ function build(shuffle, dueOnly){
   i = 0; reviewed = 0; renderCard(true);
 }
 const mix = a => { a = a.slice(); for (let k = a.length - 1; k > 0; k--) { const j = Math.random() * (k + 1) | 0; [a[k], a[j]] = [a[j], a[k]]; } return a; };
-const gender = fr => /^le |^un |\(m\b|\(m pl/.test(fr) ? "m" : /^la |^une |\(f\b|\(f pl/.test(fr) ? "f" : "";
-const fmtFr = fr => esc(fr).replace(/^(le|la|les|l&#39;|l')(\s?)/, (m, a, s) => `<span class="art-${gender(fr) || "m"}">${a}</span>${s}`);
+const gender1 = fr => /^le |\(m\)|\(m pl\)/.test(fr) ? "m" : /^la |\(f\)|\(f pl\)/.test(fr) ? "f" : "";
+// "le cousin / la cousine" or "l'ami / l'amie" have both genders: no single label
+const gender = fr => { const g = [...new Set(fr.split(/\s+\/\s+/).map(gender1))]; return g.length === 1 ? g[0] : ""; };
+// colour each article by its own gender
+const fmtFr = fr => fr.split(/\s+\/\s+/).map(p => esc(p).replace(/^(les|le|la|l')(\s?)(?=\S)/, (m, a, s) => {
+  const g = gender1(p) || (a === "le" ? "m" : a === "la" ? "f" : ""); return g ? `<span class="art-${g}">${a}</span>${s}` : m; })).join(" / ");
 const sizeClass = s => s.length > 26 ? "word long" : "word";
 
 function renderCard(anim){
@@ -221,7 +243,7 @@ function check(){
   if (!deck.length) return;
   const c = deck[i], target = S.dir === "fr" ? c.en : c.fr, a = norm($("answer").value);
   if (!a) return;
-  const ok = target.split(/\s*\/\s*/).some(t => { t = norm(t); return t === a || (a.length > 2 && (t.includes(a) || a.includes(t))); });
+  const ok = target.split(/\s+\/\s+/).some(t => { t = norm(t); return t === a || (a.length > 2 && (t.includes(a) || a.includes(t))); });
   $("fb").textContent = ok ? "✓ Correct!" : "✗ Answer: " + target;
   $("fb").style.color = ok ? "var(--good)" : "var(--bad)";
   if (!flipped) flip();
@@ -238,7 +260,7 @@ $("playNat").onclick = e => playNative(deck[i], e.currentTarget);
 $("star").onclick = () => { const c = deck[i]; stars[c.id] = stars[c.id] ? 0 : 1; if (!stars[c.id]) delete stars[c.id]; saveProg(); $("star").classList.toggle("on", !!stars[c.id]); };
 $("conjLink").onclick = () => { showView("verbs"); selectVerb(findVerb(deck[i].fr).v); };
 $("shuffle").onclick = () => build(true);
-$("mode").onchange = e => { S.mode = e.target.value; save(); build(); };
+$("mode").onchange = e => { S.mode = e.target.value; save(); build(false, false); };
 $("quizBtn").onclick = () => { S.quiz = !S.quiz; save(); syncUI(); renderCard(); };
 $("dirBtn").onclick = () => { S.dir = S.dir === "fr" ? "en" : "fr"; save(); syncUI(); renderCard(true); };
 $("check").onclick = check;
@@ -294,7 +316,8 @@ $("vqTenses").onclick = e => { const b = e.target.closest("[data-vqt]"); if (!b)
 function newVq(){
   const v = VERBS[Math.random() * VERBS.length | 0], t = vqTenses[Math.random() * vqTenses.length | 0], p = Math.random() * 6 | 0;
   const [pr, stem, end] = conjugateVerb(v)[t][p], tn = TENSES.find(x => x[0] === t)[1];
-  vq = { v, t, p, answer: (pr + stem + end).replace(/\(e\)s?/, "").trim() };
+  // answer = what to compare against; shown = with the agreement marks, e.g. "nous sommes parti(e)s"
+  vq = { v, t, p, answer: (pr + stem + end).replace(/\(e\)s?/, "").trim(), shown: (pr + stem + end).trim() };
   $("vqPrompt").innerHTML = `<span>${esc(v.v)}</span> · ${tn} · ${esc(SUBJ[p])} <small style="color:var(--muted);font-weight:600">(${esc(v.en)})</small>`;
   $("vqInput").value = ""; $("vqFb").textContent = ""; $("vqStreak").textContent = vqStreak ? `🔥 ${vqStreak} in a row` : "";
 }
@@ -302,10 +325,13 @@ const vnorm = s => s.toLowerCase().replace(/[’]/g, "'").replace(/\(e\)s?/g, ""
 function checkVq(){
   if (!vq) return; const a = vnorm($("vqInput").value); if (!a) return;
   const strict = vnorm(vq.answer), loose = s => s.normalize("NFD").replace(/[̀-ͯ]/g, "");
-  const ok = a === strict || a.replace(/^(je|j'|tu|x|nous|vous) ?/, "") === strict.replace(/^(je|j'|tu|x|nous|vous) ?/, "");
+  const bare = s => s.replace(/^(je|j'|tu|x|nous|vous) ?/, "");
+  // with être the participle agrees: accept allé, allée, allés, allées
+  const agreed = vq.t === "passe" && conjugateVerb(vq.v).info.aux === "être" ? ["", "e", "s", "es"] : [""];
+  const ok = agreed.some(x => a === strict + x || bare(a) === bare(strict) + x);
   const nearly = !ok && loose(a).replace(/^(je|j'|tu|x|nous|vous) ?/, "") === loose(strict).replace(/^(je|j'|tu|x|nous|vous) ?/, "");
   vqStreak = ok ? vqStreak + 1 : 0;
-  $("vqFb").innerHTML = ok ? `✓ Correct! <b>${esc(vq.answer)}</b>` : nearly ? `≈ Almost, check the accents: <b>${esc(vq.answer)}</b>` : `✗ Answer: <b>${esc(vq.answer)}</b>`;
+  $("vqFb").innerHTML = ok ? `✓ Correct! <b>${esc(vq.shown)}</b>` : nearly ? `≈ Almost, check the accents: <b>${esc(vq.shown)}</b>` : `✗ Answer: <b>${esc(vq.shown)}</b>`;
   $("vqFb").style.color = ok ? "var(--good)" : nearly ? "var(--warn)" : "var(--bad)";
   tts(vq.answer, null); vq.done = true;
   $("vqStreak").textContent = vqStreak ? `🔥 ${vqStreak} in a row` : "";

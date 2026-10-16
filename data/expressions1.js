@@ -79,7 +79,7 @@ THEMES.push({id:"questions", kind:"expr", icon:"❓", name:"Asking for informati
 ["Quand est-ce que… ?","When…?","Quand est-ce que le magasin ouvre ?","When does the shop open?"],
 ["Pourquoi… ?","Why…?","Pourquoi tu ne viens pas ?","Why aren't you coming?"],
 ["Comment… ?","How…?","Comment on va au musée ?","How do you get to the museum?"],
-["Combien de… ?","How many…?","Combien de temps dure le voyage ?","How long does the journey take?"],
+["Combien de… ?","How many…?","Combien de personnes viennent ce soir ?","How many people are coming tonight?"],
 ["Qui… ?","Who…?","Qui est cette femme ?","Who is that woman?"],
 ["Quel / Quelle… ?","Which… / What…?","Quelle est votre adresse ?","What is your address?"],
 ["Est-ce que… ?","(turns a sentence into a question)","Est-ce que vous avez une chambre libre ?","Do you have a room free?"],
@@ -88,7 +88,7 @@ THEMES.push({id:"questions", kind:"expr", icon:"❓", name:"Asking for informati
 ["Vous avez… ?","Do you have…?","Vous avez ce modèle en bleu ?","Do you have this model in blue?"],
 ["C'est ouvert le dimanche ?","Is it open on Sundays?","Le musée, c'est ouvert le dimanche ?","Is the museum open on Sundays?"],
 ["Ça dure combien de temps ?","How long does it last?","La visite, ça dure combien de temps ?","How long does the tour last?"],
-["Je voudrais savoir…","I'd like to know…","Je voudrais savoir les horaires d'ouverture.","I'd like to know the opening hours."],
+["Je voudrais savoir…","I'd like to know…","Je voudrais savoir à quelle heure le musée ouvre.","I'd like to know what time the museum opens."],
 ["Pouvez-vous me dire… ?","Can you tell me…?","Pouvez-vous me dire où sont les toilettes ?","Can you tell me where the toilets are?"]
 ]});
 
@@ -145,7 +145,7 @@ THEMES.push({id:"accepter", kind:"expr", icon:"✅", name:"Accepting & refusing"
 ["Je dois travailler.","I have to work.","Je ne peux pas venir, je dois travailler.","I can't come, I have to work."],
 ["Ça ne me dit rien.","I don't fancy it.","Le cinéma ? Ça ne me dit rien ce soir.","The cinema? I don't fancy it tonight."],
 ["Je n'ai pas le temps.","I don't have time.","Désolé, je n'ai pas le temps aujourd'hui.","Sorry, I don't have time today."],
-["Je ne sais pas encore.","I don't know yet.","Je ne sais pas encore, je te dis demain.","I don't know yet, I'll tell you tomorrow."],
+["Je ne sais pas encore.","I don't know yet.","Je ne sais pas encore, je te dirai demain.","I don't know yet, I'll tell you tomorrow."],
 ["Peut-être.","Maybe.","Tu viens ? — Peut-être, je vais voir.","Are you coming? — Maybe, I'll see."],
 ["Merci quand même !","Thanks anyway!","Je ne peux pas, mais merci quand même !","I can't, but thanks anyway!"]
 ]});
@@ -221,10 +221,10 @@ THEMES.push({id:"reactions", kind:"expr", icon:"😮", name:"Feelings & reaction
 THEMES.push({id:"excuses", kind:"expr", icon:"😔", name:"Apologising & explaining", fr:"S'excuser & se justifier", items:[
 ["Je suis désolé(e).","I'm sorry.","Je suis désolé, je suis en retard.","I'm sorry, I'm late."],
 ["Excusez-moi pour…","Sorry for…","Excusez-moi pour le retard.","Sorry for the delay."],
-["Pardon, je ne l'ai pas fait exprès.","Sorry, I didn't do it on purpose.","Pardon, je ne l'ai pas fait exprès !","Sorry, I didn't do it on purpose!"],
+["Pardon, je ne l'ai pas fait exprès.","Sorry, I didn't do it on purpose.","Oh, ton verre ! Pardon, je ne l'ai pas fait exprès.","Oh, your glass! Sorry, I didn't do it on purpose."],
 ["C'est de ma faute.","It's my fault.","Désolé, c'est de ma faute.","Sorry, it's my fault."],
 ["Je n'ai pas pu…","I couldn't…","Je n'ai pas pu venir hier.","I couldn't come yesterday."],
-["parce que…","because…","Je suis en retard parce que le bus est en panne.","I'm late because the bus broke down."],
+["parce que…","because…","Je suis en retard parce que le bus est en panne.","I'm late because the bus has broken down."],
 ["à cause de…","because of… (negative)","Je suis en retard à cause des embouteillages.","I'm late because of the traffic."],
 ["grâce à…","thanks to… (positive)","J'ai réussi grâce à toi.","I passed thanks to you."],
 ["J'ai oublié.","I forgot.","Désolé, j'ai complètement oublié !","Sorry, I completely forgot!"],
@@ -244,7 +244,7 @@ THEMES.push({id:"telephone", kind:"expr", icon:"☎️", name:"On the phone", fr
 ["Je vous le / la passe.","I'll put you through.","Un instant, je vous le passe.","One moment, I'll put you through."],
 ["Il / Elle n'est pas là.","He / She isn't here.","Désolé, elle n'est pas là ce matin.","Sorry, she isn't here this morning."],
 ["Vous voulez laisser un message ?","Would you like to leave a message?","Il est absent. Vous voulez laisser un message ?","He's out. Would you like to leave a message?"],
-["Pouvez-vous lui dire de me rappeler ?","Can you ask him / her to call me back?","Pouvez-vous lui dire de me rappeler ?","Can you ask him to call me back?"],
+["Pouvez-vous lui dire de me rappeler ?","Can you ask him / her to call me back?","Il n'est pas là ? Pouvez-vous lui dire de me rappeler ?","He isn't in? Can you ask him to call me back?"],
 ["Je rappellerai plus tard.","I'll call back later.","Merci, je rappellerai plus tard.","Thanks, I'll call back later."],
 ["Vous vous êtes trompé(e) de numéro.","You've got the wrong number.","Désolé, vous vous êtes trompé de numéro.","Sorry, you've got the wrong number."],
 ["Je t'entends mal.","I can't hear you well.","Allô ? Je t'entends mal !","Hello? I can't hear you well!"],

@@ -194,16 +194,6 @@
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-ami.wav",
   "speaker": "LoquaxFR"
  },
- "amie": {
-  "file": "amie.mp3",
-  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-0x010C-amie.wav",
-  "speaker": "0x010C"
- },
- "enfant": {
-  "file": "enfant.mp3",
-  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-enfant.wav",
-  "speaker": "Lepticed7"
- },
  "ville": {
   "file": "ville.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-ville.wav",
@@ -384,20 +374,10 @@
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-fatigué.wav",
   "speaker": "LoquaxFR"
  },
- "fatiguée": {
-  "file": "fatiguee.mp3",
-  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-fatiguée.wav",
-  "speaker": "WikiLucas00"
- },
  "cher": {
   "file": "cher.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-cher.wav",
   "speaker": "Lepticed7"
- },
- "chère": {
-  "file": "chere.mp3",
-  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Pamputt-chère.wav",
-  "speaker": "Pamputt"
  },
  "prochain": {
   "file": "prochain.mp3",
@@ -599,13 +579,11 @@
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-ça_va.wav",
   "speaker": "LoquaxFR"
  },
- "Ça va bien, merci": null,
  "Pas mal": {
   "file": "pas-mal.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-pas_mal.wav",
   "speaker": "LoquaxFR"
  },
- "Et vous": null,
  "Au revoir": {
   "file": "au-revoir.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-au_revoir.wav",
@@ -641,7 +619,6 @@
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-bonne_soirée.wav",
   "speaker": "LoquaxFR"
  },
- "Bon week-end": null,
  "Bonne nuit": {
   "file": "bonne-nuit.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-bonne_nuit.wav",
@@ -672,7 +649,6 @@
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-bon_courage.wav",
   "speaker": "Poslovitch"
  },
- "Amuse-toi bien": null,
  "S’il vous plaît": {
   "file": "sil-vous-plait.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-s’il_vous_plaît.wav",
@@ -688,9 +664,6 @@
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-merci_beaucoup.wav",
   "speaker": "LoquaxFR"
  },
- "Merci pour tout": null,
- "Je vous remercie": null,
- "C’est très gentil": null,
  "De rien": {
   "file": "de-rien.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-de_rien.wav",
@@ -716,9 +689,6 @@
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-pardon.wav",
   "speaker": "LoquaxFR"
  },
- "Je voudrais": null,
- "Est-ce que je pourrais": null,
- "Pourriez-vous": null,
  "Avec plaisir": {
   "file": "avec-plaisir.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-avec_plaisir.wav",
@@ -729,44 +699,21 @@
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-volontiers.wav",
   "speaker": "WikiLucas00"
  },
- "Après vous": null,
- "Servez-vous": null,
- "Je m’appelle": null,
- "J’ai ans": null,
- "Je suis anglais": null,
- "Je viens de": null,
- "J’habite à": null,
- "Je travaille comme": null,
- "Je suis marié et j’ai enfants": null,
- "J’apprends le français depuis": null,
- "J’aime n’aime pas": null,
- "Je vous présente": null,
- "Je te présente": null,
- "Vous vous appelez comment": null,
- "Tu t’appelles comment": null,
- "Vous êtes d’où": null,
- "Vous parlez anglais": null,
- "On se tutoie": null,
- "Ravi de vous rencontrer": null,
  "Qu’est-ce que c’est": {
   "file": "quest-ce-que-cest.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Jérémy-Günther-Heinz_Jähnick-qu’est-ce_que_c’est.wav",
   "speaker": "Jérémy-Günther-Heinz Jähnick-qu’est"
  },
- "C’est combien": null,
  "Il y a": {
   "file": "il-y-a.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Jérémy-Günther-Heinz_Jähnick-il_y_a.wav",
   "speaker": "Jérémy-Günther-Heinz Jähnick"
  },
- "Où est": null,
  "À quelle heure": {
   "file": "a-quelle-heure.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-à_quelle_heure.wav",
   "speaker": "LoquaxFR"
  },
- "Quand est-ce que": null,
- "Combien de": null,
  "Qui": {
   "file": "qui.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-qui.wav",
@@ -782,58 +729,21 @@
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lyokoï-est-ce_que.wav",
   "speaker": "Lyokoï-est"
  },
- "Est-ce que vous pouvez m’aider": null,
- "Je cherche": null,
- "Vous avez": null,
- "C’est ouvert le dimanche": null,
- "Ça dure combien de temps": null,
- "Je voudrais savoir": null,
- "Pouvez-vous me dire": null,
- "Je ne comprends pas": null,
- "Pouvez-vous répéter, s’il vous plaît": null,
- "Plus lentement, s’il vous plaît": null,
- "Qu’est-ce que ça veut dire": null,
- "Comment on dit en français": null,
- "Comment ça s’écrit": null,
- "Vous pouvez épeler": null,
- "Je ne sais pas": null,
- "Je ne suis pas sûr": null,
- "J’ai compris": null,
  "C’est-à-dire": {
   "file": "cest-a-dire.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Pamputt-c'est-à-dire.wav",
   "speaker": "Pamputt-c'est-à"
  },
- "Vous voulez dire que": null,
  "Comment": {
   "file": "comment.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-comment.wav",
   "speaker": "Lepticed7"
  },
- "Je cherche le mot": null,
- "C’est un truc pour": null,
- "Tu es libre samedi": null,
- "Ça te dit de": null,
- "Tu veux venir": null,
- "Je t’invite à": null,
- "J’aimerais vous inviter à": null,
- "On pourrait": null,
- "Et si on allait": null,
  "Pourquoi pas": {
   "file": "pourquoi-pas.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Jérémy-Günther-Heinz_Jähnick-pourquoi_pas.wav",
   "speaker": "Jérémy-Günther-Heinz Jähnick"
  },
- "Je te propose de": null,
- "Ça te tente": null,
- "On se retrouve où": null,
- "On se retrouve à quelle heure": null,
- "Rendez-vous à devant": null,
- "N’hésite pas à venir avec": null,
- "Dis-moi si tu peux venir": null,
- "Réponds-moi avant": null,
- "Oui, avec plaisir": null,
- "Bonne idée": null,
  "D’accord": {
   "file": "daccord.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-d’accord.wav",
@@ -844,17 +754,6 @@
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-ça_marche.wav",
   "speaker": "LoquaxFR"
  },
- "Je veux bien": null,
- "C’est une excellente idée": null,
- "Je viendrai avec plaisir": null,
- "Malheureusement, je ne suis pas libre": null,
- "C’est dommage": null,
- "Une autre fois, peut-être": null,
- "J’ai déjà quelque chose de prévu": null,
- "Je dois travailler": null,
- "Ça ne me dit rien": null,
- "Je n’ai pas le temps": null,
- "Je ne sais pas encore": null,
  "Peut-être": {
   "file": "peut-etre.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-peut-être.wav",
@@ -865,23 +764,6 @@
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-merci_quand_même.wav",
   "speaker": "LoquaxFR"
  },
- "J’adore": null,
- "J’aime beaucoup": null,
- "J’aime bien": null,
- "Je n’aime pas beaucoup": null,
- "Je n’aime pas du tout": null,
- "Je déteste": null,
- "Je préfère": null,
- "Ce que je préfère, c’est": null,
- "Mon préféré, c’est": null,
- "Je suis passionné de": null,
- "Ça me plaît": null,
- "Ça ne me plaît pas": null,
- "Je trouve ça": null,
- "Moi aussi": null,
- "Moi non plus": null,
- "Moi, si": null,
- "Ça dépend": null,
  "Ça m’est égal": {
   "file": "ca-mest-egal.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-ça_m’est_égal.wav",
@@ -892,41 +774,21 @@
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-à_mon_avis.wav",
   "speaker": "LoquaxFR"
  },
- "Je pense que": null,
- "Je crois que": null,
- "Je trouve que": null,
- "Pour moi": null,
- "Selon moi": null,
- "Je suis d’accord": null,
- "Je ne suis pas d’accord": null,
- "Je suis tout à fait d’accord": null,
  "Tu as raison": {
   "file": "tu-as-raison.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-tu_as_raison.wav",
   "speaker": "LoquaxFR"
  },
- "Tu as tort": null,
- "C’est vrai": null,
- "Ce n’est pas vrai": null,
  "Bien sûr": {
   "file": "bien-sur.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-bien_sûr.wav",
   "speaker": "WikiLucas00"
  },
- "Pas du tout": null,
  "Exactement": {
   "file": "exactement.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-exactement.wav",
   "speaker": "WikiLucas00"
  },
- "L’avantage, c’est que": null,
- "L’inconvénient, c’est que": null,
- "D’un côté de l’autre": null,
- "Il faut": null,
- "C’est mieux de": null,
- "Je suis content que": null,
- "Je suis ravi de": null,
- "Quelle bonne nouvelle": null,
  "Génial": {
   "file": "genial.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-génial.wav",
@@ -937,27 +799,16 @@
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-super.wav",
   "speaker": "LoquaxFR"
  },
- "Quelle chance": null,
- "Ça me fait plaisir": null,
- "J’ai hâte de": null,
  "Oh là là": {
   "file": "oh-la-la.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-oh_là_là.wav",
   "speaker": "LoquaxFR"
  },
- "Quel dommage": null,
- "Je suis désolé pour": null,
- "J’en ai marre": null,
- "Ça m’énerve": null,
- "Je m’inquiète pour": null,
- "Ne t’inquiète pas": null,
  "Ce n’est pas grave": {
   "file": "ce-nest-pas-grave.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-ce_n’est_pas_grave.wav",
   "speaker": "LoquaxFR"
  },
- "Quelle surprise": null,
- "C’est incroyable": null,
  "Tant mieux": {
   "file": "tant-mieux.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-tant_mieux.wav",
@@ -968,10 +819,6 @@
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-tant_pis.wav",
   "speaker": "WikiLucas00"
  },
- "Je suis désolé": null,
- "Excusez-moi pour": null,
- "C’est de ma faute": null,
- "Je n’ai pas pu": null,
  "à cause de": {
   "file": "a-cause-de.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Yug-à_cause_de.wav",
@@ -982,60 +829,26 @@
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-grâce_à.wav",
   "speaker": "LoquaxFR"
  },
- "J’ai oublié": null,
- "Ne vous inquiétez pas": null,
  "Ça arrive": {
   "file": "ca-arrive.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-ça_arrive.wav",
   "speaker": "LoquaxFR"
  },
- "Je ne recommencerai pas": null,
- "Je vous prie de m’excuser": null,
  "Allô": {
   "file": "allo.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-allô.wav",
   "speaker": "LoquaxFR"
  },
- "C’est à l’appareil": null,
- "Qui est à l’appareil": null,
- "Je voudrais parler à": null,
- "Ne quittez pas": null,
- "Je vous le passe": null,
- "Il n’est pas là": null,
- "Vous voulez laisser un message": null,
- "Pouvez-vous lui dire de me rappeler": null,
- "Je rappellerai plus tard": null,
- "Vous vous êtes trompé de numéro": null,
- "Je t’entends mal": null,
- "Ça a coupé": null,
- "Je t’appelle pour": null,
- "Je vous appelle au sujet de": null,
- "Bonne journée, au revoir": null,
- "Cher Paul": null,
- "Salut tout le monde": null,
  "Madame, Monsieur": {
   "file": "madame-monsieur.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-Madame,_Monsieur.wav",
   "speaker": "LoquaxFR"
  },
- "Je t’écris pour": null,
- "Je vous écris pour": null,
  "Comment vas-tu": {
   "file": "comment-vas-tu.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-comment_vas-tu.wav",
   "speaker": "Lepticed7-comment vas"
  },
- "J’espère que tu vas bien": null,
- "Merci pour ton message": null,
- "J’ai bien reçu": null,
- "Je te raconte": null,
- "Je voudrais savoir si": null,
- "Pourriez-vous m’envoyer": null,
- "Je te remercie pour": null,
- "Réponds-moi vite": null,
- "Dans l’attente de votre réponse": null,
- "Bises bises": null,
- "Je t’embrasse": null,
  "Amicalement": {
   "file": "amicalement.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-amicalement.wav",
@@ -1046,94 +859,21 @@
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-cordialement.wav",
   "speaker": "Lepticed7"
  },
- "P.-S": null,
- "l’objet": null,
- "la pièce jointe": null,
- "Je peux vous aider": null,
- "Je regarde, merci": null,
- "Vous l’avez en": null,
- "Je peux l’essayer": null,
- "Ça me va": null,
- "C’est trop grand petit": null,
- "Combien ça coûte": null,
- "Je le prends": null,
- "C’est un peu cher": null,
- "Vous avez moins cher": null,
- "Je peux payer par carte": null,
  "Et avec ceci": {
   "file": "et-avec-ceci.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Jérémy-Günther-Heinz_Jähnick-et_avec_ceci.wav",
   "speaker": "Jérémy-Günther-Heinz Jähnick"
  },
- "C’est tout, merci": null,
- "Vous pouvez faire un paquet-cadeau": null,
- "Je voudrais échanger cet article": null,
- "Il est abîmé": null,
  "Gardez la monnaie": {
   "file": "gardez-la-monnaie.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-gardez_la_monnaie.wav",
   "speaker": "LoquaxFR"
  },
- "J’ai réservé au nom de": null,
- "Vous avez choisi": null,
- "Je vais prendre": null,
- "Comme entrée": null,
- "Qu’est-ce que vous me conseillez": null,
- "Qu’est-ce qu’il y a dans": null,
- "Je suis allergique à": null,
- "Je ne mange pas de": null,
- "Et comme boisson": null,
- "Une carafe d’eau, s’il vous plaît": null,
- "C’était délicieux": null,
- "Tout s’est bien passé": null,
  "L’addition, s’il vous plaît": {
   "file": "laddition-sil-vous-plait.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Jérémy-Günther-Heinz_Jähnick-l’addition,_s’il_vous_plaît.wav",
   "speaker": "Jérémy-Günther-Heinz Jähnick"
  },
- "Le service est compris": null,
- "On partage": null,
- "C’est moi qui invite": null,
- "Un café, s’il vous plaît": null,
- "Pour aller à, s’il vous plaît": null,
- "C’est loin d’ici": null,
- "C’est à combien de minutes": null,
- "C’est à minutes à pied": null,
- "Allez tout droit": null,
- "Tournez à droite gauche": null,
- "Prenez la première rue à droite": null,
- "Traversez": null,
- "Continuez jusqu’à": null,
- "C’est sur votre droite": null,
- "Vous ne pouvez pas le rater": null,
- "Je suis perdu": null,
- "Il faut prendre le bus numéro": null,
- "Je ne suis pas d’ici": null,
- "Je voudrais réserver": null,
- "Vous avez une chambre libre": null,
- "C’est complet": null,
- "pour deux personnes": null,
- "du au": null,
- "Le petit-déjeuner est compris": null,
- "C’est combien la nuit": null,
- "Il y a le wifi": null,
- "J’ai une réservation au nom de": null,
- "Je voudrais annuler ma réservation": null,
- "Je voudrais confirmer": null,
- "La douche ne marche pas": null,
- "avec vue sur la mer": null,
- "Je voudrais prendre rendez-vous": null,
- "Qu’est-ce qui ne va pas": null,
- "Ça fait mal ici": null,
- "Depuis quand": null,
- "Depuis jours": null,
- "Je ne me sens pas bien": null,
- "J’ai de la fièvre": null,
- "Je suis enrhumé": null,
- "Je prends des médicaments": null,
- "Il faut vous reposer": null,
- "Prenez ce médicament fois par jour": null,
- "Appelez le 15! 112": null,
  "Au secours": {
   "file": "au-secours.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-au_secours.wav",
@@ -1159,8 +899,6 @@
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-enfin.wav",
   "speaker": "Lepticed7"
  },
- "Le week-end dernier": null,
- "Il y a deux ans": null,
  "Un jour": {
   "file": "un-jour.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-un_jour.wav",
@@ -1171,53 +909,21 @@
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-GrandCelinien-tout_à_coup.wav",
   "speaker": "GrandCelinien"
  },
- "Quand j’étais petit": null,
- "Avant, je": null,
- "Pendant les vacances": null,
  "C’était": {
   "file": "cetait.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Jérémy-Günther-Heinz_Jähnick-c’était.wav",
   "speaker": "Jérémy-Günther-Heinz Jähnick"
  },
- "Il faisait beau": null,
  "Il y avait": {
   "file": "il-y-avait.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Jérémy-Günther-Heinz_Jähnick-il_y_avait.wav",
   "speaker": "Jérémy-Günther-Heinz Jähnick"
  },
- "Je suis allé": null,
- "J’ai passé un très bon séjour": null,
- "On s’est bien amusés": null,
- "Ça s’est bien passé": null,
- "Je vais": null,
- "J’ai l’intention de": null,
- "J’ai envie de": null,
- "Je compte": null,
- "J’espère": null,
- "Mon projet, c’est de": null,
- "L’année prochaine": null,
- "Dans ans": null,
- "Je suis sur le point de": null,
- "Si j’ai le temps": null,
- "S’il fait beau": null,
- "Tu devrais": null,
- "Vous devriez": null,
- "Je te conseille de": null,
- "À ta place, je": null,
  "Il vaut mieux": {
   "file": "il-vaut-mieux.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-il_vaut_mieux.wav",
   "speaker": "WikiLucas00"
  },
- "N’oublie pas de": null,
- "Fais attention": null,
- "Pourquoi tu ne pas": null,
- "Je ne suis pas satisfait": null,
- "Il y a un problème avec": null,
- "Ce n’est pas normal": null,
- "Je voudrais être remboursé": null,
- "Je voudrais parler au responsable": null,
- "Ça ne marche pas": null,
  "et": {
   "file": "et.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-et.wav",
@@ -1253,7 +959,6 @@
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-DenisdeShawi-par_contre.wav",
   "speaker": "DenisdeShawi"
  },
- "en plus": null,
  "par exemple": {
   "file": "par-exemple.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Pamputt-par_exemple.wav",
@@ -1294,17 +999,6 @@
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-avoir_besoin_de.wav",
   "speaker": "LoquaxFR"
  },
- "avoir envie de": {
-  "file": "avoir-envie-de.mp3",
-  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-avoir_envie.wav",
-  "speaker": "LoquaxFR"
- },
- "avoir l’habitude de": {
-  "file": "avoir-lhabitude-de.mp3",
-  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-avoir_l’habitude.wav",
-  "speaker": "LoquaxFR"
- },
- "avoir le temps de": null,
  "avoir de la chance": {
   "file": "avoir-de-la-chance.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-avoir_de_la_chance.wav",
@@ -1330,7 +1024,6 @@
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-faire_attention.wav",
   "speaker": "LoquaxFR"
  },
- "faire une promenade": null,
  "faire la grasse matinée": {
   "file": "faire-la-grasse-matinee.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-faire_la_grasse_matinée.wav",
@@ -1346,18 +1039,11 @@
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-pas_de_souci.wav",
   "speaker": "LoquaxFR"
  },
- "C’est pas grave": null,
- "N’importe quoi": null,
  "Ça y est": {
   "file": "ca-y-est.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-ça_y_est.wav",
   "speaker": "Lepticed7"
  },
- "Tu plaisantes": null,
- "Ça vaut le coup": null,
- "J’en ai besoin": null,
- "J’y vais": null,
- "On y va": null,
  "Vas-y": {
   "file": "vas-y.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Jérémy-Günther-Heinz_Jähnick-vas-y.wav",
@@ -1368,23 +1054,11 @@
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-ça_suffit.wav",
   "speaker": "LoquaxFR"
  },
- "Ça se voit": null,
- "Quelle heure est-il": null,
- "Lisez le document": null,
- "Écoutez le document": null,
- "Répondez aux questions": null,
- "Cochez la bonne réponse": null,
- "Vrai ou faux": null,
- "Justifiez votre réponse": null,
- "Recopiez": null,
  "Écrivez": {
   "file": "ecrivez.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Pamputt-écrivez.wav",
   "speaker": "Pamputt"
  },
- "Rédigez": null,
- "60 mots minimum": null,
- "Associez": null,
  "Complétez": {
   "file": "completez.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Manestra-complétez.wav",
@@ -1405,15 +1079,6 @@
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-DenisdeShawi-décrivez.wav",
   "speaker": "DenisdeShawi"
  },
- "Vous acceptez l’invitation": null,
- "Vous donnez des détails": null,
- "Vous exprimez vos sentiments": null,
- "Jouez la scène": null,
- "l’examinateur": null,
- "le monologue suivi": null,
- "l’exercice en interaction": null,
- "l’entretien dirigé": null,
- "Présentez-vous": null,
  "nom": {
   "file": "nom.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-nom.wav",
@@ -1438,11 +1103,6 @@
   "file": "ne.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-né.wav",
   "speaker": "LoquaxFR"
- },
- "née": {
-  "file": "nee.mp3",
-  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-née.wav",
-  "speaker": "Lepticed7"
  },
  "nationalité": {
   "file": "nationalite.mp3",
@@ -1504,20 +1164,10 @@
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-marié.wav",
   "speaker": "WikiLucas00"
  },
- "mariée": {
-  "file": "mariee.mp3",
-  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-mariée.wav",
-  "speaker": "Poslovitch"
- },
  "divorcé": {
   "file": "divorce.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-divorcé.wav",
   "speaker": "Lepticed7"
- },
- "divorcée": {
-  "file": "divorcee.mp3",
-  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-divorcée.wav",
-  "speaker": "Poslovitch"
  },
  "s’appeler": {
   "file": "sappeler.mp3",
@@ -1534,7 +1184,6 @@
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-langue.wav",
   "speaker": "Lepticed7"
  },
- "ville natale": null,
  "formulaire": {
   "file": "formulaire.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-formulaire.wav",
@@ -1695,16 +1344,10 @@
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-se_marier.wav",
   "speaker": "Poslovitch"
  },
- "s’entendre bien": null,
  "aîné": {
   "file": "aine.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-aîné.wav",
   "speaker": "LoquaxFR"
- },
- "aînée": {
-  "file": "ainee.mp3",
-  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-aînée.wav",
-  "speaker": "WikiLucas00"
  },
  "cadet": {
   "file": "cadet.mp3",
@@ -1741,20 +1384,10 @@
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-âgé.wav",
   "speaker": "LoquaxFR"
  },
- "âgée": {
-  "file": "agee.mp3",
-  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lyokoï-âgée.wav",
-  "speaker": "Lyokoï"
- },
  "joli": {
   "file": "joli.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-joli.wav",
   "speaker": "LoquaxFR"
- },
- "jolie": {
-  "file": "jolie.mp3",
-  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Le_Commissaire-jolie.wav",
-  "speaker": "Le Commissaire"
  },
  "cheveux": {
   "file": "cheveux.mp3",
@@ -1916,7 +1549,6 @@
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-DenisdeShawi-méchante.wav",
   "speaker": "DenisdeShawi"
  },
- "ressembler à": null,
  "avoir l’air": {
   "file": "avoir-lair.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-avoir_l’air.wav",
@@ -2102,7 +1734,6 @@
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-meublé.wav",
   "speaker": "LoquaxFR"
  },
- "meublée": null,
  "se réveiller": {
   "file": "se-reveiller.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-se_réveiller.wav",
@@ -2128,8 +1759,6 @@
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-s’habiller.wav",
   "speaker": "Poslovitch"
  },
- "se brosser les dents": null,
- "prendre le petit-déjeuner": null,
  "rentrer": {
   "file": "rentrer.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-rentrer.wav",
@@ -2580,26 +2209,15 @@
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Pamputt-épicé.wav",
   "speaker": "Pamputt"
  },
- "épicée": {
-  "file": "epicee.mp3",
-  "source": "https://commons.wikimedia.org/wiki/File:Fr-Paris--épicer.ogg",
-  "speaker": "Wiktionary"
- },
  "sucré": {
   "file": "sucre.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-sucré.wav",
   "speaker": "LoquaxFR"
  },
- "sucrée": null,
  "salé": {
   "file": "sale.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-salé.wav",
   "speaker": "LoquaxFR"
- },
- "salée": {
-  "file": "salee.mp3",
-  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-salée.wav",
-  "speaker": "WikiLucas00"
  },
  "chaud": {
   "file": "chaud.mp3",
@@ -2626,8 +2244,6 @@
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-terrasse.wav",
   "speaker": "LoquaxFR"
  },
- "à emporter": null,
- "sur place": null,
  "supermarché": {
   "file": "supermarche.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-supermarché.wav",
@@ -2698,7 +2314,6 @@
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-bon_marché.wav",
   "speaker": "LoquaxFR"
  },
- "soldes": null,
  "réduction": {
   "file": "reduction.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-réduction.wav",
@@ -2714,7 +2329,6 @@
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lyokoï-carte_bancaire.wav",
   "speaker": "Lyokoï"
  },
- "en espèces": null,
  "monnaie": {
   "file": "monnaie.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-monnaie.wav",
@@ -2740,12 +2354,6 @@
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-panier.wav",
   "speaker": "LoquaxFR"
  },
- "kilo de": null,
- "bouteille de": null,
- "paquet de": null,
- "boîte de": null,
- "morceau de": null,
- "tranche de": null,
  "essayer": {
   "file": "essayer.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-essayer.wav",
@@ -2790,11 +2398,6 @@
   "file": "ferme.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-fermé.wav",
   "speaker": "Lepticed7"
- },
- "fermée": {
-  "file": "fermee.mp3",
-  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-fermée.wav",
-  "speaker": "Poslovitch"
  },
  "vêtements": {
   "file": "vetements.mp3",
@@ -2911,11 +2514,6 @@
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-serré.wav",
   "speaker": "LoquaxFR"
  },
- "serrée": {
-  "file": "serree.mp3",
-  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-serrée.wav",
-  "speaker": "WikiLucas00"
- },
  "couleur": {
   "file": "couleur.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-couleur.wav",
@@ -2950,11 +2548,6 @@
   "file": "bleu.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-bleu.wav",
   "speaker": "Lepticed7"
- },
- "bleue": {
-  "file": "bleue.mp3",
-  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-bleue.wav",
-  "speaker": "LoquaxFR"
  },
  "vert": {
   "file": "vert.mp3",
@@ -3171,7 +2764,6 @@
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lyokoï-au_bout_de.wav",
   "speaker": "Lyokoï"
  },
- "au coin de": null,
  "à pied": {
   "file": "a-pied.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-à_pied.wav",
@@ -3307,7 +2899,6 @@
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-VictorDtmtc-annulé.wav",
   "speaker": "VictorDtmtc"
  },
- "annulée": null,
  "composter": {
   "file": "composter.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-composter.wav",
@@ -3348,7 +2939,6 @@
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-essence.wav",
   "speaker": "LoquaxFR"
  },
- "transports en commun": null,
  "voyage": {
   "file": "voyage.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-voyage.wav",
@@ -3359,7 +2949,6 @@
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-voyager.wav",
   "speaker": "LoquaxFR"
  },
- "partir en vacances": null,
  "valise": {
   "file": "valise.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-valise.wav",
@@ -3440,7 +3029,6 @@
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-visiter.wav",
   "speaker": "Lepticed7"
  },
- "rendre visite à": null,
  "touriste": {
   "file": "touriste.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lyokoï-touriste.wav",
@@ -3461,7 +3049,6 @@
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-DSwissK-appareil_photo.wav",
   "speaker": "DSwissK"
  },
- "prendre des photos": null,
  "se baigner": {
   "file": "se-baigner.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-se_baigner.wav",
@@ -3472,7 +3059,6 @@
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-bronzer.wav",
   "speaker": "WikiLucas00"
  },
- "visite guidée": null,
  "guide": {
   "file": "guide.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-guide.wav",
@@ -3493,20 +3079,11 @@
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-météo.wav",
   "speaker": "Poslovitch"
  },
- "il fait beau": null,
- "il fait mauvais": null,
- "il fait chaud": null,
- "il fait froid": null,
- "il fait doux": null,
  "il pleut": {
   "file": "il-pleut.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Jérémy-Günther-Heinz_Jähnick-il_pleut.wav",
   "speaker": "Jérémy-Günther-Heinz Jähnick"
  },
- "il neige": null,
- "il y a du vent": null,
- "il y a du soleil": null,
- "il y a des nuages": null,
  "soleil": {
   "file": "soleil.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-soleil.wav",
@@ -3577,13 +3154,11 @@
   "source": "https://commons.wikimedia.org/wiki/File:Fr-ensoleillé.ogg",
   "speaker": "Wiktionary"
  },
- "ensoleillée": null,
  "nuageux": {
   "file": "nuageux.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-nuageux.wav",
   "speaker": "LoquaxFR"
  },
- "nuageuse": null,
  "lundi": {
   "file": "lundi.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-lundi.wav",
@@ -3704,9 +3279,6 @@
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-minute.wav",
   "speaker": "Lepticed7"
  },
- "et quart": null,
- "et demie": null,
- "moins le quart": null,
  "midi": {
   "file": "midi.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-midi.wav",
@@ -3727,8 +3299,6 @@
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-après-demain.wav",
   "speaker": "Lepticed7-après"
  },
- "semaine dernière": null,
- "semaine prochaine": null,
  "depuis": {
   "file": "depuis.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-depuis.wav",
@@ -3769,8 +3339,6 @@
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-rarement.wav",
   "speaker": "WikiLucas00"
  },
- "tous les jours": null,
- "fois par semaine": null,
  "zéro": {
   "file": "zero.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-zéro.wav",
@@ -3916,15 +3484,11 @@
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-moitié.wav",
   "speaker": "LoquaxFR"
  },
- "douzaine de": null,
  "beaucoup de": {
   "file": "beaucoup-de.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-DenisdeShawi-beaucoup_de.wav",
   "speaker": "DenisdeShawi"
  },
- "peu de": null,
- "assez de": null,
- "trop de": null,
  "plusieurs": {
   "file": "plusieurs.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-DenisdeShawi-plusieurs.wav",
@@ -3960,17 +3524,11 @@
   "source": "https://commons.wikimedia.org/wiki/File:Fr-loisirs.ogg",
   "speaker": "Wiktionary"
  },
- "temps libre": null,
  "sport": {
   "file": "sport.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-sport.wav",
   "speaker": "LoquaxFR"
  },
- "faire du sport": null,
- "jouer au football": null,
- "jouer au tennis": null,
- "jouer du piano": null,
- "jouer de la guitare": null,
  "natation": {
   "file": "natation.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-natation.wav",
@@ -4106,7 +3664,6 @@
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-jeu_vidéo.wav",
   "speaker": "Lepticed7"
  },
- "jeux de société": null,
  "jardinage": {
   "file": "jardinage.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-jardinage.wav",
@@ -4117,7 +3674,6 @@
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lyokoï-s’amuser.wav",
   "speaker": "Lyokoï"
  },
- "s’intéresser à": null,
  "club": {
   "file": "club.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-club.wav",
@@ -4223,7 +3779,6 @@
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-cœur.wav",
   "speaker": "Lepticed7"
  },
- "avoir mal à": null,
  "malade": {
   "file": "malade.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-malade.wav",
@@ -4254,7 +3809,6 @@
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-tousser.wav",
   "speaker": "LoquaxFR"
  },
- "en forme": null,
  "se sentir": {
   "file": "se-sentir.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lyokoï-se_sentir.wav",
@@ -4325,8 +3879,6 @@
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-guérir.wav",
   "speaker": "Lepticed7"
  },
- "se soigner": null,
- "Bon rétablissement": null,
  "emploi": {
   "file": "emploi.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-emploi.wav",
@@ -4392,7 +3944,6 @@
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-DenisdeShawi-annonce.wav",
   "speaker": "DenisdeShawi"
  },
- "chercher un emploi": null,
  "chômage": {
   "file": "chomage.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-chômage.wav",
@@ -4468,11 +4019,6 @@
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Sartus85-employé.wav",
   "speaker": "Sartus85"
  },
- "employée": {
-  "file": "employee.mp3",
-  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-employée.wav",
-  "speaker": "WikiLucas00"
- },
  "secrétaire": {
   "file": "secretaire.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-secrétaire.wav",
@@ -4543,8 +4089,6 @@
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-étudiante.wav",
   "speaker": "Lepticed7"
  },
- "élève (m": null,
- "f)": null,
  "classe": {
   "file": "classe.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-classe.wav",
@@ -4725,11 +4269,6 @@
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-VictorDtmtc-occupé.wav",
   "speaker": "VictorDtmtc"
  },
- "occupée": {
-  "file": "occupee.mp3",
-  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lyokoï-occupée.wav",
-  "speaker": "Lyokoï"
- },
  "ordinateur": {
   "file": "ordinateur.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-ordinateur.wav",
@@ -4785,7 +4324,6 @@
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-enveloppe.wav",
   "speaker": "Lepticed7"
  },
- "réseaux sociaux": null,
  "télécharger": {
   "file": "telecharger.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-télécharger.wav",
@@ -4871,11 +4409,6 @@
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Sartus85-invité.wav",
   "speaker": "Sartus85"
  },
- "invitée": {
-  "file": "invitee.mp3",
-  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Roptat-invitée.wav",
-  "speaker": "Roptat"
- },
  "fêter": {
   "file": "feter.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-fêter.wav",
@@ -4901,7 +4434,6 @@
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-Noël.wav",
   "speaker": "LoquaxFR"
  },
- "jour de l’An": null,
  "réveillon": {
   "file": "reveillon.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Pamputt-réveillon.wav",
@@ -4932,7 +4464,6 @@
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-festival.wav",
   "speaker": "Poslovitch"
  },
- "gâteau d’anniversaire": null,
  "bougie": {
   "file": "bougie.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-bougie.wav",
@@ -4948,7 +4479,6 @@
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-bonne_fête.wav",
   "speaker": "LoquaxFR"
  },
- "fête des Mères": null,
  "Santé": {
   "file": "sante.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-Santé.wav",
@@ -4989,12 +4519,6 @@
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-fâché.wav",
   "speaker": "Poslovitch"
  },
- "fâchée": null,
- "en colère": {
-  "file": "en-colere.mp3",
-  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-colère.wav",
-  "speaker": "LoquaxFR"
- },
  "inquiet": {
   "file": "inquiet.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:Fr-inquiet.ogg",
@@ -5010,16 +4534,10 @@
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Le_Commissaire-stressé.wav",
   "speaker": "Le Commissaire"
  },
- "stressée": null,
  "déçu": {
   "file": "decu.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-déçu.wav",
   "speaker": "Poslovitch"
- },
- "déçue": {
-  "file": "decue.mp3",
-  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-DenisdeShawi-déçue.wav",
-  "speaker": "DenisdeShawi"
  },
  "surpris": {
   "file": "surpris.mp3",
@@ -5030,11 +4548,6 @@
   "file": "fier.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-fier.wav",
   "speaker": "Lepticed7"
- },
- "fière": {
-  "file": "fiere.mp3",
-  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Julien_Baley-fière.wav",
-  "speaker": "Julien Baley"
  },
  "amoureux": {
   "file": "amoureux.mp3",
@@ -5094,11 +4607,6 @@
  "génial": {
   "file": "genial.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-génial.wav",
-  "speaker": "Poslovitch"
- },
- "géniale": {
-  "file": "geniale.mp3",
-  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-géniale.wav",
   "speaker": "Poslovitch"
  },
  "intéressant": {
@@ -5310,5 +4818,410 @@
   "file": "recevoir.mp3",
   "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Pamputt-recevoir.wav",
   "speaker": "Pamputt"
+ },
+ "Ça va bien, merci": null,
+ "Et vous": {
+  "file": "et-vous.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-XANA000-et_vous_?.wav",
+  "speaker": "XANA000"
+ },
+ "Bon week-end": null,
+ "Amuse-toi bien": null,
+ "Merci pour tout": null,
+ "Je vous remercie": null,
+ "C’est très gentil": null,
+ "Je voudrais": null,
+ "Est-ce que je pourrais": null,
+ "Pourriez-vous": null,
+ "Après vous": null,
+ "Servez-vous": null,
+ "Je m’appelle": {
+  "file": "je-mappelle.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-XANA000-je_m’appelle.wav",
+  "speaker": "XANA000"
+ },
+ "J’ai ans": null,
+ "Je suis anglais": null,
+ "Je viens de": null,
+ "J’habite à": {
+  "file": "jhabite-a.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-XANA000-j’habite_à.wav",
+  "speaker": "XANA000"
+ },
+ "Je travaille comme": null,
+ "Je suis marié et j’ai enfants": null,
+ "J’apprends le français depuis": null,
+ "J’aime n’aime pas": null,
+ "Je vous présente": null,
+ "Je te présente": null,
+ "Vous vous appelez comment": null,
+ "Tu t’appelles comment": null,
+ "Vous êtes d’où": null,
+ "Vous parlez anglais": null,
+ "On se tutoie": null,
+ "Ravi de vous rencontrer": null,
+ "C’est combien": null,
+ "Où est": null,
+ "Quand est-ce que": null,
+ "Combien de": null,
+ "Est-ce que vous pouvez m’aider": null,
+ "Je cherche": null,
+ "Vous avez": null,
+ "C’est ouvert le dimanche": null,
+ "Ça dure combien de temps": null,
+ "Je voudrais savoir": null,
+ "Pouvez-vous me dire": null,
+ "Je ne comprends pas": null,
+ "Pouvez-vous répéter, s’il vous plaît": null,
+ "Plus lentement, s’il vous plaît": null,
+ "Qu’est-ce que ça veut dire": null,
+ "Comment on dit en français": null,
+ "Comment ça s’écrit": null,
+ "Vous pouvez épeler": null,
+ "Je ne sais pas": null,
+ "Je ne suis pas sûr": null,
+ "J’ai compris": null,
+ "Vous voulez dire que": null,
+ "Je cherche le mot": null,
+ "C’est un truc pour": null,
+ "Tu es libre samedi": null,
+ "Ça te dit de": null,
+ "Tu veux venir": null,
+ "Je t’invite à": null,
+ "J’aimerais vous inviter à": null,
+ "On pourrait": null,
+ "Et si on allait": null,
+ "Je te propose de": null,
+ "Ça te tente": null,
+ "On se retrouve où": null,
+ "On se retrouve à quelle heure": null,
+ "Rendez-vous à devant": null,
+ "N’hésite pas à venir avec": null,
+ "Dis-moi si tu peux venir": null,
+ "Réponds-moi avant": null,
+ "Oui, avec plaisir": null,
+ "Bonne idée": null,
+ "Je veux bien": null,
+ "C’est une excellente idée": null,
+ "Je viendrai avec plaisir": null,
+ "Malheureusement, je ne suis pas libre": null,
+ "C’est dommage": null,
+ "Une autre fois, peut-être": null,
+ "J’ai déjà quelque chose de prévu": null,
+ "Je dois travailler": null,
+ "Ça ne me dit rien": null,
+ "Je n’ai pas le temps": null,
+ "Je ne sais pas encore": null,
+ "J’adore": null,
+ "J’aime beaucoup": null,
+ "J’aime bien": null,
+ "Je n’aime pas beaucoup": null,
+ "Je n’aime pas du tout": null,
+ "Je déteste": null,
+ "Je préfère": null,
+ "Ce que je préfère, c’est": null,
+ "Mon préféré, c’est": null,
+ "Je suis passionné de": null,
+ "Ça me plaît": null,
+ "Ça ne me plaît pas": null,
+ "Je trouve ça": null,
+ "Moi aussi": null,
+ "Moi non plus": null,
+ "Moi, si": null,
+ "Ça dépend": null,
+ "Je pense que": null,
+ "Je crois que": null,
+ "Je trouve que": null,
+ "Pour moi": null,
+ "Selon moi": null,
+ "Je suis d’accord": null,
+ "Je ne suis pas d’accord": null,
+ "Je suis tout à fait d’accord": null,
+ "Tu as tort": null,
+ "C’est vrai": null,
+ "Ce n’est pas vrai": null,
+ "Pas du tout": null,
+ "L’avantage, c’est que": null,
+ "L’inconvénient, c’est que": null,
+ "D’un côté de l’autre": null,
+ "Il faut": null,
+ "C’est mieux de": null,
+ "Je suis content que": null,
+ "Je suis ravi de": null,
+ "Quelle bonne nouvelle": null,
+ "Quelle chance": null,
+ "Ça me fait plaisir": null,
+ "J’ai hâte de": null,
+ "Quel dommage": null,
+ "Je suis désolé pour": null,
+ "J’en ai marre": null,
+ "Ça m’énerve": null,
+ "Je m’inquiète pour": null,
+ "Ne t’inquiète pas": null,
+ "Quelle surprise": null,
+ "C’est incroyable": null,
+ "Je suis désolé": null,
+ "Excusez-moi pour": null,
+ "C’est de ma faute": null,
+ "Je n’ai pas pu": null,
+ "J’ai oublié": null,
+ "Ne vous inquiétez pas": null,
+ "Je ne recommencerai pas": null,
+ "Je vous prie de m’excuser": null,
+ "C’est à l’appareil": null,
+ "Qui est à l’appareil": null,
+ "Je voudrais parler à": null,
+ "Ne quittez pas": null,
+ "Je vous le passe": null,
+ "Il n’est pas là": null,
+ "Vous voulez laisser un message": null,
+ "Pouvez-vous lui dire de me rappeler": null,
+ "Je rappellerai plus tard": null,
+ "Vous vous êtes trompé de numéro": null,
+ "Je t’entends mal": null,
+ "Ça a coupé": null,
+ "Je t’appelle pour": null,
+ "Je vous appelle au sujet de": null,
+ "Bonne journée, au revoir": null,
+ "Cher Paul": null,
+ "Salut tout le monde": null,
+ "Je t’écris pour": null,
+ "Je vous écris pour": null,
+ "J’espère que tu vas bien": null,
+ "Merci pour ton message": null,
+ "J’ai bien reçu": null,
+ "Je te raconte": null,
+ "Je voudrais savoir si": null,
+ "Pourriez-vous m’envoyer": null,
+ "Je te remercie pour": null,
+ "Réponds-moi vite": null,
+ "Dans l’attente de votre réponse": null,
+ "Bises bises": null,
+ "Je t’embrasse": null,
+ "P.-S": null,
+ "l’objet": null,
+ "la pièce jointe": null,
+ "Je peux vous aider": null,
+ "Je regarde, merci": null,
+ "Vous l’avez en": null,
+ "Je peux l’essayer": null,
+ "Ça me va": null,
+ "C’est trop grand petit": null,
+ "Combien ça coûte": null,
+ "Je le prends": null,
+ "C’est un peu cher": null,
+ "Vous avez moins cher": null,
+ "Je peux payer par carte": null,
+ "C’est tout, merci": null,
+ "Vous pouvez faire un paquet-cadeau": null,
+ "Je voudrais échanger cet article": null,
+ "Il est abîmé": null,
+ "J’ai réservé au nom de": null,
+ "Vous avez choisi": null,
+ "Je vais prendre": null,
+ "Comme entrée": null,
+ "Qu’est-ce que vous me conseillez": null,
+ "Qu’est-ce qu’il y a dans": null,
+ "Je suis allergique à": null,
+ "Je ne mange pas de": null,
+ "Et comme boisson": null,
+ "Une carafe d’eau, s’il vous plaît": null,
+ "C’était délicieux": null,
+ "Tout s’est bien passé": null,
+ "Le service est compris": null,
+ "On partage": null,
+ "C’est moi qui invite": null,
+ "Un café, s’il vous plaît": null,
+ "Pour aller à, s’il vous plaît": null,
+ "C’est loin d’ici": null,
+ "C’est à combien de minutes": null,
+ "C’est à minutes à pied": null,
+ "Allez tout droit": null,
+ "Tournez à droite gauche": null,
+ "Prenez la première rue à droite": null,
+ "Traversez": null,
+ "Continuez jusqu’à": null,
+ "C’est sur votre droite": null,
+ "Vous ne pouvez pas le rater": null,
+ "Je suis perdu": null,
+ "Il faut prendre le bus numéro": null,
+ "Je ne suis pas d’ici": null,
+ "Je voudrais réserver": null,
+ "Vous avez une chambre libre": null,
+ "C’est complet": null,
+ "pour deux personnes": null,
+ "du au": null,
+ "Le petit-déjeuner est compris": null,
+ "C’est combien la nuit": null,
+ "Il y a le wifi": null,
+ "J’ai une réservation au nom de": null,
+ "Je voudrais annuler ma réservation": null,
+ "Je voudrais confirmer": null,
+ "La douche ne marche pas": null,
+ "avec vue sur la mer": null,
+ "Je voudrais prendre rendez-vous": null,
+ "Qu’est-ce qui ne va pas": null,
+ "Ça fait mal ici": null,
+ "Depuis quand": null,
+ "Depuis jours": null,
+ "Je ne me sens pas bien": null,
+ "J’ai de la fièvre": null,
+ "Je suis enrhumé": null,
+ "Je prends des médicaments": null,
+ "Il faut vous reposer": null,
+ "Prenez ce médicament fois par jour": null,
+ "Appelez le 15! 112": null,
+ "Le week-end dernier": null,
+ "Il y a deux ans": null,
+ "Quand j’étais petit": null,
+ "Avant, je": null,
+ "Pendant les vacances": null,
+ "Il faisait beau": null,
+ "Je suis allé": null,
+ "J’ai passé un très bon séjour": null,
+ "On s’est bien amusés": null,
+ "Ça s’est bien passé": null,
+ "Je vais": null,
+ "J’ai l’intention de": null,
+ "J’ai envie de": null,
+ "Je compte": null,
+ "J’espère": null,
+ "Mon projet, c’est de": null,
+ "L’année prochaine": null,
+ "Dans ans": null,
+ "Je suis sur le point de": null,
+ "Si j’ai le temps": null,
+ "S’il fait beau": null,
+ "Tu devrais": null,
+ "Vous devriez": null,
+ "Je te conseille de": null,
+ "À ta place, je": null,
+ "N’oublie pas de": null,
+ "Fais attention": null,
+ "Pourquoi tu ne pas": null,
+ "Je ne suis pas satisfait": null,
+ "Il y a un problème avec": null,
+ "Ce n’est pas normal": null,
+ "Je voudrais être remboursé": null,
+ "Je voudrais parler au responsable": null,
+ "Ça ne marche pas": null,
+ "en plus": {
+  "file": "en-plus.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:Fr-en_plus.oga",
+  "speaker": "Wiktionary"
+ },
+ "avoir envie de": null,
+ "avoir l’habitude de": null,
+ "avoir le temps de": null,
+ "faire une promenade": null,
+ "C’est pas grave": null,
+ "N’importe quoi": null,
+ "Tu plaisantes": null,
+ "Ça vaut le coup": null,
+ "J’en ai besoin": null,
+ "J’y vais": null,
+ "On y va": null,
+ "Ça se voit": null,
+ "Quelle heure est-il": null,
+ "Lisez le document": null,
+ "Écoutez le document": null,
+ "Répondez aux questions": null,
+ "Cochez la bonne réponse": null,
+ "Vrai ou faux": null,
+ "Justifiez votre réponse": null,
+ "Recopiez": null,
+ "Rédigez": null,
+ "60 mots minimum": null,
+ "Associez": null,
+ "Vous acceptez l’invitation": null,
+ "Vous donnez des détails": null,
+ "Vous exprimez vos sentiments": null,
+ "Jouez la scène": null,
+ "l’examinateur": null,
+ "le monologue suivi": null,
+ "l’exercice en interaction": null,
+ "l’entretien dirigé": null,
+ "Présentez-vous": null,
+ "ville natale": null,
+ "s’entendre bien": null,
+ "ressembler à": {
+  "file": "ressembler-a.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Poslovitch-ressembler_à.wav",
+  "speaker": "Poslovitch"
+ },
+ "se brosser les dents": null,
+ "prendre le petit-déjeuner": null,
+ "à emporter": null,
+ "sur place": null,
+ "soldes": null,
+ "en espèces": null,
+ "kilo de": null,
+ "bouteille de": null,
+ "paquet de": null,
+ "boîte de": null,
+ "morceau de": null,
+ "tranche de": null,
+ "au coin de": null,
+ "transports en commun": null,
+ "partir en vacances": null,
+ "rendre visite à": null,
+ "prendre des photos": null,
+ "visite guidée": null,
+ "il fait beau": null,
+ "il fait mauvais": null,
+ "il fait chaud": null,
+ "il fait froid": null,
+ "il fait doux": null,
+ "il neige": null,
+ "il y a du vent": null,
+ "il y a du soleil": null,
+ "il y a des nuages": null,
+ "nuageuse": null,
+ "et quart": null,
+ "et demie": null,
+ "moins le quart": null,
+ "semaine dernière": null,
+ "semaine prochaine": null,
+ "tous les jours": null,
+ "fois par semaine": null,
+ "douzaine de": null,
+ "peu de": null,
+ "assez de": null,
+ "trop de": null,
+ "temps libre": null,
+ "faire du sport": null,
+ "jouer au football": null,
+ "jouer au tennis": null,
+ "jouer du piano": null,
+ "jouer de la guitare": null,
+ "jeux de société": null,
+ "s’intéresser à": null,
+ "avoir mal à": null,
+ "en forme": null,
+ "se soigner": null,
+ "Bon rétablissement": null,
+ "chercher un emploi": null,
+ "réseaux sociaux": null,
+ "jour de l’An": null,
+ "gâteau d’anniversaire": null,
+ "fête des Mères": {
+  "file": "fete-des-meres.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-fête_des_Mères.wav",
+  "speaker": "LoquaxFR"
+ },
+ "en colère": {
+  "file": "en-colere.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lyokoï-en_colère.wav",
+  "speaker": "Lyokoï"
+ },
+ "enfant": {
+  "file": "enfant.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-Lepticed7-enfant.wav",
+  "speaker": "Lepticed7"
+ },
+ "élève": {
+  "file": "eleve.mp3",
+  "source": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-élève.wav",
+  "speaker": "WikiLucas00"
  }
 }

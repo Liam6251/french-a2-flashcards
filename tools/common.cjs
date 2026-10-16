@@ -33,21 +33,24 @@ const ARTICLE = /^(le|la|les|un|une|des|du) |^l['’]/i;
 
 // Expressions: "A / B" means two full alternatives only if both have 2+ words; otherwise "Il / Elle n'est pas là" -> "Il n'est pas là".
 function exprText(fr) {
-  const parts = fr.split(/\s*\/\s*/);
+  const parts = fr.split(/\s+\/\s+/);
   if (parts.length > 1 && parts.every(p => /^[A-ZÀ-Ý]/.test(p) && clean(p).split(" ").length >= 2)) return clean(parts[0]);
-  return clean(fr.replace(/\s*\/\s*[^\s/]+/g, ""));
+  return clean(fr.replace(/\s+\/\s+[^\s/]+/g, ""));
 }
 
 // Wiktionary titles to look up for a card's word recording(s). One entry per spoken form.
+// Feminine forms that sound exactly like the masculine (sucré/sucrée, bleu/bleue, cher/chère) don't need their own recording.
+const sameSound = (m, f) => (f === m + "e" && /([éiuyl]|eu)$/.test(m)) || (m === "cher" && f === "chère") || (m === "fier" && f === "fière");
 function wordKeys(item) {
-  const forms = item.kind === "vocab" ? item.fr.split(/\s*\/\s*/).map(p => clean(p).replace(ARTICLE, "")) : [exprText(item.fr)];
+  let forms = item.kind === "vocab" ? item.fr.split(/\s+\/\s+/).map(p => clean(p).replace(ARTICLE, "")) : [exprText(item.fr)];
+  forms = forms.filter((f, i) => !(i > 0 && sameSound(forms[i - 1], f)));
   return forms.filter(k => k && k.split(" ").length <= 6).map(k => k.replace(/'/g, "’"));
 }
 
 // Text to search Tatoeba for a native sentence.
 function sentenceQuery(item) {
   if (item.kind === "vocab") {
-    const first = clean(item.fr.split(/\s*\/\s*/)[0]), w = first.replace(ARTICLE, "");
+    const first = clean(item.fr.split(/\s+\/\s+/)[0]), w = first.replace(ARTICLE, "");
     return { q: w.includes(" ") ? `"${w}"` : `=${w}`, prefer: first.toLowerCase(), min: 3, max: 10 };
   }
   const t = exprText(item.fr).replace(/"/g, "");
