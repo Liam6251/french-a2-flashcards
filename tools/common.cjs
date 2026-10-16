@@ -57,6 +57,19 @@ function sentenceQuery(item) {
   return { q: `"${t}"`, prefer: t.toLowerCase(), min: 1, max: 12 };
 }
 
+// What the neural voice says for a card: drop grammar notes, read "…" placeholders as a pause, "A / B" as "A, B",
+// and a one-word alternative as "ou": "Il / Elle n'est pas là." -> "Il ou elle n'est pas là."
+function speakText(fr) {
+  const parts = fr.split(/\s+\/\s+/).map(p => p.replace(/\(e\)s?/g, "").replace(/\((m|f|m pl|f pl|m\/f|loc\.)\)/g, "")
+    .replace(/\+ ?infinitif/g, "").replace(/\s*…\s*/g, " ... ").replace(/\s+/g, " ").trim()
+    .replace(/^\.\.\.\s*|\s*\.\.\.$/g, "").replace(/\s*\.\.\.\s*,/g, "...,").replace(/[\s,]+$/, "")).filter(Boolean);
+  for (let i = parts.length - 2; i >= 0; i--)
+    if (!/\s/.test(parts[i]) && /\s/.test(parts[i + 1])) parts.splice(i, 2, parts[i] + " ou " + parts[i + 1][0].toLowerCase() + parts[i + 1].slice(1));
+  // "Comment ? / Pardon ?" are two separate sentences: keep their punctuation
+  if (parts.length > 1 && parts.every(p => /[!?.]$/.test(p))) return parts.join(" ");
+  return parts.map((p, i) => i < parts.length - 1 ? p.replace(/\s*[!?.]+$/, "") : p).join(", ");
+}
+
 async function get(url, tries = 8) {
   for (let a = 0; a < tries; a++) {
     try {
@@ -71,4 +84,4 @@ async function get(url, tries = 8) {
 const readJSON = (f, d) => { try { return JSON.parse(fs.readFileSync(f, "utf8")); } catch (e) { return d; } };
 const writeJSON = (f, v) => fs.writeFileSync(f, JSON.stringify(v, null, 1));
 
-module.exports = { ROOT, UA, sleep, slug, loadThemes, allItems, wordKeys, sentenceQuery, exprText, get, readJSON, writeJSON };
+module.exports = { ROOT, UA, sleep, slug, loadThemes, allItems, wordKeys, sentenceQuery, exprText, speakText, get, readJSON, writeJSON };

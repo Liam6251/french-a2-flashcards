@@ -1,4 +1,5 @@
 /* Mots A2: DELF French flashcards. Data comes from data/*.js (THEMES) and verbs.js (VERBS). */
+const VERSION = "2026-10-16";   // bump when data or audio change, so browsers fetch the new files
 const $ = id => document.getElementById(id);
 const esc = s => String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const store = {
@@ -46,7 +47,7 @@ const save = () => store.set("settings", S);
 
 /* ---------- audio ---------- */
 let AUDIO = {};   // key -> {w:[files], by:[speakers], s:{f,t,e,by,lic,src}}
-fetch("audio/index.json").then(r => r.json()).then(j => { AUDIO = j; if (!$("view-study").hidden) renderCard(); }).catch(() => {});
+fetch("audio/index.json?v=" + VERSION).then(r => r.json()).then(j => { AUDIO = j; if (!$("view-study").hidden) renderCard(); }).catch(() => {});
 const player = new Audio();
 let playingBtn = null;
 function setPlaying(btn){ if (playingBtn) playingBtn.classList.remove("playing"); playingBtn = btn; if (btn) btn.classList.add("playing"); }
@@ -91,8 +92,10 @@ function playFiles(parts, btn, fallbackText){
   next();
 }
 function playCard(c, btn){ const a = AUDIO[c.key]; a?.w?.length ? playFiles(a.w, btn, c.fr) : tts(c.fr, btn); }
+// Any French text: the pre-generated neural clip if there is one, otherwise the device voice.
+function say(text, btn){ const f = AUDIO.__x?.[text.trim()] || AUDIO.__v?.[text.trim()]; f ? playFiles([f], btn, text) : tts(text, btn); }
 function playNative(c, btn){ const s = AUDIO[c.key]?.s; if (s) playFiles([s.f], btn, s.t); }
-function preload(c){ const a = c && AUDIO[c.key]; if (!a) return; [...(a.w || []), ...(a.s ? [a.s.f] : [])].filter(f => typeof f === "string").forEach(f => { const x = new Audio(); x.preload = "auto"; x.src = "audio/" + f; }); }
+function preload(c){ const a = c && AUDIO[c.key]; if (!c) return; [...(a?.w || []), ...(a?.s ? [a.s.f] : []), AUDIO.__x?.[c.exF.trim()]].filter(Boolean).filter(f => typeof f === "string").forEach(f => { const x = new Audio(); x.preload = "auto"; x.src = "audio/" + f; }); }
 function populateVoices(){
   const vs = frVoices(), best = bestVoice();
   $("voice").innerHTML = vs.length ? vs.map(v => `<option ${v.name === (S.voice || best?.name) ? "selected" : ""}>${esc(v.name)}</option>`).join("") : `<option>No French voice on this device</option>`;
@@ -210,7 +213,7 @@ function renderCard(anim){
   if (s) { $("natFr").textContent = s.t; $("natEn").textContent = s.e; $("natBy").innerHTML = `${esc(s.by)} · <a href="${esc(s.src)}" target="_blank" rel="noopener">${esc(s.lic)}</a>`; }
   $("star").classList.toggle("on", !!stars[c.id]);
   $("playF").hidden = !frFront;
-  $("fSrc").textContent = frFront ? (a?.w?.length ? "🎙 " + a.by.join(" · ") : "🔈 device voice") : "";
+  $("fSrc").textContent = frFront ? (a?.n ? "🔊 neural voice (Denise)" : a?.w?.length ? "🎙 " + a.by.join(" · ") : "🔈 device voice") : "";
   $("conjLink").hidden = !findVerb(c.fr);
   if (anim) { const sc = $("scene"); sc.classList.remove("in"); void sc.offsetWidth; sc.classList.add("in"); }
   if (S.auto && frFront) playCard(c, $("playF"));
@@ -255,7 +258,7 @@ $("scene").addEventListener("click", e => { if (e.target.closest("button,a")) re
 $("prev").onclick = () => go(-1); $("next").onclick = () => go(1);
 $("again").onclick = () => mark(false); $("know").onclick = () => mark(true);
 $("playF").onclick = $("playB").onclick = e => playCard(deck[i], e.currentTarget);
-$("playEx").onclick = e => tts(deck[i].exF, e.currentTarget);
+$("playEx").onclick = e => say(deck[i].exF, e.currentTarget);
 $("playNat").onclick = e => playNative(deck[i], e.currentTarget);
 $("star").onclick = () => { const c = deck[i]; stars[c.id] = stars[c.id] ? 0 : 1; if (!stars[c.id]) delete stars[c.id]; saveProg(); $("star").classList.toggle("on", !!stars[c.id]); };
 $("conjLink").onclick = () => { showView("verbs"); selectVerb(findVerb(deck[i].fr).v); };
@@ -301,12 +304,12 @@ function renderConj(){
     <div class="tables">${TENSES.map(([k, name, hint]) => `<div class="tense"><h4>${name} <span>${hint}</span></h4>${rows(C[k])}</div>`).join("")}</div>
     ${v.note || VERB_NOTES[v.v] ? `<div class="note"><b>Note:</b> ${esc(v.note || VERB_NOTES[v.v])}</div>` : ""}
     ${card ? `<div class="ex" style="max-width:none;margin-top:14px"><button class="play sm" id="cEx" aria-label="Listen to example"><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg><span class="eq"><i></i><i></i><i></i></span></button><div><span class="lbl">Example</span><p>${esc(card.exF)}</p><small>${esc(card.exE)}</small></div></div>` : ""}`;
-  $("cPlay").onclick = e => { const k = slug(v.v), a = AUDIO[k] || AUDIO[slug(v.v.replace(/^(se |s')/, ""))]; a?.w?.length && !/^(se |s')/.test(v.v) ? playFiles(a.w, e.currentTarget, v.v) : tts(v.v, e.currentTarget); };
-  if (card) $("cEx").onclick = e => tts(card.exF, e.currentTarget);
+  $("cPlay").onclick = e => { const k = slug(v.v), a = AUDIO[k] || AUDIO[slug(v.v.replace(/^(se |s')/, ""))]; a?.w?.length && !/^(se |s')/.test(v.v) ? playFiles(a.w, e.currentTarget, v.v) : say(v.v, e.currentTarget); };
+  if (card) $("cEx").onclick = e => say(card.exF, e.currentTarget);
 }
 $("verbGroups").onclick = e => { const b = e.target.closest("[data-verb]"); if (b) selectVerb(b.dataset.verb); };
 $("vSearch").oninput = renderVerbChips;
-$("conjCard").addEventListener("click", e => { const r = e.target.closest("[data-say]"); if (r) tts(r.dataset.say, null); });
+$("conjCard").addEventListener("click", e => { const r = e.target.closest("[data-say]"); if (r) say(r.dataset.say, null); });
 
 // conjugation practice
 let vq = null, vqStreak = 0, vqTenses = store.get("vqTenses", ["present", "imparfait", "passe", "futur"]);
@@ -333,7 +336,7 @@ function checkVq(){
   vqStreak = ok ? vqStreak + 1 : 0;
   $("vqFb").innerHTML = ok ? `✓ Correct! <b>${esc(vq.shown)}</b>` : nearly ? `≈ Almost, check the accents: <b>${esc(vq.shown)}</b>` : `✗ Answer: <b>${esc(vq.shown)}</b>`;
   $("vqFb").style.color = ok ? "var(--good)" : nearly ? "var(--warn)" : "var(--bad)";
-  tts(vq.answer, null); vq.done = true;
+  say(vq.answer, null); vq.done = true;
   $("vqStreak").textContent = vqStreak ? `🔥 ${vqStreak} in a row` : "";
 }
 $("vqCheck").onclick = () => vq?.done ? newVq() : checkVq();
@@ -366,7 +369,7 @@ function renderDelf(){
     <div class="seg">${p.decks.filter(d => THEME[d]).map(d => `<button class="chip" data-deck="${d}">${THEME[d].icon} ${esc(THEME[d].name)}</button>`).join("")}</div></div>`).join("");
   $("models").innerHTML = MODELS.map((m, k) => `<div class="model"><h4><button class="play sm" data-model="${k}" aria-label="Listen"><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg><span class="eq"><i></i><i></i><i></i></span></button>${m.t}</h4><p>${esc(m.fr)}</p><p class="tr">${esc(m.en)}</p></div>`).join("");
 }
-$("models").onclick = e => { const b = e.target.closest("[data-model]"); if (b) tts(MODELS[+b.dataset.model].fr.replace(/—/g, ""), b); };
+$("models").onclick = e => { const b = e.target.closest("[data-model]"); if (!b) return; const clips = AUDIO.__m?.[+b.dataset.model]; clips?.length ? playFiles(clips, b) : tts(MODELS[+b.dataset.model].fr.replace(/—/g, ""), b); };
 
 /* ---------- search ---------- */
 let listLimit = 150;

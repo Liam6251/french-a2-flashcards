@@ -1,0 +1,8 @@
+{
+  "name": "french-a2-flashcards",
+  "private": true,
+  "description": "Build tools for the flashcards site (the site itself has no dependencies)",
+  "devDependencies": {
+    "msedge-tts": "^2.1.0"
+  }
+}

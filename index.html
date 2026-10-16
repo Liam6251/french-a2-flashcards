@@ -439,7 +439,7 @@ footer a{color:var(--muted)}
   <button class="btn more" id="more" hidden>Show more</button>
 </section>
 
-<footer>Word recordings: <a href="https://lingualibre.org" target="_blank" rel="noopener">Lingua Libre</a> / Wikimedia Commons (CC BY-SA). Sentence recordings: <a href="https://tatoeba.org" target="_blank" rel="noopener">Tatoeba</a> contributors (each card shows the speaker and licence). Full list: <a href="audio/words.json" target="_blank">words</a> · <a href="audio/sentences.json" target="_blank">sentences</a>.</footer>
+<footer>Word recordings: <a href="https://lingualibre.org" target="_blank" rel="noopener">Lingua Libre</a> / Wikimedia Commons (CC BY-SA). Sentence recordings: <a href="https://tatoeba.org" target="_blank" rel="noopener">Tatoeba</a> contributors (each card shows the speaker and licence). Everything else: Microsoft neural voices (Denise, Henri), generated text-to-speech. Full list: <a href="audio/words.json" target="_blank">words</a> · <a href="audio/sentences.json" target="_blank">sentences</a>.</footer>
 </main>
 
 <!-- ============ SETTINGS ============ -->
@@ -450,20 +450,20 @@ footer a{color:var(--muted)}
   <div class="opt"><label>New cards per session</label><div class="seg"><button class="chip" data-new="10">10</button><button class="chip" data-new="20">20</button><button class="chip" data-new="40">40</button><button class="chip" data-new="9999">All</button></div><small>Smart mode shows the cards due for review first, then this many new ones.</small></div>
   <div class="opt"><label>Auto-play pronunciation</label><div class="seg"><button class="chip" data-auto="1">On</button><button class="chip" data-auto="0">Off</button></div><small>Plays the word when a card appears.</small></div>
   <div class="opt"><label>Audio speed</label><div class="seg"><button class="chip" data-rate="1">Normal</button><button class="chip" data-rate="0.75">Slow 🐢</button></div></div>
-  <div class="opt"><label for="voice">Backup voice</label><select id="voice"></select><small>Real recordings are used whenever one exists. For everything else, your device's French voice reads the text. On Windows/Edge, pick a voice with "Natural" in its name.</small></div>
+  <div class="opt"><label for="voice">Backup voice</label><select id="voice"></select><small>Native recordings play whenever one exists, and a neural voice (Denise) covers the rest. Your device's voice is only used if a clip can't load, e.g. offline.</small></div>
   <div class="opt"><label>Theme</label><div class="seg"><button class="chip" data-theme="auto">Auto</button><button class="chip" data-theme="dark">Dark</button><button class="chip" data-theme="light">Light</button></div></div>
   <div class="opt"><button class="btn" id="exportBtn" style="width:100%">⬇ Back up my progress</button><small>Saves a small file you can load on another device.</small><button class="btn" id="importBtn" style="width:100%;margin-top:8px">⬆ Load a backup</button><input type="file" id="importFile" accept="application/json" hidden></div>
   <div class="opt"><button class="btn danger" id="reset" style="width:100%">↺ Reset all progress</button></div>
 </aside>
 <div class="toast" id="toast"></div>
 
-<script src="data/top100.js"></script>
-<script src="data/vocab1.js"></script>
-<script src="data/vocab2.js"></script>
-<script src="data/vocab3.js"></script>
-<script src="data/expressions1.js"></script>
-<script src="data/expressions2.js"></script>
-<script src="verbs.js"></script>
-<script src="app.js"></script>
+<script src="data/top100.js?v=2026-10-16"></script>
+<script src="data/vocab1.js?v=2026-10-16"></script>
+<script src="data/vocab2.js?v=2026-10-16"></script>
+<script src="data/vocab3.js?v=2026-10-16"></script>
+<script src="data/expressions1.js?v=2026-10-16"></script>
+<script src="data/expressions2.js?v=2026-10-16"></script>
+<script src="verbs.js?v=2026-10-16"></script>
+<script src="app.js?v=2026-10-16"></script>
 </body>
 </html>
